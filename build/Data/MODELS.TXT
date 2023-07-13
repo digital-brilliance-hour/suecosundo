@@ -62,3 +62,5 @@ know	Steamer		data/chars/misc/steamer.txt
 know	Furnace		data/chars/misc/furnace.txt
 know	Crab		data/chars/crab/crab.txt
 know	Lobster		data/chars/Lobster/Lobster.txt
+Load titleanimation Data/CHARS/misc/titleanimation/titleanimation.txt
+Load titlesprite Data/CHARS/misc/titlesprite/titlesprite.txt
