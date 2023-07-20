@@ -1,0 +1,3899 @@
+name Byakuya
+type enemy
+
+ offset 16 54
+ frame data/chars/Byakuya/0.gif
+ offset 20 54
+ frame data/chars/Byakuya/1.gif
+ offset 23 54
+ frame data/chars/Byakuya/2.gif
+ offset 21 54
+ frame data/chars/Byakuya/3.gif
+
+anim 0010
+ delay 7
+ offset 19 41
+ frame data/chars/Byakuya/4.gif
+ offset 23 39
+ frame data/chars/Byakuya/5.gif
+ offset 19 41
+ frame data/chars/Byakuya/6.gif
+
+anim walk
+ delay 7
+ offset 15 50
+ frame data/chars/Byakuya/7.gif
+ offset 13 49
+ frame data/chars/Byakuya/8.gif
+ offset 14 48
+ frame data/chars/Byakuya/9.gif
+ offset 15 50
+ frame data/chars/Byakuya/10.gif
+ offset 14 49
+ frame data/chars/Byakuya/11.gif
+ offset 13 48
+ frame data/chars/Byakuya/12.gif
+
+anim 0040
+ delay 7
+ offset 15 54
+ frame data/chars/Byakuya/13.gif
+ offset 15 54
+ frame data/chars/Byakuya/14.gif
+ offset 25 51
+ frame data/chars/Byakuya/15.gif
+ offset 24 53
+ frame data/chars/Byakuya/16.gif
+
+anim run
+ delay 7
+ offset 25 49
+ frame data/chars/Byakuya/17.gif
+ offset 25 49
+ frame data/chars/Byakuya/18.gif
+
+anim block120
+ delay 7
+ offset 22 51
+ frame data/chars/Byakuya/19.gif
+ offset 22 51
+ frame data/chars/Byakuya/20.gif
+ offset 22 51
+ frame data/chars/Byakuya/21.gif
+ offset 16 53
+ frame data/chars/Byakuya/22.gif
+
+anim attack200
+ delay 7
+ offset 16 54
+ frame data/chars/Byakuya/23.gif
+ offset 15 60
+ frame data/chars/Byakuya/24.gif
+ offset 15 66
+ frame data/chars/Byakuya/25.gif
+ offset 15 67
+ frame data/chars/Byakuya/26.gif
+ offset 17 70
+ frame data/chars/Byakuya/27.gif
+ offset 23 54
+ frame data/chars/Byakuya/28.gif
+ offset 21 52
+ frame data/chars/Byakuya/29.gif
+ offset 22 46
+ frame data/chars/Byakuya/30.gif
+ offset 21 55
+ frame data/chars/Byakuya/31.gif
+ offset 21 56
+ frame data/chars/Byakuya/32.gif
+ offset 20 51
+ frame data/chars/Byakuya/33.gif
+ offset 29 46
+ frame data/chars/Byakuya/34.gif
+ offset 19 54
+ frame data/chars/Byakuya/35.gif
+ offset 19 54
+ frame data/chars/Byakuya/36.gif
+ offset 34 52
+ frame data/chars/Byakuya/37.gif
+ offset 27 55
+ frame data/chars/Byakuya/38.gif
+ offset 19 51
+ frame data/chars/Byakuya/39.gif
+ offset 22 50
+ frame data/chars/Byakuya/40.gif
+ offset 23 52
+ frame data/chars/Byakuya/41.gif
+ offset 25 49
+ frame data/chars/Byakuya/42.gif
+ offset 27 49
+ frame data/chars/Byakuya/43.gif
+ offset 44 52
+ frame data/chars/Byakuya/44.gif
+ offset 44 52
+ frame data/chars/Byakuya/45.gif
+ offset 23 51
+ frame data/chars/Byakuya/46.gif
+ offset 22 53
+ frame data/chars/Byakuya/47.gif
+ offset 25 50
+ frame data/chars/Byakuya/48.gif
+ offset 20 54
+ frame data/chars/Byakuya/49.gif
+ offset 23 63
+ frame data/chars/Byakuya/50.gif
+ offset 22 56
+ frame data/chars/Byakuya/51.gif
+ offset 28 54
+ frame data/chars/Byakuya/52.gif
+ offset 21 53
+ frame data/chars/Byakuya/53.gif
+ offset 28 54
+ frame data/chars/Byakuya/54.gif
+ offset 26 54
+ frame data/chars/Byakuya/55.gif
+ offset 27 54
+ frame data/chars/Byakuya/56.gif
+ offset 23 51
+ frame data/chars/Byakuya/57.gif
+ offset 19 51
+ frame data/chars/Byakuya/58.gif
+ offset 35 53
+ frame data/chars/Byakuya/59.gif
+ offset 35 53
+ frame data/chars/Byakuya/60.gif
+ offset 36 53
+ frame data/chars/Byakuya/61.gif
+ offset 22 51
+ frame data/chars/Byakuya/62.gif
+ offset 22 56
+ frame data/chars/Byakuya/63.gif
+ offset 19 62
+ frame data/chars/Byakuya/64.gif
+ offset 21 59
+ frame data/chars/Byakuya/65.gif
+ offset 24 53
+ frame data/chars/Byakuya/66.gif
+ offset 21 53
+ frame data/chars/Byakuya/67.gif
+ offset 21 53
+ frame data/chars/Byakuya/68.gif
+ offset 15 60
+ frame data/chars/Byakuya/69.gif
+ offset 15 66
+ frame data/chars/Byakuya/70.gif
+ offset 15 63
+ frame data/chars/Byakuya/71.gif
+ offset 16 55
+ frame data/chars/Byakuya/72.gif
+ offset 15 55
+ frame data/chars/Byakuya/73.gif
+ offset 15 55
+ frame data/chars/Byakuya/74.gif
+ offset 21 47
+ frame data/chars/Byakuya/75.gif
+ offset 23 46
+ frame data/chars/Byakuya/76.gif
+ offset 23 47
+ frame data/chars/Byakuya/77.gif
+ offset 20 48
+ frame data/chars/Byakuya/78.gif
+ offset 16 53
+ frame data/chars/Byakuya/79.gif
+ offset 16 53
+ frame data/chars/Byakuya/80.gif
+ offset 17 53
+ frame data/chars/Byakuya/81.gif
+ offset 21 51
+ frame data/chars/Byakuya/82.gif
+ offset 34 48
+ frame data/chars/Byakuya/83.gif
+ offset 23 46
+ frame data/chars/Byakuya/84.gif
+ offset 23 47
+ frame data/chars/Byakuya/85.gif
+ offset 22 46
+ frame data/chars/Byakuya/86.gif
+ offset 16 53
+ frame data/chars/Byakuya/87.gif
+ offset 49 54
+ frame data/chars/Byakuya/88.gif
+ offset 17 54
+ frame data/chars/Byakuya/89.gif
+ offset 18 53
+ frame data/chars/Byakuya/90.gif
+ offset 11 56
+ frame data/chars/Byakuya/91.gif
+ offset 17 56
+ frame data/chars/Byakuya/92.gif
+ offset 18 54
+ frame data/chars/Byakuya/93.gif
+ offset 18 53
+ frame data/chars/Byakuya/94.gif
+ offset 19 53
+ frame data/chars/Byakuya/95.gif
+ offset 19 52
+ frame data/chars/Byakuya/96.gif
+ offset 14 56
+ frame data/chars/Byakuya/97.gif
+ offset 41 56
+ frame data/chars/Byakuya/98.gif
+ offset 25 54
+ frame data/chars/Byakuya/99.gif
+ offset 24 53
+ frame data/chars/Byakuya/100.gif
+ offset 36 53
+ frame data/chars/Byakuya/101.gif
+ offset 28 52
+ frame data/chars/Byakuya/102.gif
+ offset 19 52
+ frame data/chars/Byakuya/103.gif
+ offset 16 53
+ frame data/chars/Byakuya/104.gif
+ offset 19 54
+ frame data/chars/Byakuya/105.gif
+ offset 17 54
+ frame data/chars/Byakuya/106.gif
+ offset 18 53
+ frame data/chars/Byakuya/107.gif
+ offset 22 50
+ frame data/chars/Byakuya/108.gif
+ offset 26 52
+ frame data/chars/Byakuya/109.gif
+ offset 22 51
+ frame data/chars/Byakuya/110.gif
+ offset 20 56
+ frame data/chars/Byakuya/111.gif
+ offset 19 62
+ frame data/chars/Byakuya/112.gif
+ offset 21 59
+ frame data/chars/Byakuya/113.gif
+ offset 28 50
+ frame data/chars/Byakuya/114.gif
+ offset 30 55
+ frame data/chars/Byakuya/115.gif
+ offset 22 51
+ frame data/chars/Byakuya/116.gif
+ offset 37 52
+ frame data/chars/Byakuya/117.gif
+ offset 26 60
+ frame data/chars/Byakuya/118.gif
+ offset 19 62
+ frame data/chars/Byakuya/119.gif
+ offset 21 59
+ frame data/chars/Byakuya/120.gif
+ offset 22 56
+ frame data/chars/Byakuya/121.gif
+ offset 22 58
+ frame data/chars/Byakuya/122.gif
+ offset 22 57
+ frame data/chars/Byakuya/123.gif
+ offset 18 56
+ frame data/chars/Byakuya/124.gif
+ offset 20 58
+ frame data/chars/Byakuya/125.gif
+ offset 32 61
+ frame data/chars/Byakuya/126.gif
+ offset 26 50
+ frame data/chars/Byakuya/127.gif
+ offset 27 50
+ frame data/chars/Byakuya/128.gif
+ offset 23 46
+ frame data/chars/Byakuya/129.gif
+ offset 25 46
+ frame data/chars/Byakuya/130.gif
+ offset 15 55
+ frame data/chars/Byakuya/131.gif
+ offset 16 55
+ frame data/chars/Byakuya/132.gif
+ offset 23 55
+ frame data/chars/Byakuya/133.gif
+ offset 17 55
+ frame data/chars/Byakuya/134.gif
+ offset 14 55
+ frame data/chars/Byakuya/135.gif
+ offset 16 55
+ frame data/chars/Byakuya/136.gif
+ offset 15 55
+ frame data/chars/Byakuya/137.gif
+ offset 15 55
+ frame data/chars/Byakuya/138.gif
+ offset 16 63
+ frame data/chars/Byakuya/139.gif
+ offset 15 63
+ frame data/chars/Byakuya/140.gif
+
+anim 6000
+ delay 7
+ offset 16 50
+ frame data/chars/Byakuya/141.gif
+ offset 16 50
+ frame data/chars/Byakuya/142.gif
+ offset 16 50
+ frame data/chars/Byakuya/143.gif
+ offset 16 49
+ frame data/chars/Byakuya/144.gif
+ offset 16 49
+ frame data/chars/Byakuya/145.gif
+ offset 32 34
+ frame data/chars/Byakuya/146.gif
+ offset 30 30
+ frame data/chars/Byakuya/147.gif
+ offset 27 14
+ frame data/chars/Byakuya/148.gif
+
+anim 6001
+ delay 7
+ offset 16 50
+ frame data/chars/Byakuya/149.gif
+ offset 16 49
+ frame data/chars/Byakuya/150.gif
+ offset 16 50
+ frame data/chars/Byakuya/151.gif
+ offset 16 49
+ frame data/chars/Byakuya/152.gif
+ offset 14 45
+ frame data/chars/Byakuya/153.gif
+ offset 32 33
+ frame data/chars/Byakuya/154.gif
+ offset 30 30
+ frame data/chars/Byakuya/155.gif
+ offset 27 13
+ frame data/chars/Byakuya/156.gif
+
+anim 0890
+ delay 7
+ offset 140 40
+ frame data/chars/Byakuya/157.gif
+ offset 188 44
+ frame data/chars/Byakuya/158.gif
+ offset 239 54
+ frame data/chars/Byakuya/159.gif
+ offset 288 65
+ frame data/chars/Byakuya/160.gif
+ offset 296 68
+ frame data/chars/Byakuya/161.gif
+ offset 297 71
+ frame data/chars/Byakuya/162.gif
+ offset 297 73
+ frame data/chars/Byakuya/163.gif
+ offset 213 78
+ frame data/chars/Byakuya/164.gif
+ offset 213 79
+ frame data/chars/Byakuya/165.gif
+ offset 214 79
+ frame data/chars/Byakuya/166.gif
+ offset 214 79
+ frame data/chars/Byakuya/167.gif
+ offset 212 80
+ frame data/chars/Byakuya/168.gif
+ offset 201 77
+ frame data/chars/Byakuya/169.gif
+ offset 203 70
+ frame data/chars/Byakuya/170.gif
+
+anim 0892
+ delay 7
+ offset 133 21
+ frame data/chars/Byakuya/171.gif
+ offset 186 31
+ frame data/chars/Byakuya/172.gif
+ offset 186 27
+ frame data/chars/Byakuya/173.gif
+ offset 198 28
+ frame data/chars/Byakuya/174.gif
+ offset 194 28
+ frame data/chars/Byakuya/175.gif
+ offset 193 29
+ frame data/chars/Byakuya/176.gif
+ offset 177 19
+ frame data/chars/Byakuya/177.gif
+
+anim 0893
+ delay 7
+ offset 31 69
+ frame data/chars/Byakuya/178.gif
+ offset 38 81
+ frame data/chars/Byakuya/179.gif
+ offset 49 91
+ frame data/chars/Byakuya/180.gif
+ offset 55 112
+ frame data/chars/Byakuya/181.gif
+ offset 69 152
+ frame data/chars/Byakuya/182.gif
+ offset 67 158
+ frame data/chars/Byakuya/183.gif
+ offset 70 164
+ frame data/chars/Byakuya/184.gif
+ offset 72 164
+ frame data/chars/Byakuya/185.gif
+
+anim 0895
+ delay 7
+ offset 64 23
+ frame data/chars/Byakuya/186.gif
+ offset 80 51
+ frame data/chars/Byakuya/187.gif
+ offset 85 58
+ frame data/chars/Byakuya/188.gif
+ offset 87 62
+ frame data/chars/Byakuya/189.gif
+ offset 89 65
+ frame data/chars/Byakuya/190.gif
+ offset 90 60
+ frame data/chars/Byakuya/191.gif
+ offset 91 68
+ frame data/chars/Byakuya/192.gif
+ offset 91 20
+ frame data/chars/Byakuya/193.gif
+ offset 92 20
+ frame data/chars/Byakuya/194.gif
+ offset 88 20
+ frame data/chars/Byakuya/195.gif
+ offset 90 19
+ frame data/chars/Byakuya/196.gif
+ offset 90 17
+ frame data/chars/Byakuya/197.gif
+ offset 90 10
+ frame data/chars/Byakuya/198.gif
+ offset 89 7
+ frame data/chars/Byakuya/199.gif
+
+anim 0897
+ delay 7
+ offset 76 10
+ frame data/chars/Byakuya/200.gif
+ offset 85 11
+ frame data/chars/Byakuya/201.gif
+ offset 95 12
+ frame data/chars/Byakuya/202.gif
+ offset 104 13
+ frame data/chars/Byakuya/203.gif
+ offset 114 14
+ frame data/chars/Byakuya/204.gif
+
+anim 0896
+ delay 7
+ offset 87 25
+ frame data/chars/Byakuya/205.gif
+ offset 88 26
+ frame data/chars/Byakuya/206.gif
+ offset 102 28
+ frame data/chars/Byakuya/207.gif
+ offset 93 30
+ frame data/chars/Byakuya/208.gif
+ offset 95 33
+ frame data/chars/Byakuya/209.gif
+ offset 98 35
+ frame data/chars/Byakuya/210.gif
+ offset 102 37
+ frame data/chars/Byakuya/211.gif
+ offset 102 39
+ frame data/chars/Byakuya/212.gif
+
+anim 0897
+ delay 7
+ offset 121 15
+ frame data/chars/Byakuya/213.gif
+ offset 130 17
+ frame data/chars/Byakuya/214.gif
+ offset 133 17
+ frame data/chars/Byakuya/215.gif
+
+anim 0898
+ delay 7
+ offset 127 127
+ frame data/chars/Byakuya/216.gif
+
+anim 0900
+ delay 7
+ offset 39 10
+ frame data/chars/Byakuya/217.gif
+ offset 71 9
+ frame data/chars/Byakuya/218.gif
+ offset 77 74
+ frame data/chars/Byakuya/219.gif
+ offset 98 50
+ frame data/chars/Byakuya/220.gif
+ offset 99 49
+ frame data/chars/Byakuya/221.gif
+ offset 100 49
+ frame data/chars/Byakuya/222.gif
+ offset 102 48
+ frame data/chars/Byakuya/223.gif
+ offset 105 50
+ frame data/chars/Byakuya/224.gif
+ offset 107 51
+ frame data/chars/Byakuya/225.gif
+ offset 98 53
+ frame data/chars/Byakuya/226.gif
+ offset 75 50
+ frame data/chars/Byakuya/227.gif
+ offset 77 53
+ frame data/chars/Byakuya/228.gif
+ offset 81 50
+ frame data/chars/Byakuya/229.gif
+ offset 86 50
+ frame data/chars/Byakuya/230.gif
+ offset 90 46
+ frame data/chars/Byakuya/231.gif
+ offset 95 50
+ frame data/chars/Byakuya/232.gif
+ offset 100 52
+ frame data/chars/Byakuya/233.gif
+ offset 102 55
+ frame data/chars/Byakuya/234.gif
+
+anim attack570
+ delay 7
+ offset 128 128
+ frame data/chars/Byakuya/235.gif
+
+anim 9550
+ delay 7
+ offset 111 249
+ frame data/chars/Byakuya/236.gif
+ offset 111 246
+ frame data/chars/Byakuya/237.gif
+ offset 112 244
+ frame data/chars/Byakuya/238.gif
+ offset 112 245
+ frame data/chars/Byakuya/239.gif
+ offset 113 246
+ frame data/chars/Byakuya/240.gif
+ offset 113 245
+ frame data/chars/Byakuya/241.gif
+ offset 113 248
+ frame data/chars/Byakuya/242.gif
+ offset 110 250
+ frame data/chars/Byakuya/243.gif
+ offset 109 252
+ frame data/chars/Byakuya/244.gif
+ offset 111 250
+ frame data/chars/Byakuya/245.gif
+
+anim 9551
+ delay 7
+ offset 60 109
+ frame data/chars/Byakuya/246.gif
+ offset 100 182
+ frame data/chars/Byakuya/247.gif
+ offset 115 227
+ frame data/chars/Byakuya/248.gif
+ offset 127 260
+ frame data/chars/Byakuya/249.gif
+ offset 138 268
+ frame data/chars/Byakuya/250.gif
+ offset 147 294
+ frame data/chars/Byakuya/251.gif
+ offset 155 298
+ frame data/chars/Byakuya/252.gif
+ offset 158 313
+ frame data/chars/Byakuya/253.gif
+ offset 158 327
+ frame data/chars/Byakuya/254.gif
+ offset 145 341
+ frame data/chars/Byakuya/255.gif
+ offset 149 351
+ frame data/chars/Byakuya/256.gif
+ offset 151 366
+ frame data/chars/Byakuya/257.gif
+ offset 141 370
+ frame data/chars/Byakuya/258.gif
+ offset 145 368
+ frame data/chars/Byakuya/259.gif
+ offset 147 368
+ frame data/chars/Byakuya/260.gif
+
+anim 9552
+ delay 7
+ offset 36 57
+ frame data/chars/Byakuya/261.gif
+ offset 50 65
+ frame data/chars/Byakuya/262.gif
+ offset 54 72
+ frame data/chars/Byakuya/263.gif
+ offset 56 80
+ frame data/chars/Byakuya/264.gif
+ offset 57 89
+ frame data/chars/Byakuya/265.gif
+ offset 57 98
+ frame data/chars/Byakuya/266.gif
+ offset 58 106
+ frame data/chars/Byakuya/267.gif
+ offset 58 110
+ frame data/chars/Byakuya/268.gif
+ offset 59 107
+ frame data/chars/Byakuya/269.gif
+ offset 59 107
+ frame data/chars/Byakuya/270.gif
+ offset 59 108
+ frame data/chars/Byakuya/271.gif
+ offset 60 111
+ frame data/chars/Byakuya/272.gif
+ offset 60 109
+ frame data/chars/Byakuya/273.gif
+ offset 60 99
+ frame data/chars/Byakuya/274.gif
+ offset 60 104
+ frame data/chars/Byakuya/275.gif
+
+anim 7022
+ delay 7
+ offset 82 29
+ frame data/chars/Byakuya/276.gif
+ offset 95 43
+ frame data/chars/Byakuya/277.gif
+ offset 118 53
+ frame data/chars/Byakuya/278.gif
+ offset 122 60
+ frame data/chars/Byakuya/279.gif
+ offset 134 74
+ frame data/chars/Byakuya/280.gif
+ offset 136 76
+ frame data/chars/Byakuya/281.gif
+ offset 138 78
+ frame data/chars/Byakuya/282.gif
+ offset 138 80
+ frame data/chars/Byakuya/283.gif
+ offset 140 82
+ frame data/chars/Byakuya/284.gif
+ offset 141 84
+ frame data/chars/Byakuya/285.gif
+ offset 143 86
+ frame data/chars/Byakuya/286.gif
+ offset 144 88
+ frame data/chars/Byakuya/287.gif
+ offset 146 89
+ frame data/chars/Byakuya/288.gif
+ offset 149 90
+ frame data/chars/Byakuya/289.gif
+ offset 150 92
+ frame data/chars/Byakuya/290.gif
+ offset 151 92
+ frame data/chars/Byakuya/291.gif
+ offset 152 93
+ frame data/chars/Byakuya/292.gif
+ offset 153 93
+ frame data/chars/Byakuya/293.gif
+ offset 153 87
+ frame data/chars/Byakuya/294.gif
+ offset 154 87
+ frame data/chars/Byakuya/295.gif
+ offset 154 69
+ frame data/chars/Byakuya/296.gif
+
+anim 8250
+ delay 7
+ offset 35 19
+ frame data/chars/Byakuya/297.gif
+ offset 51 32
+ frame data/chars/Byakuya/298.gif
+ offset 68 49
+ frame data/chars/Byakuya/299.gif
+ offset 75 65
+ frame data/chars/Byakuya/300.gif
+ offset 85 81
+ frame data/chars/Byakuya/301.gif
+ offset 95 99
+ frame data/chars/Byakuya/302.gif
+ offset 104 118
+ frame data/chars/Byakuya/303.gif
+ offset 111 134
+ frame data/chars/Byakuya/304.gif
+ offset 116 151
+ frame data/chars/Byakuya/305.gif
+ offset 120 167
+ frame data/chars/Byakuya/306.gif
+ offset 124 181
+ frame data/chars/Byakuya/307.gif
+ offset 130 196
+ frame data/chars/Byakuya/308.gif
+ offset 139 209
+ frame data/chars/Byakuya/309.gif
+ offset 146 226
+ frame data/chars/Byakuya/310.gif
+ offset 154 245
+ frame data/chars/Byakuya/311.gif
+ offset 161 265
+ frame data/chars/Byakuya/312.gif
+ offset 169 285
+ frame data/chars/Byakuya/313.gif
+ offset 176 277
+ frame data/chars/Byakuya/314.gif
+ offset 183 294
+ frame data/chars/Byakuya/315.gif
+ offset 191 291
+ frame data/chars/Byakuya/316.gif
+ offset 199 294
+ frame data/chars/Byakuya/317.gif
+ offset 206 294
+ frame data/chars/Byakuya/318.gif
+ offset 203 293
+ frame data/chars/Byakuya/319.gif
+ offset 208 291
+ frame data/chars/Byakuya/320.gif
+ offset 213 292
+ frame data/chars/Byakuya/321.gif
+ offset 220 291
+ frame data/chars/Byakuya/322.gif
+ offset 228 290
+ frame data/chars/Byakuya/323.gif
+ offset 220 288
+ frame data/chars/Byakuya/324.gif
+ offset 219 287
+ frame data/chars/Byakuya/325.gif
+ offset 225 285
+ frame data/chars/Byakuya/326.gif
+ offset 215 282
+ frame data/chars/Byakuya/327.gif
+ offset 223 281
+ frame data/chars/Byakuya/328.gif
+ offset 177 279
+ frame data/chars/Byakuya/329.gif
+ offset 153 277
+ frame data/chars/Byakuya/330.gif
+ offset 140 274
+ frame data/chars/Byakuya/331.gif
+ offset 140 272
+ frame data/chars/Byakuya/332.gif
+ offset 143 270
+ frame data/chars/Byakuya/333.gif
+ offset 130 267
+ frame data/chars/Byakuya/334.gif
+ offset 125 264
+ frame data/chars/Byakuya/335.gif
+ offset 127 256
+ frame data/chars/Byakuya/336.gif
+ offset 129 255
+ frame data/chars/Byakuya/337.gif
+ offset 108 229
+ frame data/chars/Byakuya/338.gif
+ offset 128 160
+ frame data/chars/Byakuya/339.gif
+ offset 82 145
+ frame data/chars/Byakuya/340.gif
+ offset 150 158
+ frame data/chars/Byakuya/341.gif
+ offset 79 132
+ frame data/chars/Byakuya/342.gif
+ offset 134 132
+ frame data/chars/Byakuya/343.gif
+ offset 156 119
+ frame data/chars/Byakuya/344.gif
+ offset 98 130
+ frame data/chars/Byakuya/345.gif
+ offset 94 115
+ frame data/chars/Byakuya/346.gif
+ offset 107 127
+ frame data/chars/Byakuya/347.gif
+ offset 139 85
+ frame data/chars/Byakuya/348.gif
+ offset 165 116
+ frame data/chars/Byakuya/349.gif
+ offset 143 102
+ frame data/chars/Byakuya/350.gif
+ offset 143 78
+ frame data/chars/Byakuya/351.gif
+ offset 144 95
+ frame data/chars/Byakuya/352.gif
+ offset 146 94
+ frame data/chars/Byakuya/353.gif
+ offset 86 91
+ frame data/chars/Byakuya/354.gif
+ offset 87 78
+ frame data/chars/Byakuya/355.gif
+ offset 73 70
+ frame data/chars/Byakuya/356.gif
+ offset 75 51
+ frame data/chars/Byakuya/357.gif
+ offset 74 59
+ frame data/chars/Byakuya/358.gif
+ offset 80 49
+ frame data/chars/Byakuya/359.gif
+ offset 75 20
+ frame data/chars/Byakuya/360.gif
+ offset 77 36
+ frame data/chars/Byakuya/361.gif
+
+anim 8260
+ delay 7
+ offset 195 63
+ frame data/chars/Byakuya/362.gif
+ offset 200 135
+ frame data/chars/Byakuya/363.gif
+ offset 218 149
+ frame data/chars/Byakuya/364.gif
+ offset 231 138
+ frame data/chars/Byakuya/365.gif
+ offset 223 140
+ frame data/chars/Byakuya/366.gif
+ offset 223 138
+ frame data/chars/Byakuya/367.gif
+ offset 215 133
+ frame data/chars/Byakuya/368.gif
+ offset 204 129
+ frame data/chars/Byakuya/369.gif
+
+anim 8261
+ delay 7
+ offset 82 20
+ frame data/chars/Byakuya/370.gif
+ offset 86 20
+ frame data/chars/Byakuya/371.gif
+ offset 79 15
+ frame data/chars/Byakuya/372.gif
+ offset 79 15
+ frame data/chars/Byakuya/373.gif
+ offset 78 15
+ frame data/chars/Byakuya/374.gif
+ offset 79 15
+ frame data/chars/Byakuya/375.gif
+ offset 78 15
+ frame data/chars/Byakuya/376.gif
+ offset 79 15
+ frame data/chars/Byakuya/377.gif
+ offset 77 15
+ frame data/chars/Byakuya/378.gif
+ offset 77 14
+ frame data/chars/Byakuya/379.gif
+
+anim 8262
+ delay 7
+ offset 60 59
+ frame data/chars/Byakuya/380.gif
+ offset 70 59
+ frame data/chars/Byakuya/381.gif
+ offset 77 51
+ frame data/chars/Byakuya/382.gif
+ offset 83 45
+ frame data/chars/Byakuya/383.gif
+ offset 88 35
+ frame data/chars/Byakuya/384.gif
+ offset 91 29
+ frame data/chars/Byakuya/385.gif
+ offset 91 22
+ frame data/chars/Byakuya/386.gif
+
+anim 8263
+ delay 7
+ offset 18 24
+ frame data/chars/Byakuya/387.gif
+ offset 25 36
+ frame data/chars/Byakuya/388.gif
+ offset 13 20
+ frame data/chars/Byakuya/389.gif
+ offset 14 16
+ frame data/chars/Byakuya/390.gif
+
+anim 8264
+ delay 7
+ offset 90 50
+ frame data/chars/Byakuya/391.gif
+ offset 90 50
+ frame data/chars/Byakuya/392.gif
+ offset 97 56
+ frame data/chars/Byakuya/393.gif
+ offset 99 60
+ frame data/chars/Byakuya/394.gif
+ offset 105 61
+ frame data/chars/Byakuya/395.gif
+ offset 110 64
+ frame data/chars/Byakuya/396.gif
+ offset 117 80
+ frame data/chars/Byakuya/397.gif
+ offset 122 83
+ frame data/chars/Byakuya/398.gif
+ offset 125 84
+ frame data/chars/Byakuya/399.gif
+ offset 137 73
+ frame data/chars/Byakuya/400.gif
+ offset 135 82
+ frame data/chars/Byakuya/401.gif
+ offset 129 109
+ frame data/chars/Byakuya/402.gif
+ offset 134 179
+ frame data/chars/Byakuya/403.gif
+ offset 160 192
+ frame data/chars/Byakuya/404.gif
+ offset 173 216
+ frame data/chars/Byakuya/405.gif
+ offset 183 229
+ frame data/chars/Byakuya/406.gif
+ offset 188 232
+ frame data/chars/Byakuya/407.gif
+ offset 192 216
+ frame data/chars/Byakuya/408.gif
+ offset 171 227
+ frame data/chars/Byakuya/409.gif
+ offset 184 234
+ frame data/chars/Byakuya/410.gif
+ offset 189 220
+ frame data/chars/Byakuya/411.gif
+ offset 192 227
+ frame data/chars/Byakuya/412.gif
+ offset 198 231
+ frame data/chars/Byakuya/413.gif
+ offset 200 236
+ frame data/chars/Byakuya/414.gif
+ offset 207 216
+ frame data/chars/Byakuya/415.gif
+ offset 210 226
+ frame data/chars/Byakuya/416.gif
+ offset 215 234
+ frame data/chars/Byakuya/417.gif
+ offset 217 236
+ frame data/chars/Byakuya/418.gif
+ offset 224 221
+ frame data/chars/Byakuya/419.gif
+ offset 228 225
+ frame data/chars/Byakuya/420.gif
+ offset 229 216
+ frame data/chars/Byakuya/421.gif
+ offset 230 222
+ frame data/chars/Byakuya/422.gif
+ offset 231 228
+ frame data/chars/Byakuya/423.gif
+ offset 234 232
+ frame data/chars/Byakuya/424.gif
+ offset 234 225
+ frame data/chars/Byakuya/425.gif
+ offset 235 230
+ frame data/chars/Byakuya/426.gif
+ offset 235 234
+ frame data/chars/Byakuya/427.gif
+ offset 237 224
+ frame data/chars/Byakuya/428.gif
+ offset 237 230
+ frame data/chars/Byakuya/429.gif
+ offset 236 236
+ frame data/chars/Byakuya/430.gif
+ offset 234 241
+ frame data/chars/Byakuya/431.gif
+ offset 229 228
+ frame data/chars/Byakuya/432.gif
+ offset 226 225
+ frame data/chars/Byakuya/433.gif
+ offset 226 224
+ frame data/chars/Byakuya/434.gif
+ offset 226 222
+ frame data/chars/Byakuya/435.gif
+ offset 226 220
+ frame data/chars/Byakuya/436.gif
+ offset 223 218
+ frame data/chars/Byakuya/437.gif
+ offset 202 208
+ frame data/chars/Byakuya/438.gif
+ offset 196 211
+ frame data/chars/Byakuya/439.gif
+ offset 194 210
+ frame data/chars/Byakuya/440.gif
+ offset 189 209
+ frame data/chars/Byakuya/441.gif
+ offset 196 194
+ frame data/chars/Byakuya/442.gif
+ offset 199 178
+ frame data/chars/Byakuya/443.gif
+ offset 177 164
+ frame data/chars/Byakuya/444.gif
+
+anim 8265
+ delay 7
+ offset 84 107
+ frame data/chars/Byakuya/445.gif
+ offset 89 146
+ frame data/chars/Byakuya/446.gif
+ offset 95 178
+ frame data/chars/Byakuya/447.gif
+ offset 100 207
+ frame data/chars/Byakuya/448.gif
+ offset 105 228
+ frame data/chars/Byakuya/449.gif
+ offset 110 244
+ frame data/chars/Byakuya/450.gif
+ offset 113 256
+ frame data/chars/Byakuya/451.gif
+ offset 111 264
+ frame data/chars/Byakuya/452.gif
+ offset 116 269
+ frame data/chars/Byakuya/453.gif
+ offset 120 274
+ frame data/chars/Byakuya/454.gif
+ offset 122 275
+ frame data/chars/Byakuya/455.gif
+ offset 123 275
+ frame data/chars/Byakuya/456.gif
+ offset 125 271
+ frame data/chars/Byakuya/457.gif
+ offset 128 273
+ frame data/chars/Byakuya/458.gif
+ offset 132 271
+ frame data/chars/Byakuya/459.gif
+ offset 136 268
+ frame data/chars/Byakuya/460.gif
+ offset 139 264
+ frame data/chars/Byakuya/461.gif
+ offset 143 259
+ frame data/chars/Byakuya/462.gif
+ offset 145 252
+ frame data/chars/Byakuya/463.gif
+ offset 147 246
+ frame data/chars/Byakuya/464.gif
+ offset 154 240
+ frame data/chars/Byakuya/465.gif
+ offset 152 234
+ frame data/chars/Byakuya/466.gif
+ offset 148 224
+ frame data/chars/Byakuya/467.gif
+ offset 152 216
+ frame data/chars/Byakuya/468.gif
+ offset 162 205
+ frame data/chars/Byakuya/469.gif
+ offset 156 194
+ frame data/chars/Byakuya/470.gif
+ offset 137 189
+ frame data/chars/Byakuya/471.gif
+ offset 141 196
+ frame data/chars/Byakuya/472.gif
+ offset 146 206
+ frame data/chars/Byakuya/473.gif
+ offset 149 212
+ frame data/chars/Byakuya/474.gif
+ offset 150 221
+ frame data/chars/Byakuya/475.gif
+ offset 149 222
+ frame data/chars/Byakuya/476.gif
+ offset 148 219
+ frame data/chars/Byakuya/477.gif
+ offset 142 217
+ frame data/chars/Byakuya/478.gif
+ offset 138 218
+ frame data/chars/Byakuya/479.gif
+ offset 135 218
+ frame data/chars/Byakuya/480.gif
+ offset 133 214
+ frame data/chars/Byakuya/481.gif
+ offset 124 210
+ frame data/chars/Byakuya/482.gif
+ offset 122 198
+ frame data/chars/Byakuya/483.gif
+
+anim 9900
+ delay 7
+ offset 13 14
+ frame data/chars/Byakuya/484.gif
+ offset 13 14
+ frame data/chars/Byakuya/485.gif
+ offset 13 14
+ frame data/chars/Byakuya/486.gif
+ offset 13 14
+ frame data/chars/Byakuya/487.gif
+ offset 13 14
+ frame data/chars/Byakuya/488.gif
+ offset 13 14
+ frame data/chars/Byakuya/489.gif
+ offset 13 14
+ frame data/chars/Byakuya/490.gif
+ offset 13 14
+ frame data/chars/Byakuya/491.gif
+ offset 13 14
+ frame data/chars/Byakuya/492.gif
+ offset 13 14
+ frame data/chars/Byakuya/493.gif
+ offset 13 14
+ frame data/chars/Byakuya/494.gif
+ offset 13 14
+ frame data/chars/Byakuya/495.gif
+
+anim 7000
+ delay 7
+ offset 125 125
+ frame data/chars/Byakuya/496.gif
+ offset 125 125
+ frame data/chars/Byakuya/497.gif
+ offset 125 125
+ frame data/chars/Byakuya/498.gif
+ offset 125 125
+ frame data/chars/Byakuya/499.gif
+ offset 125 125
+ frame data/chars/Byakuya/500.gif
+ offset 125 125
+ frame data/chars/Byakuya/501.gif
+ offset 125 125
+ frame data/chars/Byakuya/502.gif
+ offset 125 125
+ frame data/chars/Byakuya/503.gif
+ offset 125 125
+ frame data/chars/Byakuya/504.gif
+ offset 125 125
+ frame data/chars/Byakuya/505.gif
+ offset 132 119
+ frame data/chars/Byakuya/506.gif
+ offset 131 129
+ frame data/chars/Byakuya/507.gif
+ offset 132 127
+ frame data/chars/Byakuya/508.gif
+ offset 128 118
+ frame data/chars/Byakuya/509.gif
+ offset 640 360
+ frame data/chars/Byakuya/510.gif
+ offset 640 360
+ frame data/chars/Byakuya/511.gif
+ offset 640 360
+ frame data/chars/Byakuya/512.gif
+ offset 640 360
+ frame data/chars/Byakuya/513.gif
+ offset 640 360
+ frame data/chars/Byakuya/514.gif
+ offset 640 360
+ frame data/chars/Byakuya/515.gif
+ offset 640 360
+ frame data/chars/Byakuya/516.gif
+ offset 640 360
+ frame data/chars/Byakuya/517.gif
+
+anim 7003
+ delay 7
+ offset 50 76
+ frame data/chars/Byakuya/518.gif
+ offset 67 90
+ frame data/chars/Byakuya/519.gif
+ offset 72 95
+ frame data/chars/Byakuya/520.gif
+ offset 69 96
+ frame data/chars/Byakuya/521.gif
+ offset 64 95
+ frame data/chars/Byakuya/522.gif
+ offset 64 95
+ frame data/chars/Byakuya/523.gif
+ offset 64 96
+ frame data/chars/Byakuya/524.gif
+ offset 67 99
+ frame data/chars/Byakuya/525.gif
+ offset 65 97
+ frame data/chars/Byakuya/526.gif
+ offset 63 96
+ frame data/chars/Byakuya/527.gif
+ offset 57 94
+ frame data/chars/Byakuya/528.gif
+
+anim 7005
+ delay 7
+ offset 197 42
+ frame data/chars/Byakuya/529.gif
+ offset 229 62
+ frame data/chars/Byakuya/530.gif
+ offset 202 61
+ frame data/chars/Byakuya/531.gif
+ offset 143 62
+ frame data/chars/Byakuya/532.gif
+ offset 120 63
+ frame data/chars/Byakuya/533.gif
+ offset 125 65
+ frame data/chars/Byakuya/534.gif
+
+anim 7045
+ delay 7
+ offset 144 241
+ frame data/chars/Byakuya/535.gif
+ offset 144 241
+ frame data/chars/Byakuya/536.gif
+ offset 144 241
+ frame data/chars/Byakuya/537.gif
+ offset 144 241
+ frame data/chars/Byakuya/538.gif
+ offset 144 241
+ frame data/chars/Byakuya/539.gif
+
+anim freespecial3005
+ delay 7
+ offset 446 468
+ frame data/chars/Byakuya/540.gif
+ offset 423 460
+ frame data/chars/Byakuya/541.gif
+ offset 421 439
+ frame data/chars/Byakuya/542.gif
+ offset 405 423
+ frame data/chars/Byakuya/543.gif
+ offset 390 408
+ frame data/chars/Byakuya/544.gif
+ offset 381 404
+ frame data/chars/Byakuya/545.gif
+ offset 369 379
+ frame data/chars/Byakuya/546.gif
+ offset 356 352
+ frame data/chars/Byakuya/547.gif
+ offset 314 321
+ frame data/chars/Byakuya/548.gif
+ offset 275 274
+ frame data/chars/Byakuya/549.gif
+ offset 247 248
+ frame data/chars/Byakuya/550.gif
+ offset 238 235
+ frame data/chars/Byakuya/551.gif
+ offset 156 198
+ frame data/chars/Byakuya/552.gif
+ offset 156 197
+ frame data/chars/Byakuya/553.gif
+ offset 158 196
+ frame data/chars/Byakuya/554.gif
+
+anim 0831
+ delay 7
+ offset 306 172
+ frame data/chars/Byakuya/555.gif
+ offset 306 172
+ frame data/chars/Byakuya/556.gif
+ offset 306 172
+ frame data/chars/Byakuya/557.gif
+ offset 306 172
+ frame data/chars/Byakuya/558.gif
+ offset 306 172
+ frame data/chars/Byakuya/559.gif
+ offset 306 172
+ frame data/chars/Byakuya/560.gif
+ offset 306 172
+ frame data/chars/Byakuya/561.gif
+ offset 306 172
+ frame data/chars/Byakuya/562.gif
+ offset 306 172
+ frame data/chars/Byakuya/563.gif
+ offset 306 172
+ frame data/chars/Byakuya/564.gif
+ offset 306 172
+ frame data/chars/Byakuya/565.gif
+ offset 306 172
+ frame data/chars/Byakuya/566.gif
+ offset 306 172
+ frame data/chars/Byakuya/567.gif
+ offset 306 172
+ frame data/chars/Byakuya/568.gif
+ offset 306 172
+ frame data/chars/Byakuya/569.gif
+ offset 306 172
+ frame data/chars/Byakuya/570.gif
+ offset 306 172
+ frame data/chars/Byakuya/571.gif
+ offset 306 172
+ frame data/chars/Byakuya/572.gif
+ offset 306 172
+ frame data/chars/Byakuya/573.gif
+ offset 306 172
+ frame data/chars/Byakuya/574.gif
+ offset 306 172
+ frame data/chars/Byakuya/575.gif
+
+anim freespecial3066
+ delay 7
+ offset 300 169
+ frame data/chars/Byakuya/576.gif
+ offset 300 169
+ frame data/chars/Byakuya/577.gif
+ offset 300 169
+ frame data/chars/Byakuya/578.gif
+ offset 300 169
+ frame data/chars/Byakuya/579.gif
+ offset 300 169
+ frame data/chars/Byakuya/580.gif
+ offset 300 169
+ frame data/chars/Byakuya/581.gif
+ offset 300 169
+ frame data/chars/Byakuya/582.gif
+ offset 300 169
+ frame data/chars/Byakuya/583.gif
+ offset 300 169
+ frame data/chars/Byakuya/584.gif
+ offset 300 169
+ frame data/chars/Byakuya/585.gif
+ offset 300 169
+ frame data/chars/Byakuya/586.gif
+ offset 300 169
+ frame data/chars/Byakuya/587.gif
+ offset 300 169
+ frame data/chars/Byakuya/588.gif
+ offset 300 169
+ frame data/chars/Byakuya/589.gif
+ offset 300 169
+ frame data/chars/Byakuya/590.gif
+ offset 300 169
+ frame data/chars/Byakuya/591.gif
+ offset 300 169
+ frame data/chars/Byakuya/592.gif
+ offset 300 169
+ frame data/chars/Byakuya/593.gif
+ offset 300 169
+ frame data/chars/Byakuya/594.gif
+
+anim freespecial3067
+ delay 7
+ offset 300 169
+ frame data/chars/Byakuya/595.gif
+ offset 300 169
+ frame data/chars/Byakuya/596.gif
+ offset 300 169
+ frame data/chars/Byakuya/597.gif
+ offset 300 169
+ frame data/chars/Byakuya/598.gif
+ offset 300 169
+ frame data/chars/Byakuya/599.gif
+ offset 300 169
+ frame data/chars/Byakuya/600.gif
+ offset 300 169
+ frame data/chars/Byakuya/601.gif
+ offset 300 169
+ frame data/chars/Byakuya/602.gif
+ offset 300 169
+ frame data/chars/Byakuya/603.gif
+ offset 300 169
+ frame data/chars/Byakuya/604.gif
+ offset 300 169
+ frame data/chars/Byakuya/605.gif
+ offset 300 169
+ frame data/chars/Byakuya/606.gif
+ offset 300 169
+ frame data/chars/Byakuya/607.gif
+ offset 300 169
+ frame data/chars/Byakuya/608.gif
+ offset 300 169
+ frame data/chars/Byakuya/609.gif
+ offset 300 169
+ frame data/chars/Byakuya/610.gif
+ offset 300 169
+ frame data/chars/Byakuya/611.gif
+ offset 300 169
+ frame data/chars/Byakuya/612.gif
+ offset 300 169
+ frame data/chars/Byakuya/613.gif
+
+anim 0831
+ delay 7
+ offset 306 172
+ frame data/chars/Byakuya/614.gif
+ offset 306 172
+ frame data/chars/Byakuya/615.gif
+ offset 306 172
+ frame data/chars/Byakuya/616.gif
+ offset 306 172
+ frame data/chars/Byakuya/617.gif
+ offset 306 172
+ frame data/chars/Byakuya/618.gif
+ offset 306 172
+ frame data/chars/Byakuya/619.gif
+ offset 306 172
+ frame data/chars/Byakuya/620.gif
+ offset 306 172
+ frame data/chars/Byakuya/621.gif
+ offset 306 172
+ frame data/chars/Byakuya/622.gif
+
+anim freespecial4002
+ delay 7
+ offset 94 94
+ frame data/chars/Byakuya/623.gif
+ offset 94 94
+ frame data/chars/Byakuya/624.gif
+ offset 94 94
+ frame data/chars/Byakuya/625.gif
+ offset 94 94
+ frame data/chars/Byakuya/626.gif
+ offset 94 94
+ frame data/chars/Byakuya/627.gif
+ offset 94 94
+ frame data/chars/Byakuya/628.gif
+ offset 94 94
+ frame data/chars/Byakuya/629.gif
+ offset 94 94
+ frame data/chars/Byakuya/630.gif
+
+anim freespecial4504
+ delay 7
+ offset 7 13
+ frame data/chars/Byakuya/631.gif
+ offset 7 13
+ frame data/chars/Byakuya/632.gif
+ offset 7 13
+ frame data/chars/Byakuya/633.gif
+ offset 7 13
+ frame data/chars/Byakuya/634.gif
+ offset 7 13
+ frame data/chars/Byakuya/635.gif
+
+anim 8266
+ delay 7
+ offset 116 116
+ frame data/chars/Byakuya/636.gif
+ offset 116 116
+ frame data/chars/Byakuya/637.gif
+ offset 116 116
+ frame data/chars/Byakuya/638.gif
+ offset 116 116
+ frame data/chars/Byakuya/639.gif
+ offset 116 116
+ frame data/chars/Byakuya/640.gif
+ offset 116 116
+ frame data/chars/Byakuya/641.gif
+ offset 116 116
+ frame data/chars/Byakuya/642.gif
+ offset 116 116
+ frame data/chars/Byakuya/643.gif
+ offset 116 116
+ frame data/chars/Byakuya/644.gif
+ offset 115 110
+ frame data/chars/Byakuya/645.gif
+ offset 115 110
+ frame data/chars/Byakuya/646.gif
+ offset 115 110
+ frame data/chars/Byakuya/647.gif
+ offset 114 108
+ frame data/chars/Byakuya/648.gif
+ offset 113 107
+ frame data/chars/Byakuya/649.gif
+ offset 111 105
+ frame data/chars/Byakuya/650.gif
+ offset 107 99
+ frame data/chars/Byakuya/651.gif
+ offset 95 87
+ frame data/chars/Byakuya/652.gif
+ offset 116 116
+ frame data/chars/Byakuya/653.gif
+
+anim 0197
+ delay 7
+ offset 30 165
+ frame data/chars/Byakuya/654.gif
+ offset 30 204
+ frame data/chars/Byakuya/655.gif
+ offset 44 228
+ frame data/chars/Byakuya/656.gif
+ offset 43 229
+ frame data/chars/Byakuya/657.gif
+ offset 42 222
+ frame data/chars/Byakuya/658.gif
+ offset 40 210
+ frame data/chars/Byakuya/659.gif
+ offset 28 155
+ frame data/chars/Byakuya/660.gif
+ offset 23 147
+ frame data/chars/Byakuya/661.gif
+
+anim 0199
+ delay 7
+ offset 30 165
+ frame data/chars/Byakuya/662.gif
+ offset 30 204
+ frame data/chars/Byakuya/663.gif
+ offset 44 228
+ frame data/chars/Byakuya/664.gif
+ offset 43 229
+ frame data/chars/Byakuya/665.gif
+ offset 42 222
+ frame data/chars/Byakuya/666.gif
+ offset 40 210
+ frame data/chars/Byakuya/667.gif
+ offset 28 155
+ frame data/chars/Byakuya/668.gif
+ offset 23 147
+ frame data/chars/Byakuya/669.gif
+
+anim 8105
+ delay 7
+ offset 257 147
+ frame data/chars/Byakuya/670.gif
+ offset 257 147
+ frame data/chars/Byakuya/671.gif
+ offset 257 147
+ frame data/chars/Byakuya/672.gif
+ offset 257 147
+ frame data/chars/Byakuya/673.gif
+ offset 257 147
+ frame data/chars/Byakuya/674.gif
+ offset 257 147
+ frame data/chars/Byakuya/675.gif
+ offset 257 147
+ frame data/chars/Byakuya/676.gif
+ offset 257 147
+ frame data/chars/Byakuya/677.gif
+ offset 257 147
+ frame data/chars/Byakuya/678.gif
+ offset 257 147
+ frame data/chars/Byakuya/679.gif
+
+anim 7006
+ delay 7
+ offset 80 57
+ frame data/chars/Byakuya/680.gif
+ offset 86 64
+ frame data/chars/Byakuya/681.gif
+ offset 76 56
+ frame data/chars/Byakuya/682.gif
+ offset 57 5
+ frame data/chars/Byakuya/683.gif
+
+anim attack401
+ delay 7
+ offset 12 7
+ frame data/chars/Byakuya/684.gif
+ offset 10 7
+ frame data/chars/Byakuya/685.gif
+ offset 10 6
+ frame data/chars/Byakuya/686.gif
+ offset 10 7
+ frame data/chars/Byakuya/687.gif
+
+anim 0899
+ delay 7
+ offset 50 56
+ frame data/chars/Byakuya/688.gif
+ offset 57 69
+ frame data/chars/Byakuya/689.gif
+ offset 61 79
+ frame data/chars/Byakuya/690.gif
+ offset 63 84
+ frame data/chars/Byakuya/691.gif
+ offset 64 87
+ frame data/chars/Byakuya/692.gif
+ offset 65 86
+ frame data/chars/Byakuya/693.gif
+ offset 66 88
+ frame data/chars/Byakuya/694.gif
+ offset 68 88
+ frame data/chars/Byakuya/695.gif
+ offset 67 87
+ frame data/chars/Byakuya/696.gif
+ offset 75 82
+ frame data/chars/Byakuya/697.gif
+ offset 67 83
+ frame data/chars/Byakuya/698.gif
+ offset 25 83
+ frame data/chars/Byakuya/699.gif
+ offset 24 82
+ frame data/chars/Byakuya/700.gif
+ offset 12 72
+ frame data/chars/Byakuya/701.gif
+ offset 11 61
+ frame data/chars/Byakuya/702.gif
+
+anim freespecial1011
+ delay 7
+ offset 101 18
+ frame data/chars/Byakuya/703.gif
+ offset 119 26
+ frame data/chars/Byakuya/704.gif
+ offset 142 41
+ frame data/chars/Byakuya/705.gif
+ offset 165 46
+ frame data/chars/Byakuya/706.gif
+ offset 179 54
+ frame data/chars/Byakuya/707.gif
+ offset 169 54
+ frame data/chars/Byakuya/708.gif
+
+anim freespecial1012
+ delay 7
+ offset 83 82
+ frame data/chars/Byakuya/709.gif
+ offset 82 77
+ frame data/chars/Byakuya/710.gif
+ offset 83 77
+ frame data/chars/Byakuya/711.gif
+ offset 76 69
+ frame data/chars/Byakuya/712.gif
+ offset 73 73
+ frame data/chars/Byakuya/713.gif
+ offset 76 83
+ frame data/chars/Byakuya/714.gif
+
+anim freespecial1013
+ delay 7
+ offset 5 6
+ frame data/chars/Byakuya/715.gif
+ offset 5 5
+ frame data/chars/Byakuya/716.gif
+ offset 3 3
+ frame data/chars/Byakuya/717.gif
+ offset 1 2
+ frame data/chars/Byakuya/718.gif
+ offset 2 2
+ frame data/chars/Byakuya/719.gif
+ offset 3 2
+ frame data/chars/Byakuya/720.gif
+ offset 4 3
+ frame data/chars/Byakuya/721.gif
+ offset 6 5
+ frame data/chars/Byakuya/722.gif
+ offset 1 3
+ frame data/chars/Byakuya/723.gif
+ offset 6 7
+ frame data/chars/Byakuya/724.gif
+
+anim freespecial1014
+ delay 7
+ offset 162 739
+ frame data/chars/Byakuya/725.gif
+ offset 161 741
+ frame data/chars/Byakuya/726.gif
+ offset 154 713
+ frame data/chars/Byakuya/727.gif
+ offset 138 706
+ frame data/chars/Byakuya/728.gif
+ offset 128 688
+ frame data/chars/Byakuya/729.gif
+ offset 123 644
+ frame data/chars/Byakuya/730.gif
+ offset 109 619
+ frame data/chars/Byakuya/731.gif
+ offset 102 609
+ frame data/chars/Byakuya/732.gif
+ offset 66 466
+ frame data/chars/Byakuya/733.gif
+ offset 69 432
+ frame data/chars/Byakuya/734.gif
+
+anim freespecial1015
+ delay 7
+ offset 101 296
+ frame data/chars/Byakuya/735.gif
+
+anim freespecial1016
+ delay 7
+ offset 106 114
+ frame data/chars/Byakuya/736.gif
+ offset 156 161
+ frame data/chars/Byakuya/737.gif
+ offset 163 178
+ frame data/chars/Byakuya/738.gif
+ offset 173 191
+ frame data/chars/Byakuya/739.gif
+ offset 179 197
+ frame data/chars/Byakuya/740.gif
+ offset 177 200
+ frame data/chars/Byakuya/741.gif
+
+anim freespecial1017
+ delay 7
+ offset 136 129
+ frame data/chars/Byakuya/742.gif
+ offset 136 137
+ frame data/chars/Byakuya/743.gif
+ offset 138 135
+ frame data/chars/Byakuya/744.gif
+ offset 128 127
+ frame data/chars/Byakuya/745.gif
+ offset 126 126
+ frame data/chars/Byakuya/746.gif
+ offset 124 124
+ frame data/chars/Byakuya/747.gif
+ offset 117 120
+ frame data/chars/Byakuya/748.gif
+
+anim freespecial1018
+ delay 7
+ offset 310 308
+ frame data/chars/Byakuya/749.gif
+ offset 310 308
+ frame data/chars/Byakuya/750.gif
+ offset 310 308
+ frame data/chars/Byakuya/751.gif
+ offset 310 308
+ frame data/chars/Byakuya/752.gif
+ offset 310 308
+ frame data/chars/Byakuya/753.gif
+ offset 310 308
+ frame data/chars/Byakuya/754.gif
+
+anim 0198
+ delay 7
+ offset 30 165
+ frame data/chars/Byakuya/755.gif
+ offset 30 204
+ frame data/chars/Byakuya/756.gif
+ offset 44 228
+ frame data/chars/Byakuya/757.gif
+ offset 43 229
+ frame data/chars/Byakuya/758.gif
+ offset 42 222
+ frame data/chars/Byakuya/759.gif
+ offset 40 210
+ frame data/chars/Byakuya/760.gif
+ offset 28 155
+ frame data/chars/Byakuya/761.gif
+ offset 23 147
+ frame data/chars/Byakuya/762.gif
+
+anim freespecial1159
+ delay 7
+ offset 11 11
+ frame data/chars/Byakuya/763.gif
+ offset 15 15
+ frame data/chars/Byakuya/764.gif
+ offset 15 15
+ frame data/chars/Byakuya/765.gif
+ offset 10 10
+ frame data/chars/Byakuya/766.gif
+ offset 15 8
+ frame data/chars/Byakuya/767.gif
+ offset 12 13
+ frame data/chars/Byakuya/768.gif
+ offset 7 16
+ frame data/chars/Byakuya/769.gif
+
+anim freespecial1161
+ delay 7
+ offset 500 500
+ frame data/chars/Byakuya/770.gif
+ offset 500 500
+ frame data/chars/Byakuya/771.gif
+ offset 500 500
+ frame data/chars/Byakuya/772.gif
+ offset 500 500
+ frame data/chars/Byakuya/773.gif
+ offset 500 500
+ frame data/chars/Byakuya/774.gif
+ offset 316 315
+ frame data/chars/Byakuya/775.gif
+ offset 334 333
+ frame data/chars/Byakuya/776.gif
+ offset 344 344
+ frame data/chars/Byakuya/777.gif
+ offset 348 347
+ frame data/chars/Byakuya/778.gif
+ offset 346 345
+ frame data/chars/Byakuya/779.gif
+ offset 341 341
+ frame data/chars/Byakuya/780.gif
+ offset 331 332
+ frame data/chars/Byakuya/781.gif
+ offset 316 318
+ frame data/chars/Byakuya/782.gif
+ offset 308 307
+ frame data/chars/Byakuya/783.gif
+ offset 301 301
+ frame data/chars/Byakuya/784.gif
+
+anim freespecial1167
+ delay 7
+ offset 18 18
+ frame data/chars/Byakuya/785.gif
+ offset 26 26
+ frame data/chars/Byakuya/786.gif
+ offset 36 36
+ frame data/chars/Byakuya/787.gif
+ offset 47 48
+ frame data/chars/Byakuya/788.gif
+ offset 60 60
+ frame data/chars/Byakuya/789.gif
+ offset 66 66
+ frame data/chars/Byakuya/790.gif
+ offset 70 70
+ frame data/chars/Byakuya/791.gif
+ offset 74 74
+ frame data/chars/Byakuya/792.gif
+ offset 75 75
+ frame data/chars/Byakuya/793.gif
+ offset 76 76
+ frame data/chars/Byakuya/794.gif
+ offset 78 78
+ frame data/chars/Byakuya/795.gif
+
+anim freespecial1168
+ delay 7
+ offset 240 240
+ frame data/chars/Byakuya/796.gif
+
+anim freespecial1169
+ delay 7
+ offset 132 117
+ frame data/chars/Byakuya/797.gif
+ offset 139 111
+ frame data/chars/Byakuya/798.gif
+ offset 152 135
+ frame data/chars/Byakuya/799.gif
+ offset 152 141
+ frame data/chars/Byakuya/800.gif
+ offset 158 153
+ frame data/chars/Byakuya/801.gif
+ offset 163 158
+ frame data/chars/Byakuya/802.gif
+ offset 136 144
+ frame data/chars/Byakuya/803.gif
+
+anim freespecial3040
+ delay 7
+ offset 69 75
+ frame data/chars/Byakuya/804.gif
+ offset 73 86
+ frame data/chars/Byakuya/805.gif
+ offset 88 97
+ frame data/chars/Byakuya/806.gif
+ offset 110 114
+ frame data/chars/Byakuya/807.gif
+ offset 112 128
+ frame data/chars/Byakuya/808.gif
+ offset 119 133
+ frame data/chars/Byakuya/809.gif
+ offset 129 139
+ frame data/chars/Byakuya/810.gif
+ offset 135 144
+ frame data/chars/Byakuya/811.gif
+ offset 133 147
+ frame data/chars/Byakuya/812.gif
+ offset 133 146
+ frame data/chars/Byakuya/813.gif
+ offset 132 142
+ frame data/chars/Byakuya/814.gif
+ offset 117 66
+ frame data/chars/Byakuya/815.gif
+ offset 115 47
+ frame data/chars/Byakuya/816.gif
+ offset 113 43
+ frame data/chars/Byakuya/817.gif
+
+anim freespecial3070
+ delay 7
+ offset 252 146
+ frame data/chars/Byakuya/818.gif
+ offset 272 342
+ frame data/chars/Byakuya/819.gif
+ offset 284 347
+ frame data/chars/Byakuya/820.gif
+ offset 302 362
+ frame data/chars/Byakuya/821.gif
+ offset 297 369
+ frame data/chars/Byakuya/822.gif
+ offset 295 359
+ frame data/chars/Byakuya/823.gif
+ offset 287 318
+ frame data/chars/Byakuya/824.gif
+ offset 270 187
+ frame data/chars/Byakuya/825.gif
+
+anim freespecial3071
+ delay 7
+ offset -58 137
+ frame data/chars/Byakuya/826.gif
+ offset -31 217
+ frame data/chars/Byakuya/827.gif
+ offset 7 264
+ frame data/chars/Byakuya/828.gif
+ offset 42 246
+ frame data/chars/Byakuya/829.gif
+ offset 88 320
+ frame data/chars/Byakuya/830.gif
+ offset 97 346
+ frame data/chars/Byakuya/831.gif
+ offset 87 380
+ frame data/chars/Byakuya/832.gif
+
+anim freespecial3072
+ delay 7
+ offset 627 452
+ frame data/chars/Byakuya/833.gif
+
+anim freespecial3071
+ delay 7
+ offset 91 334
+ frame data/chars/Byakuya/834.gif
+ offset 95 353
+ frame data/chars/Byakuya/835.gif
+ offset 92 363
+ frame data/chars/Byakuya/836.gif
+ offset 94 368
+ frame data/chars/Byakuya/837.gif
+ offset 98 327
+ frame data/chars/Byakuya/838.gif
+ offset 102 331
+ frame data/chars/Byakuya/839.gif
+ offset 65 319
+ frame data/chars/Byakuya/840.gif
+ offset 67 228
+ frame data/chars/Byakuya/841.gif
+
+anim attack560
+ delay 7
+ offset 76 73
+ frame data/chars/Byakuya/842.gif
+
+anim 7007
+ delay 7
+ offset 136 129
+ frame data/chars/Byakuya/843.gif
+ offset 136 137
+ frame data/chars/Byakuya/844.gif
+ offset 138 135
+ frame data/chars/Byakuya/845.gif
+ offset 128 127
+ frame data/chars/Byakuya/846.gif
+ offset 126 126
+ frame data/chars/Byakuya/847.gif
+ offset 124 124
+ frame data/chars/Byakuya/848.gif
+ offset 117 120
+ frame data/chars/Byakuya/849.gif
+
+anim 7008
+ delay 7
+ offset 50 76
+ frame data/chars/Byakuya/850.gif
+ offset 67 90
+ frame data/chars/Byakuya/851.gif
+ offset 72 95
+ frame data/chars/Byakuya/852.gif
+ offset 69 96
+ frame data/chars/Byakuya/853.gif
+ offset 64 95
+ frame data/chars/Byakuya/854.gif
+ offset 64 95
+ frame data/chars/Byakuya/855.gif
+ offset 64 96
+ frame data/chars/Byakuya/856.gif
+ offset 67 99
+ frame data/chars/Byakuya/857.gif
+ offset 65 97
+ frame data/chars/Byakuya/858.gif
+ offset 63 96
+ frame data/chars/Byakuya/859.gif
+ offset 57 94
+ frame data/chars/Byakuya/860.gif
+
+anim 7010
+ delay 7
+ offset 80 57
+ frame data/chars/Byakuya/861.gif
+ offset 86 64
+ frame data/chars/Byakuya/862.gif
+ offset 76 56
+ frame data/chars/Byakuya/863.gif
+ offset 57 5
+ frame data/chars/Byakuya/864.gif
+
+anim freespecial1404
+ delay 7
+ offset 101 296
+ frame data/chars/Byakuya/865.gif
+
+anim freespecial1409
+ delay 7
+ offset 503 503
+ frame data/chars/Byakuya/866.gif
+
+anim freespecial1411
+ delay 7
+ offset 225 225
+ frame data/chars/Byakuya/867.gif
+
+anim 7017
+ delay 7
+ offset -29 32
+ frame data/chars/Byakuya/868.gif
+ offset 5 50
+ frame data/chars/Byakuya/869.gif
+ offset 28 58
+ frame data/chars/Byakuya/870.gif
+ offset 40 81
+ frame data/chars/Byakuya/871.gif
+ offset 79 74
+ frame data/chars/Byakuya/872.gif
+ offset 85 83
+ frame data/chars/Byakuya/873.gif
+ offset 74 95
+ frame data/chars/Byakuya/874.gif
+ offset 64 85
+ frame data/chars/Byakuya/875.gif
+ offset 68 64
+ frame data/chars/Byakuya/876.gif
+ offset 74 43
+ frame data/chars/Byakuya/877.gif
+
+anim freespecial1423
+ delay 7
+ offset 63 29
+ frame data/chars/Byakuya/878.gif
+ offset 73 34
+ frame data/chars/Byakuya/879.gif
+ offset 86 40
+ frame data/chars/Byakuya/880.gif
+ offset 98 48
+ frame data/chars/Byakuya/881.gif
+ offset 115 55
+ frame data/chars/Byakuya/882.gif
+ offset 125 58
+ frame data/chars/Byakuya/883.gif
+ offset 133 61
+ frame data/chars/Byakuya/884.gif
+ offset 136 64
+ frame data/chars/Byakuya/885.gif
+ offset 136 66
+ frame data/chars/Byakuya/886.gif
+ offset 137 64
+ frame data/chars/Byakuya/887.gif
+
+anim freespecial1424
+ delay 7
+ offset 274 80
+ frame data/chars/Byakuya/888.gif
+ offset 278 90
+ frame data/chars/Byakuya/889.gif
+ offset 288 92
+ frame data/chars/Byakuya/890.gif
+ offset 294 86
+ frame data/chars/Byakuya/891.gif
+
+anim freespecial3040
+ delay 7
+ offset 57 34
+ frame data/chars/Byakuya/892.gif
+ offset 39 27
+ frame data/chars/Byakuya/893.gif
+ offset 45 31
+ frame data/chars/Byakuya/894.gif
+ offset 48 34
+ frame data/chars/Byakuya/895.gif
+ offset 52 37
+ frame data/chars/Byakuya/896.gif
+ offset 57 38
+ frame data/chars/Byakuya/897.gif
+ offset 59 40
+ frame data/chars/Byakuya/898.gif
+ offset 61 41
+ frame data/chars/Byakuya/899.gif
+ offset 63 41
+ frame data/chars/Byakuya/900.gif
+ offset 56 37
+ frame data/chars/Byakuya/901.gif
+
+anim freespecial1432
+ delay 7
+ offset 36 22
+ frame data/chars/Byakuya/902.gif
+
+anim freespecial1433
+ delay 7
+ offset 46 10
+ frame data/chars/Byakuya/903.gif
+ offset 56 96
+ frame data/chars/Byakuya/904.gif
+ offset 64 116
+ frame data/chars/Byakuya/905.gif
+ offset 74 141
+ frame data/chars/Byakuya/906.gif
+ offset 83 152
+ frame data/chars/Byakuya/907.gif
+ offset 84 160
+ frame data/chars/Byakuya/908.gif
+ offset 87 166
+ frame data/chars/Byakuya/909.gif
+ offset 87 178
+ frame data/chars/Byakuya/910.gif
+ offset 87 181
+ frame data/chars/Byakuya/911.gif
+ offset 87 185
+ frame data/chars/Byakuya/912.gif
+ offset 86 190
+ frame data/chars/Byakuya/913.gif
+ offset 85 190
+ frame data/chars/Byakuya/914.gif
+ offset 84 193
+ frame data/chars/Byakuya/915.gif
+ offset 85 193
+ frame data/chars/Byakuya/916.gif
+ offset 72 192
+ frame data/chars/Byakuya/917.gif
+ offset 59 196
+ frame data/chars/Byakuya/918.gif
+ offset 57 195
+ frame data/chars/Byakuya/919.gif
+ offset 54 185
+ frame data/chars/Byakuya/920.gif
+ offset 41 135
+ frame data/chars/Byakuya/921.gif
+ offset 38 131
+ frame data/chars/Byakuya/922.gif
+ offset 36 132
+ frame data/chars/Byakuya/923.gif
+
+anim freespecial1435
+ delay 7
+ offset 17 62
+ frame data/chars/Byakuya/924.gif
+
+anim freespecial1436
+ delay 7
+ offset 83 127
+ frame data/chars/Byakuya/925.gif
+ offset 84 131
+ frame data/chars/Byakuya/926.gif
+ offset 86 134
+ frame data/chars/Byakuya/927.gif
+ offset 92 134
+ frame data/chars/Byakuya/928.gif
+ offset 88 135
+ frame data/chars/Byakuya/929.gif
+ offset 88 134
+ frame data/chars/Byakuya/930.gif
+ offset 90 117
+ frame data/chars/Byakuya/931.gif
+ offset 90 119
+ frame data/chars/Byakuya/932.gif
+ offset 91 123
+ frame data/chars/Byakuya/933.gif
+ offset 91 135
+ frame data/chars/Byakuya/934.gif
+ offset 79 125
+ frame data/chars/Byakuya/935.gif
+ offset 89 125
+ frame data/chars/Byakuya/936.gif
+ offset 79 123
+ frame data/chars/Byakuya/937.gif
+ offset 84 125
+ frame data/chars/Byakuya/938.gif
+ offset 88 111
+ frame data/chars/Byakuya/939.gif
+ offset 86 108
+ frame data/chars/Byakuya/940.gif
+ offset 74 110
+ frame data/chars/Byakuya/941.gif
+ offset 60 109
+ frame data/chars/Byakuya/942.gif
+ offset 78 122
+ frame data/chars/Byakuya/943.gif
+ offset 79 125
+ frame data/chars/Byakuya/944.gif
+
+anim freespecial1435
+ delay 7
+ offset 16 32
+ frame data/chars/Byakuya/945.gif
+ offset 17 39
+ frame data/chars/Byakuya/946.gif
+ offset 17 56
+ frame data/chars/Byakuya/947.gif
+ offset 19 71
+ frame data/chars/Byakuya/948.gif
+ offset 19 74
+ frame data/chars/Byakuya/949.gif
+
+anim freespecial1440
+ delay 7
+ offset 320 240
+ frame data/chars/Byakuya/950.gif
+
+anim freespecial1447
+ delay 7
+ offset 662 37
+ frame data/chars/Byakuya/951.gif
+ offset 662 13
+ frame data/chars/Byakuya/952.gif
+ offset 656 10
+ frame data/chars/Byakuya/953.gif
+ offset 559 7
+ frame data/chars/Byakuya/954.gif
+ offset 481 5
+ frame data/chars/Byakuya/955.gif
+ offset 335 3
+ frame data/chars/Byakuya/956.gif
+ offset 190 3
+ frame data/chars/Byakuya/957.gif
+ offset -106 2
+ frame data/chars/Byakuya/958.gif
+
+anim freespecial1448
+ delay 7
+ offset 75 76
+ frame data/chars/Byakuya/959.gif
+ offset 111 79
+ frame data/chars/Byakuya/960.gif
+ offset 110 63
+ frame data/chars/Byakuya/961.gif
+ offset 54 59
+ frame data/chars/Byakuya/962.gif
+ offset 49 56
+ frame data/chars/Byakuya/963.gif
+ offset 150 77
+ frame data/chars/Byakuya/964.gif
+ offset 144 106
+ frame data/chars/Byakuya/965.gif
+ offset 139 110
+ frame data/chars/Byakuya/966.gif
+ offset 116 109
+ frame data/chars/Byakuya/967.gif
+ offset 112 105
+ frame data/chars/Byakuya/968.gif
+ offset 109 110
+ frame data/chars/Byakuya/969.gif
+ offset 106 108
+ frame data/chars/Byakuya/970.gif
+
+anim freespecial1449
+ delay 7
+ offset 36 33
+ frame data/chars/Byakuya/971.gif
+ offset 77 94
+ frame data/chars/Byakuya/972.gif
+ offset 128 115
+ frame data/chars/Byakuya/973.gif
+ offset 169 140
+ frame data/chars/Byakuya/974.gif
+ offset 184 196
+ frame data/chars/Byakuya/975.gif
+ offset 110 93
+ frame data/chars/Byakuya/976.gif
+ offset 136 95
+ frame data/chars/Byakuya/977.gif
+ offset 127 65
+ frame data/chars/Byakuya/978.gif
+ offset 56 59
+ frame data/chars/Byakuya/979.gif
+ offset -9 61
+ frame data/chars/Byakuya/980.gif
+
+anim freespecial1450
+ delay 7
+ offset 56 75
+ frame data/chars/Byakuya/981.gif
+ offset 86 115
+ frame data/chars/Byakuya/982.gif
+ offset 92 121
+ frame data/chars/Byakuya/983.gif
+ offset 80 121
+ frame data/chars/Byakuya/984.gif
+ offset 74 115
+ frame data/chars/Byakuya/985.gif
+
+anim 0801
+ delay 7
+ offset 31 31
+ frame data/chars/Byakuya/986.gif
+ offset 45 44
+ frame data/chars/Byakuya/987.gif
+ offset 53 53
+ frame data/chars/Byakuya/988.gif
+ offset 60 60
+ frame data/chars/Byakuya/989.gif
+ offset 66 66
+ frame data/chars/Byakuya/990.gif
+ offset 71 71
+ frame data/chars/Byakuya/991.gif
+ offset 75 75
+ frame data/chars/Byakuya/992.gif
+ offset 78 78
+ frame data/chars/Byakuya/993.gif
+ offset 81 81
+ frame data/chars/Byakuya/994.gif
+ offset 82 82
+ frame data/chars/Byakuya/995.gif
+ offset 83 83
+ frame data/chars/Byakuya/996.gif
+ offset 82 82
+ frame data/chars/Byakuya/997.gif
+ offset 80 81
+ frame data/chars/Byakuya/998.gif
+ offset 74 74
+ frame data/chars/Byakuya/999.gif
+ offset 75 75
+ frame data/chars/Byakuya/1000.gif
+ offset 76 76
+ frame data/chars/Byakuya/1001.gif
+ offset 77 77
+ frame data/chars/Byakuya/1002.gif
+ offset 77 77
+ frame data/chars/Byakuya/1003.gif
+ offset 77 77
+ frame data/chars/Byakuya/1004.gif
+ offset 77 77
+ frame data/chars/Byakuya/1005.gif
+
+anim 0802
+ delay 7
+ offset 87 69
+ frame data/chars/Byakuya/1006.gif
+ offset 91 101
+ frame data/chars/Byakuya/1007.gif
+ offset 99 106
+ frame data/chars/Byakuya/1008.gif
+ offset 101 93
+ frame data/chars/Byakuya/1009.gif
+ offset 98 94
+ frame data/chars/Byakuya/1010.gif
+ offset 97 95
+ frame data/chars/Byakuya/1011.gif
+ offset 95 92
+ frame data/chars/Byakuya/1012.gif
+ offset 69 91
+ frame data/chars/Byakuya/1013.gif
+
+anim 0803
+ delay 7
+ offset 23 160
+ frame data/chars/Byakuya/1014.gif
+ offset 24 175
+ frame data/chars/Byakuya/1015.gif
+ offset 36 280
+ frame data/chars/Byakuya/1016.gif
+ offset 36 276
+ frame data/chars/Byakuya/1017.gif
+ offset 37 238
+ frame data/chars/Byakuya/1018.gif
+ offset 34 256
+ frame data/chars/Byakuya/1019.gif
+ offset 20 247
+ frame data/chars/Byakuya/1020.gif
+ offset 19 243
+ frame data/chars/Byakuya/1021.gif
+
+anim 0804
+ delay 7
+ offset 86 106
+ frame data/chars/Byakuya/1022.gif
+ offset 85 100
+ frame data/chars/Byakuya/1023.gif
+ offset 82 112
+ frame data/chars/Byakuya/1024.gif
+ offset 89 109
+ frame data/chars/Byakuya/1025.gif
+ offset 95 114
+ frame data/chars/Byakuya/1026.gif
+ offset 100 106
+ frame data/chars/Byakuya/1027.gif
+ offset 106 115
+ frame data/chars/Byakuya/1028.gif
+ offset 109 109
+ frame data/chars/Byakuya/1029.gif
+ offset 113 107
+ frame data/chars/Byakuya/1030.gif
+ offset 114 113
+ frame data/chars/Byakuya/1031.gif
+ offset 116 112
+ frame data/chars/Byakuya/1032.gif
+ offset 117 116
+ frame data/chars/Byakuya/1033.gif
+ offset 118 114
+ frame data/chars/Byakuya/1034.gif
+ offset 114 119
+ frame data/chars/Byakuya/1035.gif
+ offset 112 111
+ frame data/chars/Byakuya/1036.gif
+ offset 112 109
+ frame data/chars/Byakuya/1037.gif
+ offset 110 104
+ frame data/chars/Byakuya/1038.gif
+ offset 105 102
+ frame data/chars/Byakuya/1039.gif
+ offset 105 104
+ frame data/chars/Byakuya/1040.gif
+ offset 88 71
+ frame data/chars/Byakuya/1041.gif
+ offset 82 62
+ frame data/chars/Byakuya/1042.gif
+
+anim 0806
+ delay 7
+ offset 33 32
+ frame data/chars/Byakuya/1043.gif
+ offset 92 90
+ frame data/chars/Byakuya/1044.gif
+ offset 119 119
+ frame data/chars/Byakuya/1045.gif
+ offset 135 132
+ frame data/chars/Byakuya/1046.gif
+ offset 141 133
+ frame data/chars/Byakuya/1047.gif
+ offset 160 164
+ frame data/chars/Byakuya/1048.gif
+ offset 169 172
+ frame data/chars/Byakuya/1049.gif
+ offset 174 169
+ frame data/chars/Byakuya/1050.gif
+ offset 184 170
+ frame data/chars/Byakuya/1051.gif
+ offset 198 169
+ frame data/chars/Byakuya/1052.gif
+ offset 171 170
+ frame data/chars/Byakuya/1053.gif
+ offset 235 172
+ frame data/chars/Byakuya/1054.gif
+ offset 253 172
+ frame data/chars/Byakuya/1055.gif
+ offset 269 172
+ frame data/chars/Byakuya/1056.gif
+ offset 284 172
+ frame data/chars/Byakuya/1057.gif
+ offset 299 172
+ frame data/chars/Byakuya/1058.gif
+ offset 265 172
+ frame data/chars/Byakuya/1059.gif
+ offset 236 172
+ frame data/chars/Byakuya/1060.gif
+ offset 293 172
+ frame data/chars/Byakuya/1061.gif
+ offset 276 172
+ frame data/chars/Byakuya/1062.gif
+ offset 293 172
+ frame data/chars/Byakuya/1063.gif
+ offset 306 172
+ frame data/chars/Byakuya/1064.gif
+ offset 306 172
+ frame data/chars/Byakuya/1065.gif
+ offset 290 172
+ frame data/chars/Byakuya/1066.gif
+ offset 295 172
+ frame data/chars/Byakuya/1067.gif
+ offset 244 172
+ frame data/chars/Byakuya/1068.gif
+ offset 253 172
+ frame data/chars/Byakuya/1069.gif
+ offset 262 172
+ frame data/chars/Byakuya/1070.gif
+ offset 275 163
+ frame data/chars/Byakuya/1071.gif
+ offset 273 171
+ frame data/chars/Byakuya/1072.gif
+
+anim 0810
+ delay 7
+ offset 32 73
+ frame data/chars/Byakuya/1073.gif
+ offset 79 121
+ frame data/chars/Byakuya/1074.gif
+ offset 63 146
+ frame data/chars/Byakuya/1075.gif
+ offset 93 137
+ frame data/chars/Byakuya/1076.gif
+ offset 47 147
+ frame data/chars/Byakuya/1077.gif
+ offset 78 89
+ frame data/chars/Byakuya/1078.gif
+ offset 23 55
+ frame data/chars/Byakuya/1079.gif
+ offset 98 78
+ frame data/chars/Byakuya/1080.gif
+ offset 123 84
+ frame data/chars/Byakuya/1081.gif
+ offset 114 95
+ frame data/chars/Byakuya/1082.gif
+ offset 124 110
+ frame data/chars/Byakuya/1083.gif
+ offset 66 80
+ frame data/chars/Byakuya/1084.gif
+
+anim 0814
+ delay 7
+ offset 300 169
+ frame data/chars/Byakuya/1085.gif
+ offset 300 169
+ frame data/chars/Byakuya/1086.gif
+ offset 300 169
+ frame data/chars/Byakuya/1087.gif
+ offset 300 167
+ frame data/chars/Byakuya/1088.gif
+ offset 300 166
+ frame data/chars/Byakuya/1089.gif
+ offset 300 162
+ frame data/chars/Byakuya/1090.gif
+ offset 300 168
+ frame data/chars/Byakuya/1091.gif
+ offset 300 169
+ frame data/chars/Byakuya/1092.gif
+ offset 300 169
+ frame data/chars/Byakuya/1093.gif
+ offset 300 169
+ frame data/chars/Byakuya/1094.gif
+ offset 300 164
+ frame data/chars/Byakuya/1095.gif
+ offset 300 164
+ frame data/chars/Byakuya/1096.gif
+ offset 300 163
+ frame data/chars/Byakuya/1097.gif
+ offset 300 169
+ frame data/chars/Byakuya/1098.gif
+ offset 300 160
+ frame data/chars/Byakuya/1099.gif
+ offset 300 148
+ frame data/chars/Byakuya/1100.gif
+ offset 300 148
+ frame data/chars/Byakuya/1101.gif
+ offset 300 166
+ frame data/chars/Byakuya/1102.gif
+ offset 300 163
+ frame data/chars/Byakuya/1103.gif
+
+anim 0815
+ delay 7
+ offset 281 131
+ frame data/chars/Byakuya/1104.gif
+ offset 283 131
+ frame data/chars/Byakuya/1105.gif
+ offset 284 152
+ frame data/chars/Byakuya/1106.gif
+ offset 286 163
+ frame data/chars/Byakuya/1107.gif
+ offset 288 170
+ frame data/chars/Byakuya/1108.gif
+ offset 288 180
+ frame data/chars/Byakuya/1109.gif
+ offset 291 189
+ frame data/chars/Byakuya/1110.gif
+ offset 292 182
+ frame data/chars/Byakuya/1111.gif
+ offset 292 185
+ frame data/chars/Byakuya/1112.gif
+ offset 293 191
+ frame data/chars/Byakuya/1113.gif
+ offset 294 195
+ frame data/chars/Byakuya/1114.gif
+ offset 294 199
+ frame data/chars/Byakuya/1115.gif
+ offset 294 200
+ frame data/chars/Byakuya/1116.gif
+ offset 295 201
+ frame data/chars/Byakuya/1117.gif
+ offset 295 202
+ frame data/chars/Byakuya/1118.gif
+ offset 297 201
+ frame data/chars/Byakuya/1119.gif
+ offset 299 201
+ frame data/chars/Byakuya/1120.gif
+ offset 302 199
+ frame data/chars/Byakuya/1121.gif
+ offset 303 195
+ frame data/chars/Byakuya/1122.gif
+ offset 306 191
+ frame data/chars/Byakuya/1123.gif
+ offset 307 188
+ frame data/chars/Byakuya/1124.gif
+ offset 308 181
+ frame data/chars/Byakuya/1125.gif
+ offset 277 174
+ frame data/chars/Byakuya/1126.gif
+ offset 278 168
+ frame data/chars/Byakuya/1127.gif
+ offset 277 160
+ frame data/chars/Byakuya/1128.gif
+ offset 275 154
+ frame data/chars/Byakuya/1129.gif
+ offset 268 150
+ frame data/chars/Byakuya/1130.gif
+ offset 268 145
+ frame data/chars/Byakuya/1131.gif
+ offset 268 143
+ frame data/chars/Byakuya/1132.gif
+ offset 267 139
+ frame data/chars/Byakuya/1133.gif
+ offset 267 134
+ frame data/chars/Byakuya/1134.gif
+ offset 266 128
+ frame data/chars/Byakuya/1135.gif
+ offset 265 125
+ frame data/chars/Byakuya/1136.gif
+ offset 234 89
+ frame data/chars/Byakuya/1137.gif
+ offset 234 83
+ frame data/chars/Byakuya/1138.gif
+ offset 233 76
+ frame data/chars/Byakuya/1139.gif
+ offset 233 73
+ frame data/chars/Byakuya/1140.gif
+ offset 232 -15
+ frame data/chars/Byakuya/1141.gif
+ offset 231 -36
+ frame data/chars/Byakuya/1142.gif
+ offset 231 -57
+ frame data/chars/Byakuya/1143.gif
+ offset 231 -69
+ frame data/chars/Byakuya/1144.gif
+ offset 228 -92
+ frame data/chars/Byakuya/1145.gif
+ offset 196 -117
+ frame data/chars/Byakuya/1146.gif
+ offset 197 -144
+ frame data/chars/Byakuya/1147.gif
+ offset 198 -158
+ frame data/chars/Byakuya/1148.gif
+ offset 198 -186
+ frame data/chars/Byakuya/1149.gif
+ offset 199 -215
+ frame data/chars/Byakuya/1150.gif
+
+anim 0816
+ delay 7
+ offset 97 481
+ frame data/chars/Byakuya/1151.gif
+ offset 97 481
+ frame data/chars/Byakuya/1152.gif
+ offset 95 481
+ frame data/chars/Byakuya/1153.gif
+ offset 90 479
+ frame data/chars/Byakuya/1154.gif
+ offset 85 479
+ frame data/chars/Byakuya/1155.gif
+ offset 89 481
+ frame data/chars/Byakuya/1156.gif
+ offset 94 481
+ frame data/chars/Byakuya/1157.gif
+ offset 97 481
+ frame data/chars/Byakuya/1158.gif
+ offset 97 481
+ frame data/chars/Byakuya/1159.gif
+ offset 97 481
+ frame data/chars/Byakuya/1160.gif
+ offset 97 481
+ frame data/chars/Byakuya/1161.gif
+ offset 97 481
+ frame data/chars/Byakuya/1162.gif
+ offset 97 481
+ frame data/chars/Byakuya/1163.gif
+ offset 97 481
+ frame data/chars/Byakuya/1164.gif
+ offset 97 481
+ frame data/chars/Byakuya/1165.gif
+ offset 97 481
+ frame data/chars/Byakuya/1166.gif
+ offset 97 481
+ frame data/chars/Byakuya/1167.gif
+ offset 97 481
+ frame data/chars/Byakuya/1168.gif
+ offset 97 481
+ frame data/chars/Byakuya/1169.gif
+ offset 97 481
+ frame data/chars/Byakuya/1170.gif
+ offset 97 481
+ frame data/chars/Byakuya/1171.gif
+ offset 97 481
+ frame data/chars/Byakuya/1172.gif
+
+anim 0817
+ delay 7
+ offset 214 184
+ frame data/chars/Byakuya/1173.gif
+ offset 225 196
+ frame data/chars/Byakuya/1174.gif
+ offset 221 196
+ frame data/chars/Byakuya/1175.gif
+ offset 187 175
+ frame data/chars/Byakuya/1176.gif
+ offset 197 183
+ frame data/chars/Byakuya/1177.gif
+ offset 210 187
+ frame data/chars/Byakuya/1178.gif
+ offset 231 190
+ frame data/chars/Byakuya/1179.gif
+ offset 232 173
+ frame data/chars/Byakuya/1180.gif
+ offset 234 154
+ frame data/chars/Byakuya/1181.gif
+ offset 235 154
+ frame data/chars/Byakuya/1182.gif
+ offset 236 155
+ frame data/chars/Byakuya/1183.gif
+ offset 236 99
+ frame data/chars/Byakuya/1184.gif
+ offset 236 101
+ frame data/chars/Byakuya/1185.gif
+ offset 236 109
+ frame data/chars/Byakuya/1186.gif
+ offset 236 105
+ frame data/chars/Byakuya/1187.gif
+ offset 236 99
+ frame data/chars/Byakuya/1188.gif
+
+anim 0818
+ delay 7
+ offset 291 162
+ frame data/chars/Byakuya/1189.gif
+ offset 336 160
+ frame data/chars/Byakuya/1190.gif
+ offset 363 161
+ frame data/chars/Byakuya/1191.gif
+ offset 391 125
+ frame data/chars/Byakuya/1192.gif
+ offset 388 129
+ frame data/chars/Byakuya/1193.gif
+ offset 385 135
+ frame data/chars/Byakuya/1194.gif
+ offset 331 92
+ frame data/chars/Byakuya/1195.gif
+ offset 344 99
+ frame data/chars/Byakuya/1196.gif
+ offset 288 98
+ frame data/chars/Byakuya/1197.gif
+ offset 287 100
+ frame data/chars/Byakuya/1198.gif
+
+anim 0820
+ delay 7
+ offset 203 257
+ frame data/chars/Byakuya/1199.gif
+ offset 203 257
+ frame data/chars/Byakuya/1200.gif
+ offset 203 257
+ frame data/chars/Byakuya/1201.gif
+ offset 203 257
+ frame data/chars/Byakuya/1202.gif
+ offset 203 257
+ frame data/chars/Byakuya/1203.gif
+ offset 203 257
+ frame data/chars/Byakuya/1204.gif
+ offset 203 257
+ frame data/chars/Byakuya/1205.gif
+ offset 203 257
+ frame data/chars/Byakuya/1206.gif
+ offset 203 257
+ frame data/chars/Byakuya/1207.gif
+ offset 203 257
+ frame data/chars/Byakuya/1208.gif
+ offset 203 257
+ frame data/chars/Byakuya/1209.gif
+ offset 203 257
+ frame data/chars/Byakuya/1210.gif
+ offset 203 257
+ frame data/chars/Byakuya/1211.gif
+ offset 203 257
+ frame data/chars/Byakuya/1212.gif
+ offset 203 257
+ frame data/chars/Byakuya/1213.gif
+ offset 203 257
+ frame data/chars/Byakuya/1214.gif
+ offset 203 257
+ frame data/chars/Byakuya/1215.gif
+ offset 203 257
+ frame data/chars/Byakuya/1216.gif
+ offset 203 257
+ frame data/chars/Byakuya/1217.gif
+ offset 203 257
+ frame data/chars/Byakuya/1218.gif
+ offset 203 257
+ frame data/chars/Byakuya/1219.gif
+ offset 203 257
+ frame data/chars/Byakuya/1220.gif
+ offset 203 257
+ frame data/chars/Byakuya/1221.gif
+ offset 203 257
+ frame data/chars/Byakuya/1222.gif
+ offset 203 257
+ frame data/chars/Byakuya/1223.gif
+ offset 203 257
+ frame data/chars/Byakuya/1224.gif
+ offset 203 257
+ frame data/chars/Byakuya/1225.gif
+ offset 203 257
+ frame data/chars/Byakuya/1226.gif
+ offset 203 257
+ frame data/chars/Byakuya/1227.gif
+ offset 203 257
+ frame data/chars/Byakuya/1228.gif
+
+anim 0821
+ delay 7
+ offset 101 104
+ frame data/chars/Byakuya/1229.gif
+ offset 101 104
+ frame data/chars/Byakuya/1230.gif
+ offset 101 104
+ frame data/chars/Byakuya/1231.gif
+ offset 101 104
+ frame data/chars/Byakuya/1232.gif
+ offset 101 104
+ frame data/chars/Byakuya/1233.gif
+ offset 101 104
+ frame data/chars/Byakuya/1234.gif
+ offset 101 104
+ frame data/chars/Byakuya/1235.gif
+ offset 101 104
+ frame data/chars/Byakuya/1236.gif
+ offset 101 104
+ frame data/chars/Byakuya/1237.gif
+ offset 101 104
+ frame data/chars/Byakuya/1238.gif
+ offset 101 104
+ frame data/chars/Byakuya/1239.gif
+
+anim 0822
+ delay 7
+ offset 70 77
+ frame data/chars/Byakuya/1240.gif
+ offset 72 72
+ frame data/chars/Byakuya/1241.gif
+ offset 73 69
+ frame data/chars/Byakuya/1242.gif
+ offset 71 62
+ frame data/chars/Byakuya/1243.gif
+ offset 68 50
+ frame data/chars/Byakuya/1244.gif
+
+anim 0824
+ delay 7
+ offset 230 205
+ frame data/chars/Byakuya/1245.gif
+ offset 230 205
+ frame data/chars/Byakuya/1246.gif
+ offset 230 205
+ frame data/chars/Byakuya/1247.gif
+ offset 230 205
+ frame data/chars/Byakuya/1248.gif
+ offset 230 205
+ frame data/chars/Byakuya/1249.gif
+ offset 230 205
+ frame data/chars/Byakuya/1250.gif
+ offset 230 205
+ frame data/chars/Byakuya/1251.gif
+
+anim 0825
+ delay 7
+ offset 255 297
+ frame data/chars/Byakuya/1252.gif
+ offset 255 297
+ frame data/chars/Byakuya/1253.gif
+ offset 255 297
+ frame data/chars/Byakuya/1254.gif
+ offset 255 297
+ frame data/chars/Byakuya/1255.gif
+ offset 255 297
+ frame data/chars/Byakuya/1256.gif
+ offset 255 297
+ frame data/chars/Byakuya/1257.gif
+ offset 255 297
+ frame data/chars/Byakuya/1258.gif
+ offset 255 297
+ frame data/chars/Byakuya/1259.gif
+ offset 255 297
+ frame data/chars/Byakuya/1260.gif
+ offset 255 297
+ frame data/chars/Byakuya/1261.gif
+ offset 255 297
+ frame data/chars/Byakuya/1262.gif
+ offset 255 297
+ frame data/chars/Byakuya/1263.gif
+ offset 255 297
+ frame data/chars/Byakuya/1264.gif
+ offset 255 297
+ frame data/chars/Byakuya/1265.gif
+ offset 255 297
+ frame data/chars/Byakuya/1266.gif
+ offset 255 297
+ frame data/chars/Byakuya/1267.gif
+ offset 255 297
+ frame data/chars/Byakuya/1268.gif
+ offset 255 297
+ frame data/chars/Byakuya/1269.gif
+ offset 255 297
+ frame data/chars/Byakuya/1270.gif
+ offset 255 297
+ frame data/chars/Byakuya/1271.gif
+ offset 255 297
+ frame data/chars/Byakuya/1272.gif
+ offset 255 297
+ frame data/chars/Byakuya/1273.gif
+ offset 255 297
+ frame data/chars/Byakuya/1274.gif
+
+anim 9133
+ delay 7
+ offset 175 174
+ frame data/chars/Byakuya/1275.gif
+ offset 175 175
+ frame data/chars/Byakuya/1276.gif
+ offset 160 178
+ frame data/chars/Byakuya/1277.gif
+ offset 156 166
+ frame data/chars/Byakuya/1278.gif
+ offset 147 166
+ frame data/chars/Byakuya/1279.gif
+ offset 178 165
+ frame data/chars/Byakuya/1280.gif
+ offset 179 160
+ frame data/chars/Byakuya/1281.gif
+ offset 184 160
+ frame data/chars/Byakuya/1282.gif
+ offset 184 154
+ frame data/chars/Byakuya/1283.gif
+ offset 239 157
+ frame data/chars/Byakuya/1284.gif
+ offset 239 157
+ frame data/chars/Byakuya/1285.gif
+ offset 310 180
+ frame data/chars/Byakuya/1286.gif
+ offset 310 180
+ frame data/chars/Byakuya/1287.gif
+ offset 392 180
+ frame data/chars/Byakuya/1288.gif
+ offset 392 180
+ frame data/chars/Byakuya/1289.gif
+ offset 448 180
+ frame data/chars/Byakuya/1290.gif
+
+anim 0828
+ delay 7
+ offset 26 26
+ frame data/chars/Byakuya/1291.gif
+ offset 26 26
+ frame data/chars/Byakuya/1292.gif
+
+anim 0830
+ delay 7
+ offset 100 100
+ frame data/chars/Byakuya/1293.gif
+ offset 100 100
+ frame data/chars/Byakuya/1294.gif
+ offset 100 100
+ frame data/chars/Byakuya/1295.gif
+ offset 100 100
+ frame data/chars/Byakuya/1296.gif
+
+anim 0832
+ delay 7
+ offset 96 89
+ frame data/chars/Byakuya/1297.gif
+ offset 103 165
+ frame data/chars/Byakuya/1298.gif
+ offset 102 161
+ frame data/chars/Byakuya/1299.gif
+ offset 104 161
+ frame data/chars/Byakuya/1300.gif
+ offset 105 162
+ frame data/chars/Byakuya/1301.gif
+ offset 104 160
+ frame data/chars/Byakuya/1302.gif
+ offset 104 161
+ frame data/chars/Byakuya/1303.gif
+ offset 102 161
+ frame data/chars/Byakuya/1304.gif
+ offset 100 160
+ frame data/chars/Byakuya/1305.gif
+ offset 98 157
+ frame data/chars/Byakuya/1306.gif
+ offset 99 153
+ frame data/chars/Byakuya/1307.gif
+ offset 99 134
+ frame data/chars/Byakuya/1308.gif
+ offset 97 82
+ frame data/chars/Byakuya/1309.gif
+ offset 99 75
+ frame data/chars/Byakuya/1310.gif
+
+anim 0833
+ delay 7
+ offset 189 77
+ frame data/chars/Byakuya/1311.gif
+ offset 201 72
+ frame data/chars/Byakuya/1312.gif
+ offset 202 69
+ frame data/chars/Byakuya/1313.gif
+ offset 202 72
+ frame data/chars/Byakuya/1314.gif
+ offset 201 81
+ frame data/chars/Byakuya/1315.gif
+ offset 158 73
+ frame data/chars/Byakuya/1316.gif
+ offset 501 81
+ frame data/chars/Byakuya/1317.gif
+ offset 504 81
+ frame data/chars/Byakuya/1318.gif
+ offset 491 72
+ frame data/chars/Byakuya/1319.gif
+ offset 488 66
+ frame data/chars/Byakuya/1320.gif
+ offset 88 49
+ frame data/chars/Byakuya/1321.gif
+
+anim 7300
+ delay 7
+ offset 65 81
+ frame data/chars/Byakuya/1322.gif
+ offset 65 80
+ frame data/chars/Byakuya/1323.gif
+ offset 65 79
+ frame data/chars/Byakuya/1324.gif
+ offset 65 79
+ frame data/chars/Byakuya/1325.gif
+ offset 65 79
+ frame data/chars/Byakuya/1326.gif
+ offset 65 80
+ frame data/chars/Byakuya/1327.gif
+ offset 65 80
+ frame data/chars/Byakuya/1328.gif
+ offset 65 80
+ frame data/chars/Byakuya/1329.gif
+
+anim 7301
+ delay 7
+ offset 81 30
+ frame data/chars/Byakuya/1330.gif
+ offset 158 44
+ frame data/chars/Byakuya/1331.gif
+ offset 159 57
+ frame data/chars/Byakuya/1332.gif
+ offset 159 67
+ frame data/chars/Byakuya/1333.gif
+ offset 178 57
+ frame data/chars/Byakuya/1334.gif
+ offset 174 55
+ frame data/chars/Byakuya/1335.gif
+ offset 170 39
+ frame data/chars/Byakuya/1336.gif
+ offset 179 42
+ frame data/chars/Byakuya/1337.gif
+ offset 181 43
+ frame data/chars/Byakuya/1338.gif
+ offset 178 43
+ frame data/chars/Byakuya/1339.gif
+ offset 169 17
+ frame data/chars/Byakuya/1340.gif
+ offset 79 15
+ frame data/chars/Byakuya/1341.gif
+ offset 103 16
+ frame data/chars/Byakuya/1342.gif
+ offset 129 18
+ frame data/chars/Byakuya/1343.gif
+ offset 169 15
+ frame data/chars/Byakuya/1344.gif
+
+anim freespecial1210
+ delay 7
+ offset 299 57
+ frame data/chars/Byakuya/1345.gif
+ offset 298 40
+ frame data/chars/Byakuya/1346.gif
+ offset 297 24
+ frame data/chars/Byakuya/1347.gif
+ offset 276 42
+ frame data/chars/Byakuya/1348.gif
+ offset 276 42
+ frame data/chars/Byakuya/1349.gif
+ offset 276 42
+ frame data/chars/Byakuya/1350.gif
+ offset 277 42
+ frame data/chars/Byakuya/1351.gif
+ offset 275 41
+ frame data/chars/Byakuya/1352.gif
+ offset 271 41
+ frame data/chars/Byakuya/1353.gif
+ offset 268 40
+ frame data/chars/Byakuya/1354.gif
+ offset 262 33
+ frame data/chars/Byakuya/1355.gif
+ offset 260 16
+ frame data/chars/Byakuya/1356.gif
+ offset 251 7
+ frame data/chars/Byakuya/1357.gif
+ offset 259 5
+ frame data/chars/Byakuya/1358.gif
+ offset 257 4
+ frame data/chars/Byakuya/1359.gif
+ offset 243 4
+ frame data/chars/Byakuya/1360.gif
+ offset 233 3
+ frame data/chars/Byakuya/1361.gif
+ offset 195 2
+ frame data/chars/Byakuya/1362.gif
+
+anim 0834
+ delay 7
+ offset 8 69
+ frame data/chars/Byakuya/1363.gif
+ offset 9 60
+ frame data/chars/Byakuya/1364.gif
+ offset 9 62
+ frame data/chars/Byakuya/1365.gif
+ offset 8 63
+ frame data/chars/Byakuya/1366.gif
+ offset 8 60
+ frame data/chars/Byakuya/1367.gif
+ offset 1 45
+ frame data/chars/Byakuya/1368.gif
+ offset -3 38
+ frame data/chars/Byakuya/1369.gif
+ offset -19 31
+ frame data/chars/Byakuya/1370.gif
+ offset -27 12
+ frame data/chars/Byakuya/1371.gif
+ offset -47 11
+ frame data/chars/Byakuya/1372.gif
+
+anim 0835
+ delay 7
+ offset 16 25
+ frame data/chars/Byakuya/1373.gif
+ offset 26 21
+ frame data/chars/Byakuya/1374.gif
+ offset 30 28
+ frame data/chars/Byakuya/1375.gif
+ offset 25 30
+ frame data/chars/Byakuya/1376.gif
+ offset 26 28
+ frame data/chars/Byakuya/1377.gif
+ offset 26 29
+ frame data/chars/Byakuya/1378.gif
+ offset 29 22
+ frame data/chars/Byakuya/1379.gif
+ offset 29 29
+ frame data/chars/Byakuya/1380.gif
+ offset 26 29
+ frame data/chars/Byakuya/1381.gif
+ offset 26 32
+ frame data/chars/Byakuya/1382.gif
+ offset 26 16
+ frame data/chars/Byakuya/1383.gif
+ offset 15 17
+ frame data/chars/Byakuya/1384.gif
+
+anim 0836
+ delay 7
+ offset 65 70
+ frame data/chars/Byakuya/1385.gif
+ offset 63 65
+ frame data/chars/Byakuya/1386.gif
+ offset 57 60
+ frame data/chars/Byakuya/1387.gif
+ offset 51 55
+ frame data/chars/Byakuya/1388.gif
+
+anim 0837
+ delay 7
+ offset 194 210
+ frame data/chars/Byakuya/1389.gif
+ offset 194 249
+ frame data/chars/Byakuya/1390.gif
+ offset 194 249
+ frame data/chars/Byakuya/1391.gif
+ offset 194 221
+ frame data/chars/Byakuya/1392.gif
+ offset 160 161
+ frame data/chars/Byakuya/1393.gif
+
+anim 0838
+ delay 7
+ offset 121 68
+ frame data/chars/Byakuya/1394.gif
+ offset 90 68
+ frame data/chars/Byakuya/1395.gif
+ offset 202 106
+ frame data/chars/Byakuya/1396.gif
+ offset 209 105
+ frame data/chars/Byakuya/1397.gif
+ offset 199 87
+ frame data/chars/Byakuya/1398.gif
+ offset 112 103
+ frame data/chars/Byakuya/1399.gif
+ offset 138 89
+ frame data/chars/Byakuya/1400.gif
+ offset 122 60
+ frame data/chars/Byakuya/1401.gif
+ offset 115 64
+ frame data/chars/Byakuya/1402.gif
+ offset 103 52
+ frame data/chars/Byakuya/1403.gif
+ offset 100 -25
+ frame data/chars/Byakuya/1404.gif
+
+anim 0839
+ delay 7
+ offset 127 89
+ frame data/chars/Byakuya/1405.gif
+ offset 112 130
+ frame data/chars/Byakuya/1406.gif
+ offset 112 156
+ frame data/chars/Byakuya/1407.gif
+ offset 134 206
+ frame data/chars/Byakuya/1408.gif
+ offset 117 209
+ frame data/chars/Byakuya/1409.gif
+ offset 107 212
+ frame data/chars/Byakuya/1410.gif
+ offset 106 133
+ frame data/chars/Byakuya/1411.gif
+ offset 116 136
+ frame data/chars/Byakuya/1412.gif
+ offset 145 138
+ frame data/chars/Byakuya/1413.gif
+ offset 162 138
+ frame data/chars/Byakuya/1414.gif
+ offset 172 138
+ frame data/chars/Byakuya/1415.gif
+ offset 180 138
+ frame data/chars/Byakuya/1416.gif
+ offset 189 137
+ frame data/chars/Byakuya/1417.gif
+ offset 199 138
+ frame data/chars/Byakuya/1418.gif
+ offset 209 141
+ frame data/chars/Byakuya/1419.gif
+ offset 216 144
+ frame data/chars/Byakuya/1420.gif
+ offset 223 145
+ frame data/chars/Byakuya/1421.gif
+ offset 229 -124
+ frame data/chars/Byakuya/1422.gif
+
+anim 0840
+ delay 7
+ offset 14 17
+ frame data/chars/Byakuya/1423.gif
+ offset 14 17
+ frame data/chars/Byakuya/1424.gif
+ offset 15 18
+ frame data/chars/Byakuya/1425.gif
+ offset 15 17
+ frame data/chars/Byakuya/1426.gif
+ offset 3 46
+ frame data/chars/Byakuya/1427.gif
+ offset 3 42
+ frame data/chars/Byakuya/1428.gif
+ offset 3 38
+ frame data/chars/Byakuya/1429.gif
+ offset 3 34
+ frame data/chars/Byakuya/1430.gif
+ offset 3 30
+ frame data/chars/Byakuya/1431.gif
+ offset 3 26
+ frame data/chars/Byakuya/1432.gif
+ offset 3 22
+ frame data/chars/Byakuya/1433.gif
+ offset 3 18
+ frame data/chars/Byakuya/1434.gif
+ offset 3 14
+ frame data/chars/Byakuya/1435.gif
+ offset 3 10
+ frame data/chars/Byakuya/1436.gif
+ offset 3 6
+ frame data/chars/Byakuya/1437.gif
+ offset 3 2
+ frame data/chars/Byakuya/1438.gif
+ offset 4 32
+ frame data/chars/Byakuya/1439.gif
+ offset 4 30
+ frame data/chars/Byakuya/1440.gif
+ offset 4 28
+ frame data/chars/Byakuya/1441.gif
+ offset 4 26
+ frame data/chars/Byakuya/1442.gif
+ offset 4 24
+ frame data/chars/Byakuya/1443.gif
+ offset 4 22
+ frame data/chars/Byakuya/1444.gif
+ offset 4 20
+ frame data/chars/Byakuya/1445.gif
+ offset 4 18
+ frame data/chars/Byakuya/1446.gif
+ offset 4 16
+ frame data/chars/Byakuya/1447.gif
+ offset 4 14
+ frame data/chars/Byakuya/1448.gif
+ offset 4 12
+ frame data/chars/Byakuya/1449.gif
+ offset 4 10
+ frame data/chars/Byakuya/1450.gif
+ offset 3 8
+ frame data/chars/Byakuya/1451.gif
+ offset 2 6
+ frame data/chars/Byakuya/1452.gif
+ offset 2 4
+ frame data/chars/Byakuya/1453.gif
+ offset 2 2
+ frame data/chars/Byakuya/1454.gif
+
+anim 0841
+ delay 7
+ offset 101 43
+ frame data/chars/Byakuya/1455.gif
+ offset 105 210
+ frame data/chars/Byakuya/1456.gif
+ offset 118 177
+ frame data/chars/Byakuya/1457.gif
+ offset 163 168
+ frame data/chars/Byakuya/1458.gif
+ offset 142 240
+ frame data/chars/Byakuya/1459.gif
+ offset 137 257
+ frame data/chars/Byakuya/1460.gif
+ offset 142 257
+ frame data/chars/Byakuya/1461.gif
+ offset 145 258
+ frame data/chars/Byakuya/1462.gif
+ offset 146 260
+ frame data/chars/Byakuya/1463.gif
+ offset 147 263
+ frame data/chars/Byakuya/1464.gif
+ offset 148 265
+ frame data/chars/Byakuya/1465.gif
+ offset 150 266
+ frame data/chars/Byakuya/1466.gif
+ offset 151 268
+ frame data/chars/Byakuya/1467.gif
+ offset 126 223
+ frame data/chars/Byakuya/1468.gif
+ offset 141 258
+ frame data/chars/Byakuya/1469.gif
+ offset 152 272
+ frame data/chars/Byakuya/1470.gif
+ offset 158 280
+ frame data/chars/Byakuya/1471.gif
+ offset 160 287
+ frame data/chars/Byakuya/1472.gif
+ offset 164 292
+ frame data/chars/Byakuya/1473.gif
+ offset 167 298
+ frame data/chars/Byakuya/1474.gif
+ offset 172 302
+ frame data/chars/Byakuya/1475.gif
+ offset 175 299
+ frame data/chars/Byakuya/1476.gif
+ offset 178 255
+ frame data/chars/Byakuya/1477.gif
+ offset 180 249
+ frame data/chars/Byakuya/1478.gif
+ offset 125 243
+ frame data/chars/Byakuya/1479.gif
+ offset 123 243
+ frame data/chars/Byakuya/1480.gif
+ offset -273 233
+ frame data/chars/Byakuya/1481.gif
+
+anim 0842
+ delay 7
+ offset 233 98
+ frame data/chars/Byakuya/1482.gif
+ offset 260 98
+ frame data/chars/Byakuya/1483.gif
+ offset 260 97
+ frame data/chars/Byakuya/1484.gif
+ offset 242 80
+ frame data/chars/Byakuya/1485.gif
+ offset 231 98
+ frame data/chars/Byakuya/1486.gif
+ offset 210 98
+ frame data/chars/Byakuya/1487.gif
+ offset 238 97
+ frame data/chars/Byakuya/1488.gif
+ offset 149 43
+ frame data/chars/Byakuya/1489.gif
+
+anim freespecial1520
+ delay 7
+ offset 74 84
+ frame data/chars/Byakuya/1490.gif
+
+anim freespecial1550
+ delay 7
+ offset 876 471
+ frame data/chars/Byakuya/1491.gif
+
+anim freespecial1560
+ delay 7
+ offset 32 25
+ frame data/chars/Byakuya/1492.gif
+ offset 83 63
+ frame data/chars/Byakuya/1493.gif
+ offset 65 54
+ frame data/chars/Byakuya/1494.gif
+ offset 68 57
+ frame data/chars/Byakuya/1495.gif
+ offset 69 60
+ frame data/chars/Byakuya/1496.gif
+ offset 71 62
+ frame data/chars/Byakuya/1497.gif
+ offset 72 64
+ frame data/chars/Byakuya/1498.gif
+ offset 73 66
+ frame data/chars/Byakuya/1499.gif
+ offset 75 67
+ frame data/chars/Byakuya/1500.gif
+ offset 76 68
+ frame data/chars/Byakuya/1501.gif
+ offset 77 69
+ frame data/chars/Byakuya/1502.gif
+ offset 78 69
+ frame data/chars/Byakuya/1503.gif
+ offset 79 65
+ frame data/chars/Byakuya/1504.gif
+ offset 82 66
+ frame data/chars/Byakuya/1505.gif
+ offset 82 67
+ frame data/chars/Byakuya/1506.gif
+ offset 58 68
+ frame data/chars/Byakuya/1507.gif
+
+anim freespecial1570
+ delay 7
+ offset 0 0
+ frame data/chars/Byakuya/1508.gif
+
+anim 0843
+ delay 7
+ offset -6 40
+ frame data/chars/Byakuya/1509.gif
+ offset -6 36
+ frame data/chars/Byakuya/1510.gif
+ offset -6 33
+ frame data/chars/Byakuya/1511.gif
+ offset -6 23
+ frame data/chars/Byakuya/1512.gif
+ offset -6 15
+ frame data/chars/Byakuya/1513.gif
+ offset -6 6
+ frame data/chars/Byakuya/1514.gif
+ offset -8 2
+ frame data/chars/Byakuya/1515.gif
+
+anim 0844
+ delay 7
+ offset 43 18
+ frame data/chars/Byakuya/1516.gif
+ offset 43 18
+ frame data/chars/Byakuya/1517.gif
+ offset 42 17
+ frame data/chars/Byakuya/1518.gif
+ offset 41 18
+ frame data/chars/Byakuya/1519.gif
+ offset 42 17
+ frame data/chars/Byakuya/1520.gif
+ offset 40 15
+ frame data/chars/Byakuya/1521.gif
+ offset 38 12
+ frame data/chars/Byakuya/1522.gif
+ offset 41 13
+ frame data/chars/Byakuya/1523.gif
+ offset 41 13
+ frame data/chars/Byakuya/1524.gif
+
+anim 0845
+ delay 7
+ offset 9 135
+ frame data/chars/Byakuya/1525.gif
+
+anim 0846
+ delay 7
+ offset 23 20
+ frame data/chars/Byakuya/1526.gif
+ offset 12 15
+ frame data/chars/Byakuya/1527.gif
+ offset 18 26
+ frame data/chars/Byakuya/1528.gif
+ offset 15 15
+ frame data/chars/Byakuya/1529.gif
+ offset 17 14
+ frame data/chars/Byakuya/1530.gif
+ offset 15 18
+ frame data/chars/Byakuya/1531.gif
+
+anim 0847
+ delay 7
+ offset 186 76
+ frame data/chars/Byakuya/1532.gif
+ offset 176 158
+ frame data/chars/Byakuya/1533.gif
+ offset 167 163
+ frame data/chars/Byakuya/1534.gif
+ offset 187 161
+ frame data/chars/Byakuya/1535.gif
+ offset 202 188
+ frame data/chars/Byakuya/1536.gif
+ offset 210 198
+ frame data/chars/Byakuya/1537.gif
+ offset 212 200
+ frame data/chars/Byakuya/1538.gif
+ offset 214 202
+ frame data/chars/Byakuya/1539.gif
+ offset 216 204
+ frame data/chars/Byakuya/1540.gif
+ offset 217 206
+ frame data/chars/Byakuya/1541.gif
+ offset 219 207
+ frame data/chars/Byakuya/1542.gif
+ offset 220 209
+ frame data/chars/Byakuya/1543.gif
+ offset 222 202
+ frame data/chars/Byakuya/1544.gif
+ offset 126 223
+ frame data/chars/Byakuya/1545.gif
+ offset 141 258
+ frame data/chars/Byakuya/1546.gif
+ offset 152 272
+ frame data/chars/Byakuya/1547.gif
+ offset 158 280
+ frame data/chars/Byakuya/1548.gif
+ offset 160 287
+ frame data/chars/Byakuya/1549.gif
+ offset 164 293
+ frame data/chars/Byakuya/1550.gif
+ offset 167 298
+ frame data/chars/Byakuya/1551.gif
+ offset 172 302
+ frame data/chars/Byakuya/1552.gif
+ offset 175 299
+ frame data/chars/Byakuya/1553.gif
+ offset 178 255
+ frame data/chars/Byakuya/1554.gif
+ offset 180 249
+ frame data/chars/Byakuya/1555.gif
+ offset 125 243
+ frame data/chars/Byakuya/1556.gif
+ offset 123 243
+ frame data/chars/Byakuya/1557.gif
+ offset -273 233
+ frame data/chars/Byakuya/1558.gif
+
+anim 8508
+ delay 7
+ offset 320 240
+ frame data/chars/Byakuya/1559.gif
+ offset 320 240
+ frame data/chars/Byakuya/1560.gif
+ offset 320 240
+ frame data/chars/Byakuya/1561.gif
+ offset 320 240
+ frame data/chars/Byakuya/1562.gif
+ offset 320 240
+ frame data/chars/Byakuya/1563.gif
+ offset 320 240
+ frame data/chars/Byakuya/1564.gif
+ offset 320 240
+ frame data/chars/Byakuya/1565.gif
+ offset 320 240
+ frame data/chars/Byakuya/1566.gif
+ offset 320 240
+ frame data/chars/Byakuya/1567.gif
+ offset 320 240
+ frame data/chars/Byakuya/1568.gif
+ offset 320 240
+ frame data/chars/Byakuya/1569.gif
+ offset 320 240
+ frame data/chars/Byakuya/1570.gif
+ offset 320 240
+ frame data/chars/Byakuya/1571.gif
+ offset 320 240
+ frame data/chars/Byakuya/1572.gif
+ offset 320 240
+ frame data/chars/Byakuya/1573.gif
+ offset 320 240
+ frame data/chars/Byakuya/1574.gif
+ offset 320 240
+ frame data/chars/Byakuya/1575.gif
+ offset 320 240
+ frame data/chars/Byakuya/1576.gif
+ offset 320 240
+ frame data/chars/Byakuya/1577.gif
+ offset 320 240
+ frame data/chars/Byakuya/1578.gif
+ offset 320 240
+ frame data/chars/Byakuya/1579.gif
+ offset 320 240
+ frame data/chars/Byakuya/1580.gif
+ offset 320 240
+ frame data/chars/Byakuya/1581.gif
+ offset 320 240
+ frame data/chars/Byakuya/1582.gif
+ offset 320 240
+ frame data/chars/Byakuya/1583.gif
+ offset 320 240
+ frame data/chars/Byakuya/1584.gif
+ offset 320 240
+ frame data/chars/Byakuya/1585.gif
+ offset 320 240
+ frame data/chars/Byakuya/1586.gif
+ offset 320 240
+ frame data/chars/Byakuya/1587.gif
+ offset 320 240
+ frame data/chars/Byakuya/1588.gif
+ offset 320 240
+ frame data/chars/Byakuya/1589.gif
+ offset 320 240
+ frame data/chars/Byakuya/1590.gif
+
+anim 9950
+ delay 7
+ offset 9 14
+ frame data/chars/Byakuya/1591.gif
+ offset 9 14
+ frame data/chars/Byakuya/1592.gif
+ offset 9 14
+ frame data/chars/Byakuya/1593.gif
+ offset 9 14
+ frame data/chars/Byakuya/1594.gif
+ offset 9 14
+ frame data/chars/Byakuya/1595.gif
+ offset 9 14
+ frame data/chars/Byakuya/1596.gif
+ offset 9 14
+ frame data/chars/Byakuya/1597.gif
+
+anim 9000
+ delay 7
+ offset 0 0
+ frame data/chars/Byakuya/1598.gif
+ offset 0 0
+ frame data/chars/Byakuya/1599.gif
+
+anim freespecial4000
+ delay 7
+ offset 453 232
+ frame data/chars/Byakuya/1600.gif
+ offset 453 232
+ frame data/chars/Byakuya/1601.gif
+ offset 453 232
+ frame data/chars/Byakuya/1602.gif
+ offset 453 232
+ frame data/chars/Byakuya/1603.gif
+ offset 453 232
+ frame data/chars/Byakuya/1604.gif
+ offset 453 232
+ frame data/chars/Byakuya/1605.gif
+ offset 453 232
+ frame data/chars/Byakuya/1606.gif
+ offset 453 232
+ frame data/chars/Byakuya/1607.gif
+ offset 453 232
+ frame data/chars/Byakuya/1608.gif
+ offset 453 232
+ frame data/chars/Byakuya/1609.gif
+ offset 453 232
+ frame data/chars/Byakuya/1610.gif
+ offset 453 232
+ frame data/chars/Byakuya/1611.gif
+ offset 453 232
+ frame data/chars/Byakuya/1612.gif
+ offset 453 232
+ frame data/chars/Byakuya/1613.gif
+ offset 453 232
+ frame data/chars/Byakuya/1614.gif
+ offset 453 232
+ frame data/chars/Byakuya/1615.gif
+ offset 453 232
+ frame data/chars/Byakuya/1616.gif
+ offset 453 232
+ frame data/chars/Byakuya/1617.gif
+ offset 453 232
+ frame data/chars/Byakuya/1618.gif
+ offset 453 232
+ frame data/chars/Byakuya/1619.gif
+ offset 453 232
+ frame data/chars/Byakuya/1620.gif
+ offset 453 232
+ frame data/chars/Byakuya/1621.gif
+ offset 453 232
+ frame data/chars/Byakuya/1622.gif
+ offset 453 232
+ frame data/chars/Byakuya/1623.gif
+ offset 453 232
+ frame data/chars/Byakuya/1624.gif
+ offset 453 232
+ frame data/chars/Byakuya/1625.gif
+ offset 453 232
+ frame data/chars/Byakuya/1626.gif
+ offset 453 232
+ frame data/chars/Byakuya/1627.gif
+ offset 453 232
+ frame data/chars/Byakuya/1628.gif
+ offset 453 232
+ frame data/chars/Byakuya/1629.gif
+ offset 453 232
+ frame data/chars/Byakuya/1630.gif
+ offset 300 169
+ frame data/chars/Byakuya/1631.gif
+ offset 300 169
+ frame data/chars/Byakuya/1632.gif
+ offset 300 169
+ frame data/chars/Byakuya/1633.gif
+ offset 300 169
+ frame data/chars/Byakuya/1634.gif
+ offset 300 169
+ frame data/chars/Byakuya/1635.gif
+ offset 300 169
+ frame data/chars/Byakuya/1636.gif
+ offset 300 169
+ frame data/chars/Byakuya/1637.gif
+ offset 300 169
+ frame data/chars/Byakuya/1638.gif
+ offset 300 169
+ frame data/chars/Byakuya/1639.gif
+ offset 300 169
+ frame data/chars/Byakuya/1640.gif
+ offset 300 169
+ frame data/chars/Byakuya/1641.gif
+ offset 300 169
+ frame data/chars/Byakuya/1642.gif
+ offset 300 169
+ frame data/chars/Byakuya/1643.gif
+ offset 300 169
+ frame data/chars/Byakuya/1644.gif
+ offset 300 169
+ frame data/chars/Byakuya/1645.gif
+ offset 300 169
+ frame data/chars/Byakuya/1646.gif
+ offset 300 169
+ frame data/chars/Byakuya/1647.gif
+ offset 300 169
+ frame data/chars/Byakuya/1648.gif
+ offset 300 169
+ frame data/chars/Byakuya/1649.gif
+ offset 300 169
+ frame data/chars/Byakuya/1650.gif
+
+anim jumpattack702
+ delay 7
+ offset 9 135
+ frame data/chars/Byakuya/1651.gif
+
+anim 0802
+ delay 7
+ offset 101 43
+ frame data/chars/Byakuya/1652.gif
+ offset 105 210
+ frame data/chars/Byakuya/1653.gif
+ offset 118 177
+ frame data/chars/Byakuya/1654.gif
+ offset 163 168
+ frame data/chars/Byakuya/1655.gif
+ offset 142 240
+ frame data/chars/Byakuya/1656.gif
+ offset 137 257
+ frame data/chars/Byakuya/1657.gif
+ offset 142 257
+ frame data/chars/Byakuya/1658.gif
+ offset 145 258
+ frame data/chars/Byakuya/1659.gif
+ offset 146 260
+ frame data/chars/Byakuya/1660.gif
+ offset 147 263
+ frame data/chars/Byakuya/1661.gif
+ offset 148 265
+ frame data/chars/Byakuya/1662.gif
+ offset 150 266
+ frame data/chars/Byakuya/1663.gif
+ offset 151 268
+ frame data/chars/Byakuya/1664.gif
+ offset 126 223
+ frame data/chars/Byakuya/1665.gif
+ offset 141 258
+ frame data/chars/Byakuya/1666.gif
+ offset 152 272
+ frame data/chars/Byakuya/1667.gif
+ offset 158 280
+ frame data/chars/Byakuya/1668.gif
+ offset 160 287
+ frame data/chars/Byakuya/1669.gif
+ offset 164 292
+ frame data/chars/Byakuya/1670.gif
+ offset 167 298
+ frame data/chars/Byakuya/1671.gif
+ offset 172 302
+ frame data/chars/Byakuya/1672.gif
+ offset 175 299
+ frame data/chars/Byakuya/1673.gif
+ offset 178 255
+ frame data/chars/Byakuya/1674.gif
+ offset 180 249
+ frame data/chars/Byakuya/1675.gif
+ offset 125 243
+ frame data/chars/Byakuya/1676.gif
+ offset 123 243
+ frame data/chars/Byakuya/1677.gif
+ offset -273 233
+ frame data/chars/Byakuya/1678.gif
+
+anim 0800
+ delay 7
+ offset 320 480
+ frame data/chars/Byakuya/1679.gif
+ offset 320 480
+ frame data/chars/Byakuya/1680.gif
+ offset 320 480
+ frame data/chars/Byakuya/1681.gif
+ offset 320 480
+ frame data/chars/Byakuya/1682.gif
+ offset 320 480
+ frame data/chars/Byakuya/1683.gif
+ offset 320 480
+ frame data/chars/Byakuya/1684.gif
+ offset 320 480
+ frame data/chars/Byakuya/1685.gif
+ offset 320 480
+ frame data/chars/Byakuya/1686.gif
+ offset 320 480
+ frame data/chars/Byakuya/1687.gif
+ offset 320 480
+ frame data/chars/Byakuya/1688.gif
+ offset 320 480
+ frame data/chars/Byakuya/1689.gif
+ offset 320 480
+ frame data/chars/Byakuya/1690.gif
+ offset 320 480
+ frame data/chars/Byakuya/1691.gif
+ offset 320 480
+ frame data/chars/Byakuya/1692.gif
+ offset 320 480
+ frame data/chars/Byakuya/1693.gif
+ offset 320 480
+ frame data/chars/Byakuya/1694.gif
+ offset 320 480
+ frame data/chars/Byakuya/1695.gif
+ offset 320 480
+ frame data/chars/Byakuya/1696.gif
+ offset 320 480
+ frame data/chars/Byakuya/1697.gif
+ offset 320 480
+ frame data/chars/Byakuya/1698.gif
+ offset 320 480
+ frame data/chars/Byakuya/1699.gif
+ offset 320 480
+ frame data/chars/Byakuya/1700.gif
+ offset 320 480
+ frame data/chars/Byakuya/1701.gif
+ offset 320 480
+ frame data/chars/Byakuya/1702.gif
+ offset 320 480
+ frame data/chars/Byakuya/1703.gif
+ offset 320 480
+ frame data/chars/Byakuya/1704.gif
+ offset 320 480
+ frame data/chars/Byakuya/1705.gif
+ offset 320 480
+ frame data/chars/Byakuya/1706.gif
+ offset 320 480
+ frame data/chars/Byakuya/1707.gif
+ offset 320 480
+ frame data/chars/Byakuya/1708.gif
+
+anim attack400
+ delay 7
+ offset 31 37
+ frame data/chars/Byakuya/1709.gif
+ offset 33 35
+ frame data/chars/Byakuya/1710.gif
+ offset 24 36
+ frame data/chars/Byakuya/1711.gif
+ offset 26 41
+ frame data/chars/Byakuya/1712.gif
+ offset 13 60
+ frame data/chars/Byakuya/1713.gif
+ offset 13 47
+ frame data/chars/Byakuya/1714.gif
+ offset 11 44
+ frame data/chars/Byakuya/1715.gif
+ offset 13 40
+ frame data/chars/Byakuya/1716.gif
+ offset 12 37
+ frame data/chars/Byakuya/1717.gif
+ offset 11 31
+ frame data/chars/Byakuya/1718.gif
+ offset 11 28
+ frame data/chars/Byakuya/1719.gif
+ offset 10 27
+ frame data/chars/Byakuya/1720.gif
+ offset 11 22
+ frame data/chars/Byakuya/1721.gif
+ offset 10 18
+ frame data/chars/Byakuya/1722.gif
+ offset 10 14
+ frame data/chars/Byakuya/1723.gif
+ offset 15 15
+ frame data/chars/Byakuya/1724.gif
+ offset 19 75
+ frame data/chars/Byakuya/1725.gif
+ offset 18 64
+ frame data/chars/Byakuya/1726.gif
+ offset 19 64
+ frame data/chars/Byakuya/1727.gif
+ offset 16 59
+ frame data/chars/Byakuya/1728.gif
+ offset 17 55
+ frame data/chars/Byakuya/1729.gif
+ offset 16 48
+ frame data/chars/Byakuya/1730.gif
+ offset 15 44
+ frame data/chars/Byakuya/1731.gif
+ offset 13 46
+ frame data/chars/Byakuya/1732.gif
+ offset 17 38
+ frame data/chars/Byakuya/1733.gif
+ offset 13 34
+ frame data/chars/Byakuya/1734.gif
+ offset 13 32
+ frame data/chars/Byakuya/1735.gif
+ offset 13 26
+ frame data/chars/Byakuya/1736.gif
+ offset 15 26
+ frame data/chars/Byakuya/1737.gif
+ offset 10 18
+ frame data/chars/Byakuya/1738.gif
+ offset 12 23
+ frame data/chars/Byakuya/1739.gif
+ offset 15 18
+ frame data/chars/Byakuya/1740.gif

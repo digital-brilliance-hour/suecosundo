@@ -1,0 +1,2059 @@
+name Ikakku
+type enemy
+
+
+anim 9000
+ delay 7
+ offset 0 0
+ frame data/chars/Ikkaku/0.gif
+ offset 0 0
+ frame data/chars/Ikkaku/1.gif
+ offset 320 100
+ frame data/chars/Ikkaku/2.gif
+ offset 320 100
+ frame data/chars/Ikkaku/3.gif
+
+anim idle
+ delay 7
+ offset 37 48
+ frame data/chars/Ikkaku/4.gif
+ offset 29 48
+ frame data/chars/Ikkaku/5.gif
+ offset 31 48
+ frame data/chars/Ikkaku/6.gif
+ offset 29 48
+ frame data/chars/Ikkaku/7.gif
+
+anim turn
+ delay 7
+ offset 33 48
+ frame data/chars/Ikkaku/8.gif
+
+anim 0006
+ delay 7
+ offset 44 50
+ frame data/chars/Ikkaku/9.gif
+ offset 45 55
+ frame data/chars/Ikkaku/10.gif
+ offset 69 41
+ frame data/chars/Ikkaku/11.gif
+ offset 62 36
+ frame data/chars/Ikkaku/12.gif
+ offset 62 36
+ frame data/chars/Ikkaku/13.gif
+ offset 40 41
+ frame data/chars/Ikkaku/14.gif
+ offset 27 43
+ frame data/chars/Ikkaku/15.gif
+ offset 17 52
+ frame data/chars/Ikkaku/16.gif
+ offset 27 50
+ frame data/chars/Ikkaku/17.gif
+
+anim walk
+ delay 7
+ offset 21 47
+ frame data/chars/Ikkaku/18.gif
+ offset 22 47
+ frame data/chars/Ikkaku/19.gif
+ offset 13 47
+ frame data/chars/Ikkaku/20.gif
+ offset 20 45
+ frame data/chars/Ikkaku/21.gif
+ offset 21 46
+ frame data/chars/Ikkaku/22.gif
+ offset 13 45
+ frame data/chars/Ikkaku/23.gif
+ offset 15 50
+ frame data/chars/Ikkaku/24.gif
+ offset 22 47
+ frame data/chars/Ikkaku/25.gif
+
+anim 0040
+ delay 7
+ offset 32 64
+ frame data/chars/Ikkaku/26.gif
+ offset 29 63
+ frame data/chars/Ikkaku/27.gif
+ offset 29 54
+ frame data/chars/Ikkaku/28.gif
+ offset 29 49
+ frame data/chars/Ikkaku/29.gif
+
+anim block120
+ delay 7
+ offset 31 59
+ frame data/chars/Ikkaku/30.gif
+
+anim pain5000
+ delay 7
+ offset 41 37
+ frame data/chars/Ikkaku/31.gif
+ offset 41 37
+ frame data/chars/Ikkaku/32.gif
+ offset 59 40
+ frame data/chars/Ikkaku/33.gif
+ offset 59 40
+ frame data/chars/Ikkaku/34.gif
+ offset 59 40
+ frame data/chars/Ikkaku/35.gif
+
+anim pain5001
+ delay 7
+ offset 60 25
+ frame data/chars/Ikkaku/36.gif
+ offset 42 23
+ frame data/chars/Ikkaku/37.gif
+ offset 59 24
+ frame data/chars/Ikkaku/38.gif
+
+anim pain5002
+ delay 7
+ offset 56 -2
+ frame data/chars/Ikkaku/39.gif
+ offset 43 -1
+ frame data/chars/Ikkaku/40.gif
+ offset 57 -1
+ frame data/chars/Ikkaku/41.gif
+
+anim pain5010
+ delay 7
+ offset 41 37
+ frame data/chars/Ikkaku/42.gif
+ offset 41 37
+ frame data/chars/Ikkaku/43.gif
+ offset 41 37
+ frame data/chars/Ikkaku/44.gif
+ offset 22 82
+ frame data/chars/Ikkaku/45.gif
+
+anim pain5011
+ delay 7
+ offset 42 23
+ frame data/chars/Ikkaku/46.gif
+ offset 42 23
+ frame data/chars/Ikkaku/47.gif
+ offset 42 23
+ frame data/chars/Ikkaku/48.gif
+
+anim pain5012
+ delay 7
+ offset 40 -1
+ frame data/chars/Ikkaku/49.gif
+ offset 40 -1
+ frame data/chars/Ikkaku/50.gif
+ offset 40 -1
+ frame data/chars/Ikkaku/51.gif
+
+anim pain5020
+ delay 7
+ offset 19 78
+ frame data/chars/Ikkaku/52.gif
+ offset 45 85
+ frame data/chars/Ikkaku/53.gif
+ offset 41 70
+ frame data/chars/Ikkaku/54.gif
+
+anim fall5030
+ delay 7
+ offset 61 39
+ frame data/chars/Ikkaku/55.gif
+ offset 62 29
+ frame data/chars/Ikkaku/56.gif
+ offset 62 29
+ frame data/chars/Ikkaku/57.gif
+ offset 62 29
+ frame data/chars/Ikkaku/58.gif
+ offset 62 29
+ frame data/chars/Ikkaku/59.gif
+ offset 18 57
+ frame data/chars/Ikkaku/60.gif
+ offset 18 57
+ frame data/chars/Ikkaku/61.gif
+
+anim fall5031
+ delay 7
+ offset 58 25
+ frame data/chars/Ikkaku/62.gif
+ offset 62 24
+ frame data/chars/Ikkaku/63.gif
+ offset 60 9
+ frame data/chars/Ikkaku/64.gif
+ offset 60 9
+ frame data/chars/Ikkaku/65.gif
+ offset 19 55
+ frame data/chars/Ikkaku/66.gif
+ offset 19 55
+ frame data/chars/Ikkaku/67.gif
+
+anim fall5032
+ delay 7
+ offset 60 -4
+ frame data/chars/Ikkaku/68.gif
+ offset 65 -3
+ frame data/chars/Ikkaku/69.gif
+ offset 65 -3
+ frame data/chars/Ikkaku/70.gif
+ offset 65 -3
+ frame data/chars/Ikkaku/71.gif
+ offset 34 5
+ frame data/chars/Ikkaku/72.gif
+ offset 34 5
+ frame data/chars/Ikkaku/73.gif
+
+anim fall5040
+ delay 7
+ offset 59 26
+ frame data/chars/Ikkaku/74.gif
+ offset 59 26
+ frame data/chars/Ikkaku/75.gif
+ offset 56 18
+ frame data/chars/Ikkaku/76.gif
+ offset 67 29
+ frame data/chars/Ikkaku/77.gif
+
+anim fall5041
+ delay 7
+ offset 66 8
+ frame data/chars/Ikkaku/78.gif
+ offset 59 12
+ frame data/chars/Ikkaku/79.gif
+ offset 28 26
+ frame data/chars/Ikkaku/80.gif
+
+anim fall5042
+ delay 7
+ offset 57 -9
+ frame data/chars/Ikkaku/81.gif
+ offset 56 3
+ frame data/chars/Ikkaku/82.gif
+ offset 33 8
+ frame data/chars/Ikkaku/83.gif
+
+anim fall5060
+ delay 7
+ offset 20 77
+ frame data/chars/Ikkaku/84.gif
+ offset 20 77
+ frame data/chars/Ikkaku/85.gif
+ offset 17 45
+ frame data/chars/Ikkaku/86.gif
+
+anim fall5061
+ delay 7
+ offset 21 54
+ frame data/chars/Ikkaku/87.gif
+ offset 17 39
+ frame data/chars/Ikkaku/88.gif
+
+anim fall5062
+ delay 7
+ offset 18 26
+ frame data/chars/Ikkaku/89.gif
+ offset 16 3
+ frame data/chars/Ikkaku/90.gif
+
+anim fall5070
+ delay 7
+ offset 21 77
+ frame data/chars/Ikkaku/91.gif
+ offset 18 25
+ frame data/chars/Ikkaku/92.gif
+ offset 75 27
+ frame data/chars/Ikkaku/93.gif
+ offset 17 25
+ frame data/chars/Ikkaku/94.gif
+
+anim fall5071
+ delay 7
+ offset 16 54
+ frame data/chars/Ikkaku/95.gif
+ offset 20 18
+ frame data/chars/Ikkaku/96.gif
+ offset 70 19
+ frame data/chars/Ikkaku/97.gif
+ offset 70 19
+ frame data/chars/Ikkaku/98.gif
+
+anim fall5072
+ delay 7
+ offset 17 27
+ frame data/chars/Ikkaku/99.gif
+ offset 12 0
+ frame data/chars/Ikkaku/100.gif
+ offset 67 4
+ frame data/chars/Ikkaku/101.gif
+
+anim fall5080
+ delay 7
+ offset 51 62
+ frame data/chars/Ikkaku/102.gif
+ offset 46 64
+ frame data/chars/Ikkaku/103.gif
+ offset 44 66
+ frame data/chars/Ikkaku/104.gif
+ offset 40 66
+ frame data/chars/Ikkaku/105.gif
+ offset 59 65
+ frame data/chars/Ikkaku/106.gif
+ offset 52 65
+ frame data/chars/Ikkaku/107.gif
+
+anim attack200
+ delay 7
+ offset 30 67
+ frame data/chars/Ikkaku/108.gif
+ offset 28 74
+ frame data/chars/Ikkaku/109.gif
+ offset 28 74
+ frame data/chars/Ikkaku/110.gif
+ offset 30 47
+ frame data/chars/Ikkaku/111.gif
+ offset 30 48
+ frame data/chars/Ikkaku/112.gif
+ offset 30 48
+ frame data/chars/Ikkaku/113.gif
+ offset 30 46
+ frame data/chars/Ikkaku/114.gif
+ offset 30 49
+ frame data/chars/Ikkaku/115.gif
+ offset 21 34
+ frame data/chars/Ikkaku/116.gif
+ offset 22 39
+ frame data/chars/Ikkaku/117.gif
+ offset 22 39
+ frame data/chars/Ikkaku/118.gif
+ offset 23 75
+ frame data/chars/Ikkaku/119.gif
+ offset 21 47
+ frame data/chars/Ikkaku/120.gif
+ offset 21 65
+ frame data/chars/Ikkaku/121.gif
+ offset 21 91
+ frame data/chars/Ikkaku/122.gif
+ offset 31 103
+ frame data/chars/Ikkaku/123.gif
+ offset 2 122
+ frame data/chars/Ikkaku/124.gif
+ offset 32 84
+ frame data/chars/Ikkaku/125.gif
+ offset 44 54
+ frame data/chars/Ikkaku/126.gif
+ offset 24 54
+ frame data/chars/Ikkaku/127.gif
+ offset 33 56
+ frame data/chars/Ikkaku/128.gif
+ offset 18 31
+ frame data/chars/Ikkaku/129.gif
+ offset 76 32
+ frame data/chars/Ikkaku/130.gif
+ offset 21 88
+ frame data/chars/Ikkaku/131.gif
+ offset 17 32
+ frame data/chars/Ikkaku/132.gif
+ offset 29 58
+ frame data/chars/Ikkaku/133.gif
+ offset 44 61
+ frame data/chars/Ikkaku/134.gif
+ offset 37 61
+ frame data/chars/Ikkaku/135.gif
+ offset 35 61
+ frame data/chars/Ikkaku/136.gif
+ offset 34 61
+ frame data/chars/Ikkaku/137.gif
+ offset 43 55
+ frame data/chars/Ikkaku/138.gif
+ offset 36 99
+ frame data/chars/Ikkaku/139.gif
+ offset 42 85
+ frame data/chars/Ikkaku/140.gif
+ offset 40 89
+ frame data/chars/Ikkaku/141.gif
+ offset 33 91
+ frame data/chars/Ikkaku/142.gif
+ offset 47 81
+ frame data/chars/Ikkaku/143.gif
+ offset 52 71
+ frame data/chars/Ikkaku/144.gif
+ offset 23 65
+ frame data/chars/Ikkaku/145.gif
+ offset 46 59
+ frame data/chars/Ikkaku/146.gif
+ offset 66 56
+ frame data/chars/Ikkaku/147.gif
+ offset 31 57
+ frame data/chars/Ikkaku/148.gif
+ offset 32 54
+ frame data/chars/Ikkaku/149.gif
+ offset 29 55
+ frame data/chars/Ikkaku/150.gif
+ offset 37 52
+ frame data/chars/Ikkaku/151.gif
+ offset 29 46
+ frame data/chars/Ikkaku/152.gif
+ offset 25 55
+ frame data/chars/Ikkaku/153.gif
+ offset 35 59
+ frame data/chars/Ikkaku/154.gif
+ offset 18 57
+ frame data/chars/Ikkaku/155.gif
+ offset 23 60
+ frame data/chars/Ikkaku/156.gif
+ offset 37 41
+ frame data/chars/Ikkaku/157.gif
+ offset 24 39
+ frame data/chars/Ikkaku/158.gif
+ offset 24 39
+ frame data/chars/Ikkaku/159.gif
+ offset 32 58
+ frame data/chars/Ikkaku/160.gif
+ offset 23 51
+ frame data/chars/Ikkaku/161.gif
+ offset 19 43
+ frame data/chars/Ikkaku/162.gif
+ offset 19 41
+ frame data/chars/Ikkaku/163.gif
+ offset 26 40
+ frame data/chars/Ikkaku/164.gif
+ offset 37 43
+ frame data/chars/Ikkaku/165.gif
+ offset 37 43
+ frame data/chars/Ikkaku/166.gif
+
+anim 0001
+ delay 7
+ offset 54 64
+ frame data/chars/Ikkaku/167.gif
+ offset 55 63
+ frame data/chars/Ikkaku/168.gif
+ offset 54 62
+ frame data/chars/Ikkaku/169.gif
+ offset 53 63
+ frame data/chars/Ikkaku/170.gif
+
+anim 0007
+ delay 7
+ offset 50 53
+ frame data/chars/Ikkaku/171.gif
+
+anim backwalk
+ delay 7
+ offset 27 66
+ frame data/chars/Ikkaku/172.gif
+
+anim jump
+ delay 7
+ offset 27 71
+ frame data/chars/Ikkaku/173.gif
+ offset 27 71
+ frame data/chars/Ikkaku/174.gif
+
+anim block121
+ delay 7
+ offset 31 53
+ frame data/chars/Ikkaku/175.gif
+
+anim fall5100
+ delay 7
+ offset 54 64
+ frame data/chars/Ikkaku/176.gif
+ offset 54 64
+ frame data/chars/Ikkaku/177.gif
+ offset 54 64
+ frame data/chars/Ikkaku/178.gif
+ offset 40 42
+ frame data/chars/Ikkaku/179.gif
+ offset 37 32
+ frame data/chars/Ikkaku/180.gif
+ offset 20 68
+ frame data/chars/Ikkaku/181.gif
+ offset 25 70
+ frame data/chars/Ikkaku/182.gif
+ offset 18 58
+ frame data/chars/Ikkaku/183.gif
+ offset 34 31
+ frame data/chars/Ikkaku/184.gif
+ offset 35 22
+ frame data/chars/Ikkaku/185.gif
+ offset 55 19
+ frame data/chars/Ikkaku/186.gif
+ offset 27 60
+ frame data/chars/Ikkaku/187.gif
+ offset 20 60
+ frame data/chars/Ikkaku/188.gif
+ offset 32 36
+ frame data/chars/Ikkaku/189.gif
+ offset 54 64
+ frame data/chars/Ikkaku/190.gif
+
+anim attack201
+ delay 7
+ offset 92 70
+ frame data/chars/Ikkaku/191.gif
+ offset 78 71
+ frame data/chars/Ikkaku/192.gif
+ offset 84 82
+ frame data/chars/Ikkaku/193.gif
+ offset 54 77
+ frame data/chars/Ikkaku/194.gif
+ offset 92 70
+ frame data/chars/Ikkaku/195.gif
+ offset 78 71
+ frame data/chars/Ikkaku/196.gif
+ offset 84 82
+ frame data/chars/Ikkaku/197.gif
+ offset 54 77
+ frame data/chars/Ikkaku/198.gif
+ offset 38 59
+ frame data/chars/Ikkaku/199.gif
+ offset 38 59
+ frame data/chars/Ikkaku/200.gif
+ offset 38 59
+ frame data/chars/Ikkaku/201.gif
+ offset 38 59
+ frame data/chars/Ikkaku/202.gif
+ offset 33 64
+ frame data/chars/Ikkaku/203.gif
+ offset 33 64
+ frame data/chars/Ikkaku/204.gif
+ offset 27 66
+ frame data/chars/Ikkaku/205.gif
+ offset 27 66
+ frame data/chars/Ikkaku/206.gif
+ offset 27 66
+ frame data/chars/Ikkaku/207.gif
+
+anim attack340
+ delay 7
+ offset 138 45
+ frame data/chars/Ikkaku/208.gif
+ offset 138 45
+ frame data/chars/Ikkaku/209.gif
+ offset 138 98
+ frame data/chars/Ikkaku/210.gif
+ offset 137 98
+ frame data/chars/Ikkaku/211.gif
+ offset 135 98
+ frame data/chars/Ikkaku/212.gif
+ offset 103 87
+ frame data/chars/Ikkaku/213.gif
+ offset 99 76
+ frame data/chars/Ikkaku/214.gif
+ offset 92 16
+ frame data/chars/Ikkaku/215.gif
+
+anim 8230
+ delay 7
+ offset 68 31
+ frame data/chars/Ikkaku/216.gif
+ offset 83 92
+ frame data/chars/Ikkaku/217.gif
+ offset 99 149
+ frame data/chars/Ikkaku/218.gif
+ offset 98 178
+ frame data/chars/Ikkaku/219.gif
+ offset 100 196
+ frame data/chars/Ikkaku/220.gif
+ offset 100 203
+ frame data/chars/Ikkaku/221.gif
+ offset 98 210
+ frame data/chars/Ikkaku/222.gif
+ offset 98 219
+ frame data/chars/Ikkaku/223.gif
+ offset 97 226
+ frame data/chars/Ikkaku/224.gif
+ offset 96 230
+ frame data/chars/Ikkaku/225.gif
+ offset 97 232
+ frame data/chars/Ikkaku/226.gif
+ offset 99 234
+ frame data/chars/Ikkaku/227.gif
+ offset 100 232
+ frame data/chars/Ikkaku/228.gif
+ offset 101 236
+ frame data/chars/Ikkaku/229.gif
+ offset 100 222
+ frame data/chars/Ikkaku/230.gif
+ offset 88 224
+ frame data/chars/Ikkaku/231.gif
+ offset 88 224
+ frame data/chars/Ikkaku/232.gif
+ offset 89 224
+ frame data/chars/Ikkaku/233.gif
+ offset 89 226
+ frame data/chars/Ikkaku/234.gif
+ offset 90 227
+ frame data/chars/Ikkaku/235.gif
+ offset 90 231
+ frame data/chars/Ikkaku/236.gif
+ offset 90 232
+ frame data/chars/Ikkaku/237.gif
+ offset 93 232
+ frame data/chars/Ikkaku/238.gif
+ offset 95 232
+ frame data/chars/Ikkaku/239.gif
+ offset 96 232
+ frame data/chars/Ikkaku/240.gif
+ offset 96 233
+ frame data/chars/Ikkaku/241.gif
+ offset 97 232
+ frame data/chars/Ikkaku/242.gif
+ offset 98 233
+ frame data/chars/Ikkaku/243.gif
+ offset 99 233
+ frame data/chars/Ikkaku/244.gif
+ offset 101 234
+ frame data/chars/Ikkaku/245.gif
+ offset 101 234
+ frame data/chars/Ikkaku/246.gif
+ offset 103 240
+ frame data/chars/Ikkaku/247.gif
+ offset 103 235
+ frame data/chars/Ikkaku/248.gif
+ offset 105 217
+ frame data/chars/Ikkaku/249.gif
+ offset 105 217
+ frame data/chars/Ikkaku/250.gif
+ offset 106 219
+ frame data/chars/Ikkaku/251.gif
+ offset 105 221
+ frame data/chars/Ikkaku/252.gif
+ offset 106 224
+ frame data/chars/Ikkaku/253.gif
+ offset 98 226
+ frame data/chars/Ikkaku/254.gif
+ offset 98 227
+ frame data/chars/Ikkaku/255.gif
+ offset 98 229
+ frame data/chars/Ikkaku/256.gif
+ offset 98 229
+ frame data/chars/Ikkaku/257.gif
+ offset 97 228
+ frame data/chars/Ikkaku/258.gif
+ offset 97 223
+ frame data/chars/Ikkaku/259.gif
+ offset 94 222
+ frame data/chars/Ikkaku/260.gif
+ offset 93 195
+ frame data/chars/Ikkaku/261.gif
+ offset 91 194
+ frame data/chars/Ikkaku/262.gif
+ offset 90 194
+ frame data/chars/Ikkaku/263.gif
+ offset 76 192
+ frame data/chars/Ikkaku/264.gif
+ offset 76 191
+ frame data/chars/Ikkaku/265.gif
+ offset 76 191
+ frame data/chars/Ikkaku/266.gif
+ offset 76 188
+ frame data/chars/Ikkaku/267.gif
+ offset 76 187
+ frame data/chars/Ikkaku/268.gif
+ offset 74 186
+ frame data/chars/Ikkaku/269.gif
+ offset 67 168
+ frame data/chars/Ikkaku/270.gif
+ offset 55 157
+ frame data/chars/Ikkaku/271.gif
+ offset 39 128
+ frame data/chars/Ikkaku/272.gif
+
+anim 8240
+ delay 7
+ offset 198 30
+ frame data/chars/Ikkaku/273.gif
+ offset 198 30
+ frame data/chars/Ikkaku/274.gif
+ offset 198 30
+ frame data/chars/Ikkaku/275.gif
+ offset 198 30
+ frame data/chars/Ikkaku/276.gif
+ offset 198 30
+ frame data/chars/Ikkaku/277.gif
+ offset 198 30
+ frame data/chars/Ikkaku/278.gif
+ offset 198 30
+ frame data/chars/Ikkaku/279.gif
+ offset 198 30
+ frame data/chars/Ikkaku/280.gif
+ offset 198 30
+ frame data/chars/Ikkaku/281.gif
+ offset 198 30
+ frame data/chars/Ikkaku/282.gif
+ offset 198 30
+ frame data/chars/Ikkaku/283.gif
+ offset 198 30
+ frame data/chars/Ikkaku/284.gif
+ offset 198 30
+ frame data/chars/Ikkaku/285.gif
+ offset 197 29
+ frame data/chars/Ikkaku/286.gif
+ offset 198 29
+ frame data/chars/Ikkaku/287.gif
+ offset 197 29
+ frame data/chars/Ikkaku/288.gif
+ offset 198 30
+ frame data/chars/Ikkaku/289.gif
+ offset 198 30
+ frame data/chars/Ikkaku/290.gif
+ offset 198 30
+ frame data/chars/Ikkaku/291.gif
+ offset 198 30
+ frame data/chars/Ikkaku/292.gif
+
+anim 8250
+ delay 7
+ offset 57 10
+ frame data/chars/Ikkaku/293.gif
+ offset 91 20
+ frame data/chars/Ikkaku/294.gif
+ offset 122 29
+ frame data/chars/Ikkaku/295.gif
+ offset 150 38
+ frame data/chars/Ikkaku/296.gif
+ offset 174 45
+ frame data/chars/Ikkaku/297.gif
+ offset 195 50
+ frame data/chars/Ikkaku/298.gif
+ offset 212 53
+ frame data/chars/Ikkaku/299.gif
+ offset 226 54
+ frame data/chars/Ikkaku/300.gif
+ offset 237 54
+ frame data/chars/Ikkaku/301.gif
+ offset 245 54
+ frame data/chars/Ikkaku/302.gif
+ offset 252 53
+ frame data/chars/Ikkaku/303.gif
+ offset 266 52
+ frame data/chars/Ikkaku/304.gif
+ offset 284 50
+ frame data/chars/Ikkaku/305.gif
+ offset 298 48
+ frame data/chars/Ikkaku/306.gif
+ offset 313 49
+ frame data/chars/Ikkaku/307.gif
+ offset 328 50
+ frame data/chars/Ikkaku/308.gif
+ offset 343 50
+ frame data/chars/Ikkaku/309.gif
+ offset 359 51
+ frame data/chars/Ikkaku/310.gif
+ offset 373 51
+ frame data/chars/Ikkaku/311.gif
+ offset 388 51
+ frame data/chars/Ikkaku/312.gif
+ offset 404 51
+ frame data/chars/Ikkaku/313.gif
+ offset 418 51
+ frame data/chars/Ikkaku/314.gif
+ offset 411 50
+ frame data/chars/Ikkaku/315.gif
+ offset 421 50
+ frame data/chars/Ikkaku/316.gif
+ offset 431 49
+ frame data/chars/Ikkaku/317.gif
+ offset 446 48
+ frame data/chars/Ikkaku/318.gif
+ offset 462 47
+ frame data/chars/Ikkaku/319.gif
+ offset 446 45
+ frame data/chars/Ikkaku/320.gif
+ offset 443 44
+ frame data/chars/Ikkaku/321.gif
+ offset 456 42
+ frame data/chars/Ikkaku/322.gif
+ offset 468 40
+ frame data/chars/Ikkaku/323.gif
+ offset 482 38
+ frame data/chars/Ikkaku/324.gif
+ offset 392 36
+ frame data/chars/Ikkaku/325.gif
+ offset 345 34
+ frame data/chars/Ikkaku/326.gif
+ offset 319 31
+ frame data/chars/Ikkaku/327.gif
+ offset 322 29
+ frame data/chars/Ikkaku/328.gif
+ offset 327 27
+ frame data/chars/Ikkaku/329.gif
+ offset 336 20
+ frame data/chars/Ikkaku/330.gif
+ offset 339 20
+ frame data/chars/Ikkaku/331.gif
+ offset 343 13
+ frame data/chars/Ikkaku/332.gif
+ offset 348 12
+ frame data/chars/Ikkaku/333.gif
+ offset 346 -14
+ frame data/chars/Ikkaku/334.gif
+ offset 389 -73
+ frame data/chars/Ikkaku/335.gif
+ offset 298 -92
+ frame data/chars/Ikkaku/336.gif
+ offset 399 -85
+ frame data/chars/Ikkaku/337.gif
+ offset 299 -100
+ frame data/chars/Ikkaku/338.gif
+ offset 409 -102
+ frame data/chars/Ikkaku/339.gif
+ offset 414 -116
+ frame data/chars/Ikkaku/340.gif
+ offset 308 -111
+ frame data/chars/Ikkaku/341.gif
+ offset 342 -126
+ frame data/chars/Ikkaku/342.gif
+ offset 370 -116
+ frame data/chars/Ikkaku/343.gif
+ offset 433 -132
+ frame data/chars/Ikkaku/344.gif
+ offset 438 -127
+ frame data/chars/Ikkaku/345.gif
+ offset 443 -135
+ frame data/chars/Ikkaku/346.gif
+ offset 448 -155
+ frame data/chars/Ikkaku/347.gif
+ offset 453 -148
+ frame data/chars/Ikkaku/348.gif
+ offset 458 -148
+ frame data/chars/Ikkaku/349.gif
+ offset 339 -150
+ frame data/chars/Ikkaku/350.gif
+ offset 344 -164
+ frame data/chars/Ikkaku/351.gif
+ offset 345 -169
+ frame data/chars/Ikkaku/352.gif
+ offset 351 -187
+ frame data/chars/Ikkaku/353.gif
+ offset 351 -184
+ frame data/chars/Ikkaku/354.gif
+ offset 365 -182
+ frame data/chars/Ikkaku/355.gif
+ offset 359 -200
+ frame data/chars/Ikkaku/356.gif
+ offset 365 -197
+ frame data/chars/Ikkaku/357.gif
+
+anim 7000
+ delay 7
+ offset 24 24
+ frame data/chars/Ikkaku/358.gif
+ offset 19 19
+ frame data/chars/Ikkaku/359.gif
+ offset 14 15
+ frame data/chars/Ikkaku/360.gif
+ offset 9 16
+ frame data/chars/Ikkaku/361.gif
+ offset 11 19
+ frame data/chars/Ikkaku/362.gif
+ offset 12 22
+ frame data/chars/Ikkaku/363.gif
+ offset 7 25
+ frame data/chars/Ikkaku/364.gif
+ offset 11 23
+ frame data/chars/Ikkaku/365.gif
+ offset 12 23
+ frame data/chars/Ikkaku/366.gif
+ offset 12 24
+ frame data/chars/Ikkaku/367.gif
+ offset 13 31
+ frame data/chars/Ikkaku/368.gif
+ offset 13 32
+ frame data/chars/Ikkaku/369.gif
+ offset 13 33
+ frame data/chars/Ikkaku/370.gif
+ offset 13 35
+ frame data/chars/Ikkaku/371.gif
+ offset 13 36
+ frame data/chars/Ikkaku/372.gif
+ offset 13 36
+ frame data/chars/Ikkaku/373.gif
+ offset 11 37
+ frame data/chars/Ikkaku/374.gif
+ offset 10 38
+ frame data/chars/Ikkaku/375.gif
+ offset 7 40
+ frame data/chars/Ikkaku/376.gif
+ offset 8 41
+ frame data/chars/Ikkaku/377.gif
+ offset 2 43
+ frame data/chars/Ikkaku/378.gif
+
+anim 8200
+ delay 7
+ offset 108 237
+ frame data/chars/Ikkaku/379.gif
+ offset 114 256
+ frame data/chars/Ikkaku/380.gif
+ offset 121 276
+ frame data/chars/Ikkaku/381.gif
+ offset 128 193
+ frame data/chars/Ikkaku/382.gif
+ offset 135 198
+ frame data/chars/Ikkaku/383.gif
+ offset 126 199
+ frame data/chars/Ikkaku/384.gif
+ offset 125 186
+ frame data/chars/Ikkaku/385.gif
+ offset 127 180
+ frame data/chars/Ikkaku/386.gif
+ offset 124 124
+ frame data/chars/Ikkaku/387.gif
+ offset 115 109
+ frame data/chars/Ikkaku/388.gif
+
+anim 9007
+ delay 7
+ offset 75 10
+ frame data/chars/Ikkaku/389.gif
+ offset 93 12
+ frame data/chars/Ikkaku/390.gif
+ offset 111 14
+ frame data/chars/Ikkaku/391.gif
+ offset 124 16
+ frame data/chars/Ikkaku/392.gif
+ offset 122 16
+ frame data/chars/Ikkaku/393.gif
+
+anim 9008
+ delay 7
+ offset 110 8
+ frame data/chars/Ikkaku/394.gif
+
+anim 9021
+ delay 7
+ offset 320 240
+ frame data/chars/Ikkaku/395.gif
+
+anim 7052
+ delay 7
+ offset 179 41
+ frame data/chars/Ikkaku/396.gif
+ offset 178 43
+ frame data/chars/Ikkaku/397.gif
+ offset 219 45
+ frame data/chars/Ikkaku/398.gif
+ offset 225 59
+ frame data/chars/Ikkaku/399.gif
+ offset 222 62
+ frame data/chars/Ikkaku/400.gif
+ offset 223 59
+ frame data/chars/Ikkaku/401.gif
+ offset 226 60
+ frame data/chars/Ikkaku/402.gif
+ offset 219 63
+ frame data/chars/Ikkaku/403.gif
+ offset 209 63
+ frame data/chars/Ikkaku/404.gif
+
+anim 7053
+ delay 7
+ offset 0 -102
+ frame data/chars/Ikkaku/405.gif
+ offset 0 -92
+ frame data/chars/Ikkaku/406.gif
+ offset 0 -70
+ frame data/chars/Ikkaku/407.gif
+ offset 0 -3
+ frame data/chars/Ikkaku/408.gif
+ offset 0 -3
+ frame data/chars/Ikkaku/409.gif
+ offset 0 -3
+ frame data/chars/Ikkaku/410.gif
+ offset 0 -3
+ frame data/chars/Ikkaku/411.gif
+ offset 0 0
+ frame data/chars/Ikkaku/412.gif
+ offset 0 0
+ frame data/chars/Ikkaku/413.gif
+ offset 0 0
+ frame data/chars/Ikkaku/414.gif
+ offset 0 0
+ frame data/chars/Ikkaku/415.gif
+ offset 0 -1
+ frame data/chars/Ikkaku/416.gif
+ offset 0 -8
+ frame data/chars/Ikkaku/417.gif
+ offset 0 -6
+ frame data/chars/Ikkaku/418.gif
+
+anim 0161
+ delay 7
+ offset 24 20
+ frame data/chars/Ikkaku/419.gif
+ offset 24 57
+ frame data/chars/Ikkaku/420.gif
+ offset 23 96
+ frame data/chars/Ikkaku/421.gif
+ offset 23 96
+ frame data/chars/Ikkaku/422.gif
+ offset 2 92
+ frame data/chars/Ikkaku/423.gif
+ offset 3 88
+ frame data/chars/Ikkaku/424.gif
+ offset -11 87
+ frame data/chars/Ikkaku/425.gif
+
+anim 0950
+ delay 7
+ offset 105 294
+ frame data/chars/Ikkaku/426.gif
+ offset 300 290
+ frame data/chars/Ikkaku/427.gif
+ offset 300 288
+ frame data/chars/Ikkaku/428.gif
+ offset 300 296
+ frame data/chars/Ikkaku/429.gif
+ offset 300 325
+ frame data/chars/Ikkaku/430.gif
+ offset 300 354
+ frame data/chars/Ikkaku/431.gif
+ offset 300 382
+ frame data/chars/Ikkaku/432.gif
+ offset 300 400
+ frame data/chars/Ikkaku/433.gif
+ offset 300 384
+ frame data/chars/Ikkaku/434.gif
+ offset 300 400
+ frame data/chars/Ikkaku/435.gif
+ offset 300 400
+ frame data/chars/Ikkaku/436.gif
+ offset 293 384
+ frame data/chars/Ikkaku/437.gif
+ offset 233 391
+ frame data/chars/Ikkaku/438.gif
+ offset 214 399
+ frame data/chars/Ikkaku/439.gif
+ offset 208 391
+ frame data/chars/Ikkaku/440.gif
+ offset 183 365
+ frame data/chars/Ikkaku/441.gif
+ offset 158 341
+ frame data/chars/Ikkaku/442.gif
+ offset 151 338
+ frame data/chars/Ikkaku/443.gif
+ offset 148 337
+ frame data/chars/Ikkaku/444.gif
+ offset 147 338
+ frame data/chars/Ikkaku/445.gif
+ offset 146 336
+ frame data/chars/Ikkaku/446.gif
+ offset 142 333
+ frame data/chars/Ikkaku/447.gif
+ offset 137 332
+ frame data/chars/Ikkaku/448.gif
+ offset 136 332
+ frame data/chars/Ikkaku/449.gif
+ offset 134 332
+ frame data/chars/Ikkaku/450.gif
+ offset 132 331
+ frame data/chars/Ikkaku/451.gif
+ offset 125 330
+ frame data/chars/Ikkaku/452.gif
+ offset 110 328
+ frame data/chars/Ikkaku/453.gif
+ offset 67 323
+ frame data/chars/Ikkaku/454.gif
+ offset 62 314
+ frame data/chars/Ikkaku/455.gif
+ offset 100 292
+ frame data/chars/Ikkaku/456.gif
+ offset 273 289
+ frame data/chars/Ikkaku/457.gif
+ offset 273 287
+ frame data/chars/Ikkaku/458.gif
+ offset 273 295
+ frame data/chars/Ikkaku/459.gif
+ offset 273 324
+ frame data/chars/Ikkaku/460.gif
+ offset 273 353
+ frame data/chars/Ikkaku/461.gif
+ offset 273 382
+ frame data/chars/Ikkaku/462.gif
+ offset 273 396
+ frame data/chars/Ikkaku/463.gif
+ offset 273 384
+ frame data/chars/Ikkaku/464.gif
+ offset 273 396
+ frame data/chars/Ikkaku/465.gif
+ offset 273 396
+ frame data/chars/Ikkaku/466.gif
+ offset 273 383
+ frame data/chars/Ikkaku/467.gif
+ offset 236 390
+ frame data/chars/Ikkaku/468.gif
+ offset 214 396
+ frame data/chars/Ikkaku/469.gif
+ offset 208 390
+ frame data/chars/Ikkaku/470.gif
+ offset 182 365
+ frame data/chars/Ikkaku/471.gif
+ offset 157 340
+ frame data/chars/Ikkaku/472.gif
+ offset 145 332
+ frame data/chars/Ikkaku/473.gif
+ offset 141 331
+ frame data/chars/Ikkaku/474.gif
+ offset 137 330
+ frame data/chars/Ikkaku/475.gif
+ offset 133 329
+ frame data/chars/Ikkaku/476.gif
+ offset 133 327
+ frame data/chars/Ikkaku/477.gif
+ offset 129 327
+ frame data/chars/Ikkaku/478.gif
+ offset 128 324
+ frame data/chars/Ikkaku/479.gif
+ offset 122 323
+ frame data/chars/Ikkaku/480.gif
+ offset 118 320
+ frame data/chars/Ikkaku/481.gif
+ offset 106 319
+ frame data/chars/Ikkaku/482.gif
+ offset 71 314
+ frame data/chars/Ikkaku/483.gif
+ offset 59 305
+ frame data/chars/Ikkaku/484.gif
+ offset 55 287
+ frame data/chars/Ikkaku/485.gif
+
+anim 0960
+ delay 7
+ offset 63 32
+ frame data/chars/Ikkaku/486.gif
+ offset 63 30
+ frame data/chars/Ikkaku/487.gif
+ offset 63 30
+ frame data/chars/Ikkaku/488.gif
+ offset 63 34
+ frame data/chars/Ikkaku/489.gif
+ offset 72 42
+ frame data/chars/Ikkaku/490.gif
+ offset 76 46
+ frame data/chars/Ikkaku/491.gif
+ offset 79 50
+ frame data/chars/Ikkaku/492.gif
+ offset 81 53
+ frame data/chars/Ikkaku/493.gif
+ offset 82 82
+ frame data/chars/Ikkaku/494.gif
+ offset 91 127
+ frame data/chars/Ikkaku/495.gif
+ offset 95 138
+ frame data/chars/Ikkaku/496.gif
+ offset 97 151
+ frame data/chars/Ikkaku/497.gif
+ offset 102 138
+ frame data/chars/Ikkaku/498.gif
+ offset 99 150
+ frame data/chars/Ikkaku/499.gif
+ offset 101 160
+ frame data/chars/Ikkaku/500.gif
+ offset 99 133
+ frame data/chars/Ikkaku/501.gif
+ offset 81 150
+ frame data/chars/Ikkaku/502.gif
+ offset 90 155
+ frame data/chars/Ikkaku/503.gif
+ offset 94 129
+ frame data/chars/Ikkaku/504.gif
+ offset 96 126
+ frame data/chars/Ikkaku/505.gif
+ offset 101 130
+ frame data/chars/Ikkaku/506.gif
+ offset 99 141
+ frame data/chars/Ikkaku/507.gif
+ offset 101 150
+ frame data/chars/Ikkaku/508.gif
+ offset 98 177
+ frame data/chars/Ikkaku/509.gif
+ offset 81 158
+ frame data/chars/Ikkaku/510.gif
+ offset 91 133
+ frame data/chars/Ikkaku/511.gif
+ offset 94 131
+ frame data/chars/Ikkaku/512.gif
+ offset 97 109
+ frame data/chars/Ikkaku/513.gif
+ offset 100 120
+ frame data/chars/Ikkaku/514.gif
+ offset 99 126
+ frame data/chars/Ikkaku/515.gif
+ offset 101 131
+ frame data/chars/Ikkaku/516.gif
+
+anim freespecial1260
+ delay 7
+ offset 151 149
+ frame data/chars/Ikkaku/517.gif
+ offset 173 174
+ frame data/chars/Ikkaku/518.gif
+ offset 156 157
+ frame data/chars/Ikkaku/519.gif
+ offset 135 131
+ frame data/chars/Ikkaku/520.gif
+ offset 133 128
+ frame data/chars/Ikkaku/521.gif
+ offset 137 135
+ frame data/chars/Ikkaku/522.gif
+ offset 137 135
+ frame data/chars/Ikkaku/523.gif
+ offset 139 135
+ frame data/chars/Ikkaku/524.gif
+ offset 139 136
+ frame data/chars/Ikkaku/525.gif
+ offset 140 136
+ frame data/chars/Ikkaku/526.gif
+ offset 144 140
+ frame data/chars/Ikkaku/527.gif
+ offset 155 152
+ frame data/chars/Ikkaku/528.gif
+ offset 166 165
+ frame data/chars/Ikkaku/529.gif
+ offset 180 177
+ frame data/chars/Ikkaku/530.gif
+ offset 188 185
+ frame data/chars/Ikkaku/531.gif
+ offset 197 194
+ frame data/chars/Ikkaku/532.gif
+ offset 207 206
+ frame data/chars/Ikkaku/533.gif
+ offset 130 126
+ frame data/chars/Ikkaku/534.gif
+ offset 128 127
+ frame data/chars/Ikkaku/535.gif
+ offset 126 124
+ frame data/chars/Ikkaku/536.gif
+ offset 126 123
+ frame data/chars/Ikkaku/537.gif
+ offset 126 135
+ frame data/chars/Ikkaku/538.gif
+ offset 128 128
+ frame data/chars/Ikkaku/539.gif
+ offset 134 131
+ frame data/chars/Ikkaku/540.gif
+ offset 136 133
+ frame data/chars/Ikkaku/541.gif
+ offset 138 144
+ frame data/chars/Ikkaku/542.gif
+ offset 140 146
+ frame data/chars/Ikkaku/543.gif
+ offset 142 148
+ frame data/chars/Ikkaku/544.gif
+ offset 144 150
+ frame data/chars/Ikkaku/545.gif
+ offset 145 152
+ frame data/chars/Ikkaku/546.gif
+ offset 147 153
+ frame data/chars/Ikkaku/547.gif
+ offset 148 155
+ frame data/chars/Ikkaku/548.gif
+ offset 150 156
+ frame data/chars/Ikkaku/549.gif
+ offset 151 158
+ frame data/chars/Ikkaku/550.gif
+ offset 153 160
+ frame data/chars/Ikkaku/551.gif
+ offset 154 161
+ frame data/chars/Ikkaku/552.gif
+ offset 155 156
+ frame data/chars/Ikkaku/553.gif
+ offset 157 164
+ frame data/chars/Ikkaku/554.gif
+ offset 158 165
+ frame data/chars/Ikkaku/555.gif
+ offset 159 166
+ frame data/chars/Ikkaku/556.gif
+ offset 160 162
+ frame data/chars/Ikkaku/557.gif
+ offset 161 162
+ frame data/chars/Ikkaku/558.gif
+ offset 162 164
+ frame data/chars/Ikkaku/559.gif
+ offset 164 171
+ frame data/chars/Ikkaku/560.gif
+ offset 149 162
+ frame data/chars/Ikkaku/561.gif
+ offset 166 163
+ frame data/chars/Ikkaku/562.gif
+ offset 150 159
+ frame data/chars/Ikkaku/563.gif
+ offset 145 158
+ frame data/chars/Ikkaku/564.gif
+ offset 143 158
+ frame data/chars/Ikkaku/565.gif
+ offset 140 155
+ frame data/chars/Ikkaku/566.gif
+
+anim 7200
+ delay 7
+ offset 75 68
+ frame data/chars/Ikkaku/567.gif
+ offset 72 68
+ frame data/chars/Ikkaku/568.gif
+ offset 78 67
+ frame data/chars/Ikkaku/569.gif
+ offset 51 12
+ frame data/chars/Ikkaku/570.gif
+ offset 51 12
+ frame data/chars/Ikkaku/571.gif
+ offset 50 14
+ frame data/chars/Ikkaku/572.gif
+ offset 88 16
+ frame data/chars/Ikkaku/573.gif
+ offset 87 16
+ frame data/chars/Ikkaku/574.gif
+ offset 87 17
+ frame data/chars/Ikkaku/575.gif
+ offset 64 43
+ frame data/chars/Ikkaku/576.gif
+ offset 65 46
+ frame data/chars/Ikkaku/577.gif
+ offset 70 43
+ frame data/chars/Ikkaku/578.gif
+ offset 73 88
+ frame data/chars/Ikkaku/579.gif
+ offset 70 87
+ frame data/chars/Ikkaku/580.gif
+ offset 76 88
+ frame data/chars/Ikkaku/581.gif
+ offset 47 36
+ frame data/chars/Ikkaku/582.gif
+ offset 51 39
+ frame data/chars/Ikkaku/583.gif
+ offset 56 35
+ frame data/chars/Ikkaku/584.gif
+ offset 97 91
+ frame data/chars/Ikkaku/585.gif
+ offset 97 87
+ frame data/chars/Ikkaku/586.gif
+ offset 88 85
+ frame data/chars/Ikkaku/587.gif
+ offset 51 48
+ frame data/chars/Ikkaku/588.gif
+ offset 52 48
+ frame data/chars/Ikkaku/589.gif
+ offset 55 50
+ frame data/chars/Ikkaku/590.gif
+ offset 65 33
+ frame data/chars/Ikkaku/591.gif
+ offset 64 31
+ frame data/chars/Ikkaku/592.gif
+ offset 64 36
+ frame data/chars/Ikkaku/593.gif
+
+anim freespecial1550
+ delay 7
+ offset 75 238
+ frame data/chars/Ikkaku/594.gif
+ offset 79 238
+ frame data/chars/Ikkaku/595.gif
+ offset 79 238
+ frame data/chars/Ikkaku/596.gif
+ offset 60 238
+ frame data/chars/Ikkaku/597.gif
+ offset 59 238
+ frame data/chars/Ikkaku/598.gif
+ offset 60 238
+ frame data/chars/Ikkaku/599.gif
+ offset 60 238
+ frame data/chars/Ikkaku/600.gif
+ offset 59 238
+ frame data/chars/Ikkaku/601.gif
+ offset 59 238
+ frame data/chars/Ikkaku/602.gif
+ offset 60 238
+ frame data/chars/Ikkaku/603.gif
+ offset 41 238
+ frame data/chars/Ikkaku/604.gif
+ offset 34 238
+ frame data/chars/Ikkaku/605.gif
+
+anim 7054
+ delay 7
+ offset 24 77
+ frame data/chars/Ikkaku/606.gif
+ offset 32 79
+ frame data/chars/Ikkaku/607.gif
+ offset 47 80
+ frame data/chars/Ikkaku/608.gif
+ offset 62 81
+ frame data/chars/Ikkaku/609.gif
+ offset 81 83
+ frame data/chars/Ikkaku/610.gif
+ offset 127 87
+ frame data/chars/Ikkaku/611.gif
+ offset 162 90
+ frame data/chars/Ikkaku/612.gif
+ offset 184 92
+ frame data/chars/Ikkaku/613.gif
+ offset 202 93
+ frame data/chars/Ikkaku/614.gif
+ offset 217 94
+ frame data/chars/Ikkaku/615.gif
+ offset 225 94
+ frame data/chars/Ikkaku/616.gif
+ offset 229 94
+ frame data/chars/Ikkaku/617.gif
+ offset 232 94
+ frame data/chars/Ikkaku/618.gif
+ offset 235 91
+ frame data/chars/Ikkaku/619.gif
+ offset 236 91
+ frame data/chars/Ikkaku/620.gif
+ offset 237 91
+ frame data/chars/Ikkaku/621.gif
+ offset 238 91
+ frame data/chars/Ikkaku/622.gif
+ offset 238 81
+ frame data/chars/Ikkaku/623.gif
+ offset 239 81
+ frame data/chars/Ikkaku/624.gif
+ offset 239 81
+ frame data/chars/Ikkaku/625.gif
+ offset 240 81
+ frame data/chars/Ikkaku/626.gif
+ offset 239 81
+ frame data/chars/Ikkaku/627.gif
+ offset 240 81
+ frame data/chars/Ikkaku/628.gif
+
+anim freespecial1050
+ delay 7
+ offset 63 32
+ frame data/chars/Ikkaku/629.gif
+ offset 63 30
+ frame data/chars/Ikkaku/630.gif
+ offset 63 30
+ frame data/chars/Ikkaku/631.gif
+ offset 63 34
+ frame data/chars/Ikkaku/632.gif
+ offset 72 42
+ frame data/chars/Ikkaku/633.gif
+ offset 76 46
+ frame data/chars/Ikkaku/634.gif
+ offset 79 50
+ frame data/chars/Ikkaku/635.gif
+ offset 81 53
+ frame data/chars/Ikkaku/636.gif
+ offset 82 82
+ frame data/chars/Ikkaku/637.gif
+ offset 91 127
+ frame data/chars/Ikkaku/638.gif
+ offset 95 138
+ frame data/chars/Ikkaku/639.gif
+ offset 97 151
+ frame data/chars/Ikkaku/640.gif
+ offset 102 138
+ frame data/chars/Ikkaku/641.gif
+ offset 99 150
+ frame data/chars/Ikkaku/642.gif
+ offset 101 160
+ frame data/chars/Ikkaku/643.gif
+ offset 99 133
+ frame data/chars/Ikkaku/644.gif
+ offset 81 150
+ frame data/chars/Ikkaku/645.gif
+ offset 90 155
+ frame data/chars/Ikkaku/646.gif
+ offset 94 129
+ frame data/chars/Ikkaku/647.gif
+ offset 96 126
+ frame data/chars/Ikkaku/648.gif
+ offset 101 130
+ frame data/chars/Ikkaku/649.gif
+ offset 99 141
+ frame data/chars/Ikkaku/650.gif
+ offset 101 150
+ frame data/chars/Ikkaku/651.gif
+ offset 98 177
+ frame data/chars/Ikkaku/652.gif
+ offset 81 158
+ frame data/chars/Ikkaku/653.gif
+ offset 91 133
+ frame data/chars/Ikkaku/654.gif
+ offset 94 131
+ frame data/chars/Ikkaku/655.gif
+ offset 97 109
+ frame data/chars/Ikkaku/656.gif
+ offset 100 120
+ frame data/chars/Ikkaku/657.gif
+ offset 99 126
+ frame data/chars/Ikkaku/658.gif
+ offset 101 131
+ frame data/chars/Ikkaku/659.gif
+
+anim freespecial1052
+ delay 7
+ offset -82 42
+ frame data/chars/Ikkaku/660.gif
+ offset -34 52
+ frame data/chars/Ikkaku/661.gif
+ offset 14 62
+ frame data/chars/Ikkaku/662.gif
+ offset 62 72
+ frame data/chars/Ikkaku/663.gif
+ offset 110 81
+ frame data/chars/Ikkaku/664.gif
+ offset 158 88
+ frame data/chars/Ikkaku/665.gif
+ offset 168 90
+ frame data/chars/Ikkaku/666.gif
+ offset 168 94
+ frame data/chars/Ikkaku/667.gif
+ offset 110 99
+ frame data/chars/Ikkaku/668.gif
+ offset 157 110
+ frame data/chars/Ikkaku/669.gif
+ offset 172 114
+ frame data/chars/Ikkaku/670.gif
+ offset 198 114
+ frame data/chars/Ikkaku/671.gif
+ offset 110 118
+ frame data/chars/Ikkaku/672.gif
+ offset 157 130
+ frame data/chars/Ikkaku/673.gif
+ offset 172 134
+ frame data/chars/Ikkaku/674.gif
+ offset 197 134
+ frame data/chars/Ikkaku/675.gif
+ offset 168 99
+ frame data/chars/Ikkaku/676.gif
+ offset 196 110
+ frame data/chars/Ikkaku/677.gif
+ offset 207 114
+ frame data/chars/Ikkaku/678.gif
+ offset 199 114
+ frame data/chars/Ikkaku/679.gif
+ offset 191 78
+ frame data/chars/Ikkaku/680.gif
+ offset 208 84
+ frame data/chars/Ikkaku/681.gif
+ offset 216 88
+ frame data/chars/Ikkaku/682.gif
+ offset 208 86
+ frame data/chars/Ikkaku/683.gif
+ offset 189 34
+ frame data/chars/Ikkaku/684.gif
+ offset 9 31
+ frame data/chars/Ikkaku/685.gif
+ offset 57 34
+ frame data/chars/Ikkaku/686.gif
+ offset 110 37
+ frame data/chars/Ikkaku/687.gif
+ offset 189 30
+ frame data/chars/Ikkaku/688.gif
+
+anim freespecial1051
+ delay 7
+ offset 69 76
+ frame data/chars/Ikkaku/689.gif
+
+anim freespecial1054
+ delay 7
+ offset 195 34
+ frame data/chars/Ikkaku/690.gif
+
+anim 7020
+ delay 7
+ offset 82 20
+ frame data/chars/Ikkaku/691.gif
+ offset 86 20
+ frame data/chars/Ikkaku/692.gif
+ offset 79 15
+ frame data/chars/Ikkaku/693.gif
+ offset 79 15
+ frame data/chars/Ikkaku/694.gif
+ offset 78 15
+ frame data/chars/Ikkaku/695.gif
+ offset 79 15
+ frame data/chars/Ikkaku/696.gif
+ offset 78 15
+ frame data/chars/Ikkaku/697.gif
+ offset 79 15
+ frame data/chars/Ikkaku/698.gif
+ offset 77 15
+ frame data/chars/Ikkaku/699.gif
+ offset 77 14
+ frame data/chars/Ikkaku/700.gif
+
+anim 7110
+ delay 7
+ offset 339 504
+ frame data/chars/Ikkaku/701.gif
+ offset 363 531
+ frame data/chars/Ikkaku/702.gif
+ offset 374 479
+ frame data/chars/Ikkaku/703.gif
+ offset 384 504
+ frame data/chars/Ikkaku/704.gif
+ offset 323 527
+ frame data/chars/Ikkaku/705.gif
+ offset 346 544
+ frame data/chars/Ikkaku/706.gif
+ offset 357 516
+ frame data/chars/Ikkaku/707.gif
+ offset 378 528
+ frame data/chars/Ikkaku/708.gif
+ offset 384 537
+ frame data/chars/Ikkaku/709.gif
+ offset 396 545
+ frame data/chars/Ikkaku/710.gif
+ offset 402 503
+ frame data/chars/Ikkaku/711.gif
+ offset 420 525
+ frame data/chars/Ikkaku/712.gif
+ offset 421 540
+ frame data/chars/Ikkaku/713.gif
+ offset 427 541
+ frame data/chars/Ikkaku/714.gif
+ offset 436 515
+ frame data/chars/Ikkaku/715.gif
+ offset 443 520
+ frame data/chars/Ikkaku/716.gif
+ offset 446 508
+ frame data/chars/Ikkaku/717.gif
+ offset 446 519
+ frame data/chars/Ikkaku/718.gif
+ offset 452 531
+ frame data/chars/Ikkaku/719.gif
+ offset 460 540
+ frame data/chars/Ikkaku/720.gif
+ offset 461 527
+ frame data/chars/Ikkaku/721.gif
+ offset 463 537
+ frame data/chars/Ikkaku/722.gif
+ offset 464 545
+ frame data/chars/Ikkaku/723.gif
+ offset 465 527
+ frame data/chars/Ikkaku/724.gif
+ offset 466 538
+ frame data/chars/Ikkaku/725.gif
+ offset 466 549
+ frame data/chars/Ikkaku/726.gif
+ offset 463 558
+ frame data/chars/Ikkaku/727.gif
+ offset 450 534
+ frame data/chars/Ikkaku/728.gif
+ offset 452 531
+ frame data/chars/Ikkaku/729.gif
+ offset 452 528
+ frame data/chars/Ikkaku/730.gif
+ offset 450 527
+ frame data/chars/Ikkaku/731.gif
+ offset 453 529
+ frame data/chars/Ikkaku/732.gif
+ offset 438 528
+ frame data/chars/Ikkaku/733.gif
+ offset 396 523
+ frame data/chars/Ikkaku/734.gif
+ offset 397 528
+ frame data/chars/Ikkaku/735.gif
+ offset 398 527
+ frame data/chars/Ikkaku/736.gif
+ offset 396 527
+ frame data/chars/Ikkaku/737.gif
+ offset 376 525
+ frame data/chars/Ikkaku/738.gif
+ offset 331 522
+ frame data/chars/Ikkaku/739.gif
+ offset 331 490
+ frame data/chars/Ikkaku/740.gif
+
+anim 7000
+ delay 7
+ offset 24 24
+ frame data/chars/Ikkaku/741.gif
+ offset 19 19
+ frame data/chars/Ikkaku/742.gif
+ offset 14 15
+ frame data/chars/Ikkaku/743.gif
+ offset 9 16
+ frame data/chars/Ikkaku/744.gif
+ offset 11 19
+ frame data/chars/Ikkaku/745.gif
+ offset 12 22
+ frame data/chars/Ikkaku/746.gif
+ offset 7 25
+ frame data/chars/Ikkaku/747.gif
+ offset 11 23
+ frame data/chars/Ikkaku/748.gif
+ offset 12 23
+ frame data/chars/Ikkaku/749.gif
+ offset 12 24
+ frame data/chars/Ikkaku/750.gif
+ offset 13 31
+ frame data/chars/Ikkaku/751.gif
+ offset 13 32
+ frame data/chars/Ikkaku/752.gif
+ offset 13 33
+ frame data/chars/Ikkaku/753.gif
+ offset 13 35
+ frame data/chars/Ikkaku/754.gif
+ offset 13 36
+ frame data/chars/Ikkaku/755.gif
+ offset 13 36
+ frame data/chars/Ikkaku/756.gif
+ offset 11 37
+ frame data/chars/Ikkaku/757.gif
+ offset 10 38
+ frame data/chars/Ikkaku/758.gif
+ offset 7 40
+ frame data/chars/Ikkaku/759.gif
+ offset 8 41
+ frame data/chars/Ikkaku/760.gif
+ offset 2 43
+ frame data/chars/Ikkaku/761.gif
+
+anim 7007
+ delay 7
+ offset 80 57
+ frame data/chars/Ikkaku/762.gif
+ offset 86 64
+ frame data/chars/Ikkaku/763.gif
+ offset 76 56
+ frame data/chars/Ikkaku/764.gif
+ offset 57 5
+ frame data/chars/Ikkaku/765.gif
+
+anim 7025
+ delay 7
+ offset 181 276
+ frame data/chars/Ikkaku/766.gif
+ offset 235 259
+ frame data/chars/Ikkaku/767.gif
+ offset 200 262
+ frame data/chars/Ikkaku/768.gif
+ offset 235 257
+ frame data/chars/Ikkaku/769.gif
+ offset 233 282
+ frame data/chars/Ikkaku/770.gif
+
+anim 7009
+ delay 7
+ offset 128 98
+ frame data/chars/Ikkaku/771.gif
+ offset 125 107
+ frame data/chars/Ikkaku/772.gif
+ offset 114 116
+ frame data/chars/Ikkaku/773.gif
+ offset 104 112
+ frame data/chars/Ikkaku/774.gif
+
+anim freespecial1415
+ delay 7
+ offset 256 128
+ frame data/chars/Ikkaku/775.gif
+ offset 256 128
+ frame data/chars/Ikkaku/776.gif
+ offset 256 128
+ frame data/chars/Ikkaku/777.gif
+ offset 256 128
+ frame data/chars/Ikkaku/778.gif
+ offset 256 128
+ frame data/chars/Ikkaku/779.gif
+ offset 256 128
+ frame data/chars/Ikkaku/780.gif
+ offset 256 128
+ frame data/chars/Ikkaku/781.gif
+
+anim 7205
+ delay 7
+ offset 356 779
+ frame data/chars/Ikkaku/782.gif
+ offset 356 779
+ frame data/chars/Ikkaku/783.gif
+ offset 356 779
+ frame data/chars/Ikkaku/784.gif
+ offset 356 779
+ frame data/chars/Ikkaku/785.gif
+ offset 356 779
+ frame data/chars/Ikkaku/786.gif
+ offset 356 779
+ frame data/chars/Ikkaku/787.gif
+ offset 356 779
+ frame data/chars/Ikkaku/788.gif
+ offset 356 779
+ frame data/chars/Ikkaku/789.gif
+ offset 356 779
+ frame data/chars/Ikkaku/790.gif
+ offset 356 779
+ frame data/chars/Ikkaku/791.gif
+ offset 356 779
+ frame data/chars/Ikkaku/792.gif
+ offset 356 779
+ frame data/chars/Ikkaku/793.gif
+ offset 356 779
+ frame data/chars/Ikkaku/794.gif
+ offset 356 779
+ frame data/chars/Ikkaku/795.gif
+ offset 356 779
+ frame data/chars/Ikkaku/796.gif
+ offset 356 779
+ frame data/chars/Ikkaku/797.gif
+
+anim freespecial1031
+ delay 7
+ offset 109 75
+ frame data/chars/Ikkaku/798.gif
+ offset 112 78
+ frame data/chars/Ikkaku/799.gif
+ offset 157 141
+ frame data/chars/Ikkaku/800.gif
+ offset 158 142
+ frame data/chars/Ikkaku/801.gif
+ offset 157 150
+ frame data/chars/Ikkaku/802.gif
+ offset 159 152
+ frame data/chars/Ikkaku/803.gif
+ offset 149 153
+ frame data/chars/Ikkaku/804.gif
+ offset 147 154
+ frame data/chars/Ikkaku/805.gif
+
+anim freespecial3051
+ delay 7
+ offset 125 147
+ frame data/chars/Ikkaku/806.gif
+ offset 130 217
+ frame data/chars/Ikkaku/807.gif
+ offset 154 230
+ frame data/chars/Ikkaku/808.gif
+ offset 170 254
+ frame data/chars/Ikkaku/809.gif
+ offset 182 268
+ frame data/chars/Ikkaku/810.gif
+ offset 188 270
+ frame data/chars/Ikkaku/811.gif
+ offset 193 254
+ frame data/chars/Ikkaku/812.gif
+ offset 162 265
+ frame data/chars/Ikkaku/813.gif
+ offset 176 273
+ frame data/chars/Ikkaku/814.gif
+ offset 186 260
+ frame data/chars/Ikkaku/815.gif
+ offset 190 266
+ frame data/chars/Ikkaku/816.gif
+ offset 198 270
+ frame data/chars/Ikkaku/817.gif
+ offset 202 274
+ frame data/chars/Ikkaku/818.gif
+ offset 208 254
+ frame data/chars/Ikkaku/819.gif
+ offset 212 264
+ frame data/chars/Ikkaku/820.gif
+ offset 214 272
+ frame data/chars/Ikkaku/821.gif
+ offset 215 274
+ frame data/chars/Ikkaku/822.gif
+ offset 224 259
+ frame data/chars/Ikkaku/823.gif
+ offset 224 263
+ frame data/chars/Ikkaku/824.gif
+ offset 224 255
+ frame data/chars/Ikkaku/825.gif
+ offset 224 261
+ frame data/chars/Ikkaku/826.gif
+ offset 227 267
+ frame data/chars/Ikkaku/827.gif
+ offset 230 271
+ frame data/chars/Ikkaku/828.gif
+ offset 231 264
+ frame data/chars/Ikkaku/829.gif
+ offset 232 270
+ frame data/chars/Ikkaku/830.gif
+ offset 232 274
+ frame data/chars/Ikkaku/831.gif
+ offset 233 264
+ frame data/chars/Ikkaku/832.gif
+ offset 233 270
+ frame data/chars/Ikkaku/833.gif
+ offset 233 276
+ frame data/chars/Ikkaku/834.gif
+ offset 232 281
+ frame data/chars/Ikkaku/835.gif
+ offset 226 269
+ frame data/chars/Ikkaku/836.gif
+ offset 226 267
+ frame data/chars/Ikkaku/837.gif
+ offset 228 268
+ frame data/chars/Ikkaku/838.gif
+ offset 228 266
+ frame data/chars/Ikkaku/839.gif
+ offset 228 266
+ frame data/chars/Ikkaku/840.gif
+ offset 221 268
+ frame data/chars/Ikkaku/841.gif
+ offset 198 263
+ frame data/chars/Ikkaku/842.gif
+ offset 199 265
+ frame data/chars/Ikkaku/843.gif
+ offset 199 265
+ frame data/chars/Ikkaku/844.gif
+ offset 199 265
+ frame data/chars/Ikkaku/845.gif
+ offset 196 264
+ frame data/chars/Ikkaku/846.gif
+ offset 185 262
+ frame data/chars/Ikkaku/847.gif
+ offset 166 260
+ frame data/chars/Ikkaku/848.gif
+
+anim 7357
+ delay 7
+ offset 84 47
+ frame data/chars/Ikkaku/849.gif
+ offset 84 47
+ frame data/chars/Ikkaku/850.gif
+ offset 106 47
+ frame data/chars/Ikkaku/851.gif
+ offset 125 52
+ frame data/chars/Ikkaku/852.gif
+ offset 147 61
+ frame data/chars/Ikkaku/853.gif
+ offset 173 72
+ frame data/chars/Ikkaku/854.gif
+ offset 197 80
+ frame data/chars/Ikkaku/855.gif
+ offset 216 90
+ frame data/chars/Ikkaku/856.gif
+ offset 238 99
+ frame data/chars/Ikkaku/857.gif
+ offset 255 106
+ frame data/chars/Ikkaku/858.gif
+ offset 274 111
+ frame data/chars/Ikkaku/859.gif
+ offset 286 118
+ frame data/chars/Ikkaku/860.gif
+ offset 303 125
+ frame data/chars/Ikkaku/861.gif
+ offset 310 128
+ frame data/chars/Ikkaku/862.gif
+ offset 313 129
+ frame data/chars/Ikkaku/863.gif
+
+anim 7011
+ delay 7
+ offset 39 37
+ frame data/chars/Ikkaku/864.gif
+ offset 47 43
+ frame data/chars/Ikkaku/865.gif
+ offset 51 46
+ frame data/chars/Ikkaku/866.gif
+ offset 57 49
+ frame data/chars/Ikkaku/867.gif
+ offset 58 50
+ frame data/chars/Ikkaku/868.gif
+ offset 63 56
+ frame data/chars/Ikkaku/869.gif
+ offset 65 55
+ frame data/chars/Ikkaku/870.gif
+ offset 67 58
+ frame data/chars/Ikkaku/871.gif
+
+anim freespecial1059
+ delay 7
+ offset 440 384
+ frame data/chars/Ikkaku/872.gif
+ offset 368 370
+ frame data/chars/Ikkaku/873.gif
+ offset 394 351
+ frame data/chars/Ikkaku/874.gif
+ offset 393 345
+ frame data/chars/Ikkaku/875.gif
+ offset 393 343
+ frame data/chars/Ikkaku/876.gif
+ offset 392 371
+ frame data/chars/Ikkaku/877.gif
+ offset 392 325
+ frame data/chars/Ikkaku/878.gif
+ offset 384 351
+ frame data/chars/Ikkaku/879.gif
+
+anim freespecial1060
+ delay 7
+ offset 233 98
+ frame data/chars/Ikkaku/880.gif
+ offset 260 98
+ frame data/chars/Ikkaku/881.gif
+ offset 260 97
+ frame data/chars/Ikkaku/882.gif
+ offset 242 80
+ frame data/chars/Ikkaku/883.gif
+ offset 231 98
+ frame data/chars/Ikkaku/884.gif
+ offset 210 98
+ frame data/chars/Ikkaku/885.gif
+ offset 238 97
+ frame data/chars/Ikkaku/886.gif
+ offset 149 43
+ frame data/chars/Ikkaku/887.gif
+
+anim freespecial1057
+ delay 7
+ offset 181 12
+ frame data/chars/Ikkaku/888.gif
+ offset 185 62
+ frame data/chars/Ikkaku/889.gif
+ offset 179 83
+ frame data/chars/Ikkaku/890.gif
+ offset 188 81
+ frame data/chars/Ikkaku/891.gif
+ offset 186 72
+ frame data/chars/Ikkaku/892.gif
+ offset 185 25
+ frame data/chars/Ikkaku/893.gif
+ offset 183 19
+ frame data/chars/Ikkaku/894.gif
+ offset 183 25
+ frame data/chars/Ikkaku/895.gif
+
+anim 10570
+ delay 7
+ offset 10 -37
+ frame data/chars/Ikkaku/896.gif
+ offset 18 -31
+ frame data/chars/Ikkaku/897.gif
+ offset 22 -13
+ frame data/chars/Ikkaku/898.gif
+ offset 24 20
+ frame data/chars/Ikkaku/899.gif
+ offset 29 50
+ frame data/chars/Ikkaku/900.gif
+ offset 38 53
+ frame data/chars/Ikkaku/901.gif
+ offset 42 54
+ frame data/chars/Ikkaku/902.gif
+ offset 43 49
+ frame data/chars/Ikkaku/903.gif
+ offset 23 36
+ frame data/chars/Ikkaku/904.gif
+ offset 24 27
+ frame data/chars/Ikkaku/905.gif
+ offset 22 8
+ frame data/chars/Ikkaku/906.gif
+ offset 20 7
+ frame data/chars/Ikkaku/907.gif
+ offset 13 4
+ frame data/chars/Ikkaku/908.gif
+ offset 9 -39
+ frame data/chars/Ikkaku/909.gif
+ offset 7 -41
+ frame data/chars/Ikkaku/910.gif
+ offset 3 -46
+ frame data/chars/Ikkaku/911.gif
+
+anim 7006
+ delay 7
+ offset 85 116
+ frame data/chars/Ikkaku/912.gif
+ offset 88 40
+ frame data/chars/Ikkaku/913.gif
+ offset 82 -10
+ frame data/chars/Ikkaku/914.gif
+ offset 73 -28
+ frame data/chars/Ikkaku/915.gif
+ offset 65 -52
+ frame data/chars/Ikkaku/916.gif

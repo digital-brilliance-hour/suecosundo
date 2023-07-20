@@ -1,0 +1,1337 @@
+name vasto lorde ichigo
+type none
+
+
+anim	0161
+	delay	7
+	offset	24 20
+	frame	data/chars/Akame/317.gif
+	offset	24 57
+	frame	data/chars/Akame/318.gif
+	offset	23 96
+	frame	data/chars/Akame/319.gif
+	offset	23 96
+	frame	data/chars/Akame/320.gif
+	offset	2 92
+	frame	data/chars/Akame/321.gif
+	offset	3 88
+	frame	data/chars/Akame/322.gif
+	offset	-11 87
+	frame	data/chars/Akame/323.gif
+		
+anim	0950
+	delay	7
+	offset	105 294
+	frame	data/chars/Akame/399.gif
+	offset	300 290
+	frame	data/chars/Akame/400.gif
+	offset	300 288
+	frame	data/chars/Akame/401.gif
+	offset	300 296
+	frame	data/chars/Akame/402.gif
+	offset	300 325
+	frame	data/chars/Akame/403.gif
+	offset	300 354
+	frame	data/chars/Akame/404.gif
+	offset	300 382
+	frame	data/chars/Akame/405.gif
+	offset	300 400
+	frame	data/chars/Akame/406.gif
+	offset	300 384
+	frame	data/chars/Akame/407.gif
+	offset	300 400
+	frame	data/chars/Akame/408.gif
+	offset	300 400
+	frame	data/chars/Akame/409.gif
+	offset	293 384
+	frame	data/chars/Akame/410.gif
+	offset	233 391
+	frame	data/chars/Akame/411.gif
+	offset	214 399
+	frame	data/chars/Akame/412.gif
+	offset	208 391
+	frame	data/chars/Akame/413.gif
+	offset	183 365
+	frame	data/chars/Akame/414.gif
+	offset	158 341
+	frame	data/chars/Akame/415.gif
+	offset	151 338
+	frame	data/chars/Akame/416.gif
+	offset	148 337
+	frame	data/chars/Akame/417.gif
+	offset	147 338
+	frame	data/chars/Akame/418.gif
+	offset	146 336
+	frame	data/chars/Akame/419.gif
+	offset	142 333
+	frame	data/chars/Akame/420.gif
+	offset	137 332
+	frame	data/chars/Akame/421.gif
+	offset	136 332
+	frame	data/chars/Akame/422.gif
+	offset	134 332
+	frame	data/chars/Akame/423.gif
+	offset	132 331
+	frame	data/chars/Akame/424.gif
+	offset	125 330
+	frame	data/chars/Akame/425.gif
+	offset	110 328
+	frame	data/chars/Akame/426.gif
+	offset	67 323
+	frame	data/chars/Akame/427.gif
+	offset	62 314
+	frame	data/chars/Akame/428.gif
+	offset	100 292
+	frame	data/chars/Akame/429.gif
+	offset	273 289
+	frame	data/chars/Akame/430.gif
+	offset	273 287
+	frame	data/chars/Akame/431.gif
+	offset	273 295
+	frame	data/chars/Akame/432.gif
+	offset	273 324
+	frame	data/chars/Akame/433.gif
+	offset	273 353
+	frame	data/chars/Akame/434.gif
+	offset	273 382
+	frame	data/chars/Akame/435.gif
+	offset	273 396
+	frame	data/chars/Akame/436.gif
+	offset	273 384
+	frame	data/chars/Akame/437.gif
+	offset	273 396
+	frame	data/chars/Akame/438.gif
+	offset	273 396
+	frame	data/chars/Akame/439.gif
+	offset	273 383
+	frame	data/chars/Akame/440.gif
+	offset	236 390
+	frame	data/chars/Akame/441.gif
+	offset	214 396
+	frame	data/chars/Akame/442.gif
+	offset	208 390
+	frame	data/chars/Akame/443.gif
+	offset	182 365
+	frame	data/chars/Akame/444.gif
+	offset	157 340
+	frame	data/chars/Akame/445.gif
+	offset	145 332
+	frame	data/chars/Akame/446.gif
+	offset	141 331
+	frame	data/chars/Akame/447.gif
+	offset	137 330
+	frame	data/chars/Akame/448.gif
+	offset	133 329
+	frame	data/chars/Akame/449.gif
+	offset	133 327
+	frame	data/chars/Akame/450.gif
+	offset	129 327
+	frame	data/chars/Akame/451.gif
+	offset	128 324
+	frame	data/chars/Akame/452.gif
+	offset	122 323
+	frame	data/chars/Akame/453.gif
+	offset	118 320
+	frame	data/chars/Akame/454.gif
+	offset	106 319
+	frame	data/chars/Akame/455.gif
+	offset	71 314
+	frame	data/chars/Akame/456.gif
+	offset	59 305
+	frame	data/chars/Akame/457.gif
+	offset	55 287
+	frame	data/chars/Akame/458.gif
+		
+anim	12000
+	delay	7
+	offset	47 85
+	frame	data/chars/Akame/537.gif
+	offset	173 193
+	frame	data/chars/Akame/538.gif
+	offset	179 340
+	frame	data/chars/Akame/539.gif
+	offset	175 484
+	frame	data/chars/Akame/540.gif
+	offset	168 482
+	frame	data/chars/Akame/541.gif
+	offset	104 467
+	frame	data/chars/Akame/542.gif
+	offset	71 457
+	frame	data/chars/Akame/543.gif
+	offset	54 456
+	frame	data/chars/Akame/544.gif
+	offset	64 238
+	frame	data/chars/Akame/545.gif
+	offset	65 233
+	frame	data/chars/Akame/546.gif
+	offset	47 226
+	frame	data/chars/Akame/547.gif
+	offset	31 224
+	frame	data/chars/Akame/548.gif
+		
+anim	20000
+	delay	7
+	offset	211 169
+	frame	data/chars/Akame/126.gif
+	offset	211 173
+	frame	data/chars/Akame/127.gif
+	offset	211 174
+	frame	data/chars/Akame/128.gif
+	offset	211 174
+	frame	data/chars/Akame/129.gif
+	offset	211 174
+	frame	data/chars/Akame/130.gif
+	offset	211 174
+	frame	data/chars/Akame/131.gif
+	offset	211 174
+	frame	data/chars/Akame/132.gif
+	offset	211 174
+	frame	data/chars/Akame/133.gif
+	offset	211 174
+	frame	data/chars/Akame/134.gif
+	offset	211 174
+	frame	data/chars/Akame/135.gif
+	offset	211 174
+	frame	data/chars/Akame/136.gif
+	offset	211 174
+	frame	data/chars/Akame/137.gif
+	offset	211 174
+	frame	data/chars/Akame/138.gif
+	offset	211 174
+	frame	data/chars/Akame/139.gif
+	offset	211 174
+	frame	data/chars/Akame/140.gif
+		
+anim	30000
+	delay	7
+	offset	155 122
+	frame	data/chars/Akame/512.gif
+	offset	315 255
+	frame	data/chars/Akame/513.gif
+	offset	315 255
+	frame	data/chars/Akame/514.gif
+	offset	315 255
+	frame	data/chars/Akame/515.gif
+	offset	315 255
+	frame	data/chars/Akame/516.gif
+	offset	315 257
+	frame	data/chars/Akame/517.gif
+	offset	182 208
+	frame	data/chars/Akame/518.gif
+	offset	159 174
+	frame	data/chars/Akame/519.gif
+	offset	315 255
+	frame	data/chars/Akame/520.gif
+	offset	315 255
+	frame	data/chars/Akame/521.gif
+	offset	315 255
+	frame	data/chars/Akame/522.gif
+	offset	315 255
+	frame	data/chars/Akame/523.gif
+	offset	315 255
+	frame	data/chars/Akame/524.gif
+	offset	315 255
+	frame	data/chars/Akame/525.gif
+	offset	315 255
+	frame	data/chars/Akame/526.gif
+	offset	315 255
+	frame	data/chars/Akame/527.gif
+	offset	315 255
+	frame	data/chars/Akame/528.gif
+		
+anim	7000
+	delay	7
+	offset	24 24
+	frame	data/chars/Akame/482.gif
+	offset	19 19
+	frame	data/chars/Akame/483.gif
+	offset	14 15
+	frame	data/chars/Akame/484.gif
+	offset	9 16
+	frame	data/chars/Akame/485.gif
+	offset	11 19
+	frame	data/chars/Akame/486.gif
+	offset	12 22
+	frame	data/chars/Akame/487.gif
+	offset	7 25
+	frame	data/chars/Akame/488.gif
+	offset	11 23
+	frame	data/chars/Akame/489.gif
+	offset	12 23
+	frame	data/chars/Akame/490.gif
+	offset	12 24
+	frame	data/chars/Akame/491.gif
+	offset	13 31
+	frame	data/chars/Akame/492.gif
+	offset	13 32
+	frame	data/chars/Akame/493.gif
+	offset	13 33
+	frame	data/chars/Akame/494.gif
+	offset	13 35
+	frame	data/chars/Akame/495.gif
+	offset	13 36
+	frame	data/chars/Akame/496.gif
+	offset	13 36
+	frame	data/chars/Akame/497.gif
+	offset	11 37
+	frame	data/chars/Akame/498.gif
+	offset	10 38
+	frame	data/chars/Akame/499.gif
+	offset	7 40
+	frame	data/chars/Akame/500.gif
+	offset	8 41
+	frame	data/chars/Akame/501.gif
+	offset	2 43
+	frame	data/chars/Akame/502.gif
+		
+anim	7010
+	delay	7
+	offset	72 81
+	frame	data/chars/Akame/192.gif
+	offset	88 98
+	frame	data/chars/Akame/193.gif
+	offset	104 107
+	frame	data/chars/Akame/194.gif
+	offset	108 114
+	frame	data/chars/Akame/195.gif
+	offset	95 118
+	frame	data/chars/Akame/196.gif
+		
+anim	7020
+	delay	7
+	offset	82 20
+	frame	data/chars/Akame/141.gif
+	offset	86 20
+	frame	data/chars/Akame/142.gif
+	offset	79 15
+	frame	data/chars/Akame/143.gif
+	offset	79 15
+	frame	data/chars/Akame/144.gif
+	offset	78 15
+	frame	data/chars/Akame/145.gif
+	offset	79 15
+	frame	data/chars/Akame/146.gif
+	offset	78 15
+	frame	data/chars/Akame/147.gif
+	offset	79 15
+	frame	data/chars/Akame/148.gif
+	offset	77 15
+	frame	data/chars/Akame/149.gif
+	offset	77 14
+	frame	data/chars/Akame/150.gif
+		
+anim	7030
+	delay	7
+	offset	41 37
+	frame	data/chars/Akame/151.gif
+		
+anim	7052
+	delay	7
+	offset	179 41
+	frame	data/chars/Akame/224.gif
+	offset	178 43
+	frame	data/chars/Akame/225.gif
+	offset	219 45
+	frame	data/chars/Akame/226.gif
+	offset	225 59
+	frame	data/chars/Akame/227.gif
+	offset	222 62
+	frame	data/chars/Akame/228.gif
+	offset	223 59
+	frame	data/chars/Akame/229.gif
+	offset	226 60
+	frame	data/chars/Akame/230.gif
+	offset	219 63
+	frame	data/chars/Akame/231.gif
+	offset	209 63
+	frame	data/chars/Akame/232.gif
+		
+anim	7110
+	delay	7
+	offset	339 504
+	frame	data/chars/Akame/152.gif
+	offset	363 531
+	frame	data/chars/Akame/153.gif
+	offset	374 479
+	frame	data/chars/Akame/154.gif
+	offset	384 504
+	frame	data/chars/Akame/155.gif
+	offset	323 527
+	frame	data/chars/Akame/156.gif
+	offset	346 544
+	frame	data/chars/Akame/157.gif
+	offset	357 516
+	frame	data/chars/Akame/158.gif
+	offset	378 528
+	frame	data/chars/Akame/159.gif
+	offset	384 537
+	frame	data/chars/Akame/160.gif
+	offset	396 545
+	frame	data/chars/Akame/161.gif
+	offset	402 503
+	frame	data/chars/Akame/162.gif
+	offset	420 525
+	frame	data/chars/Akame/163.gif
+	offset	421 540
+	frame	data/chars/Akame/164.gif
+	offset	427 541
+	frame	data/chars/Akame/165.gif
+	offset	436 515
+	frame	data/chars/Akame/166.gif
+	offset	443 520
+	frame	data/chars/Akame/167.gif
+	offset	446 508
+	frame	data/chars/Akame/168.gif
+	offset	446 519
+	frame	data/chars/Akame/169.gif
+	offset	452 531
+	frame	data/chars/Akame/170.gif
+	offset	460 540
+	frame	data/chars/Akame/171.gif
+	offset	461 527
+	frame	data/chars/Akame/172.gif
+	offset	463 537
+	frame	data/chars/Akame/173.gif
+	offset	464 545
+	frame	data/chars/Akame/174.gif
+	offset	465 527
+	frame	data/chars/Akame/175.gif
+	offset	466 538
+	frame	data/chars/Akame/176.gif
+	offset	466 549
+	frame	data/chars/Akame/177.gif
+	offset	463 558
+	frame	data/chars/Akame/178.gif
+	offset	450 534
+	frame	data/chars/Akame/179.gif
+	offset	452 531
+	frame	data/chars/Akame/180.gif
+	offset	452 528
+	frame	data/chars/Akame/181.gif
+	offset	450 527
+	frame	data/chars/Akame/182.gif
+	offset	453 529
+	frame	data/chars/Akame/183.gif
+	offset	438 528
+	frame	data/chars/Akame/184.gif
+	offset	396 523
+	frame	data/chars/Akame/185.gif
+	offset	397 528
+	frame	data/chars/Akame/186.gif
+	offset	398 527
+	frame	data/chars/Akame/187.gif
+	offset	396 527
+	frame	data/chars/Akame/188.gif
+	offset	376 525
+	frame	data/chars/Akame/189.gif
+	offset	331 522
+	frame	data/chars/Akame/190.gif
+	offset	331 490
+	frame	data/chars/Akame/191.gif
+		
+anim	7200
+	delay	7
+	offset	75 68
+	frame	data/chars/Akame/197.gif
+	offset	72 68
+	frame	data/chars/Akame/198.gif
+	offset	78 67
+	frame	data/chars/Akame/199.gif
+	offset	51 12
+	frame	data/chars/Akame/200.gif
+	offset	51 12
+	frame	data/chars/Akame/201.gif
+	offset	50 14
+	frame	data/chars/Akame/202.gif
+	offset	88 16
+	frame	data/chars/Akame/203.gif
+	offset	87 16
+	frame	data/chars/Akame/204.gif
+	offset	87 17
+	frame	data/chars/Akame/205.gif
+	offset	64 43
+	frame	data/chars/Akame/206.gif
+	offset	65 46
+	frame	data/chars/Akame/207.gif
+	offset	70 43
+	frame	data/chars/Akame/208.gif
+	offset	73 88
+	frame	data/chars/Akame/209.gif
+	offset	70 87
+	frame	data/chars/Akame/210.gif
+	offset	76 88
+	frame	data/chars/Akame/211.gif
+	offset	47 36
+	frame	data/chars/Akame/212.gif
+	offset	51 39
+	frame	data/chars/Akame/213.gif
+	offset	56 35
+	frame	data/chars/Akame/214.gif
+	offset	97 91
+	frame	data/chars/Akame/215.gif
+	offset	97 87
+	frame	data/chars/Akame/216.gif
+	offset	88 85
+	frame	data/chars/Akame/217.gif
+	offset	51 48
+	frame	data/chars/Akame/218.gif
+	offset	52 48
+	frame	data/chars/Akame/219.gif
+	offset	55 50
+	frame	data/chars/Akame/220.gif
+	offset	65 33
+	frame	data/chars/Akame/221.gif
+	offset	64 31
+	frame	data/chars/Akame/222.gif
+	offset	64 36
+	frame	data/chars/Akame/223.gif
+		
+anim	8250
+	delay	7
+	offset	57 10
+	frame	data/chars/Akame/243.gif
+	offset	91 20
+	frame	data/chars/Akame/244.gif
+	offset	122 29
+	frame	data/chars/Akame/245.gif
+	offset	150 38
+	frame	data/chars/Akame/246.gif
+	offset	174 45
+	frame	data/chars/Akame/247.gif
+	offset	195 50
+	frame	data/chars/Akame/248.gif
+	offset	212 53
+	frame	data/chars/Akame/249.gif
+	offset	226 54
+	frame	data/chars/Akame/250.gif
+	offset	237 54
+	frame	data/chars/Akame/251.gif
+	offset	245 54
+	frame	data/chars/Akame/252.gif
+	offset	252 53
+	frame	data/chars/Akame/253.gif
+	offset	266 52
+	frame	data/chars/Akame/254.gif
+	offset	284 50
+	frame	data/chars/Akame/255.gif
+	offset	298 48
+	frame	data/chars/Akame/256.gif
+	offset	313 49
+	frame	data/chars/Akame/257.gif
+	offset	328 50
+	frame	data/chars/Akame/258.gif
+	offset	343 50
+	frame	data/chars/Akame/259.gif
+	offset	359 51
+	frame	data/chars/Akame/260.gif
+	offset	373 51
+	frame	data/chars/Akame/261.gif
+	offset	388 51
+	frame	data/chars/Akame/262.gif
+	offset	404 51
+	frame	data/chars/Akame/263.gif
+	offset	418 51
+	frame	data/chars/Akame/264.gif
+	offset	411 50
+	frame	data/chars/Akame/265.gif
+	offset	421 50
+	frame	data/chars/Akame/266.gif
+	offset	431 49
+	frame	data/chars/Akame/267.gif
+	offset	446 48
+	frame	data/chars/Akame/268.gif
+	offset	462 47
+	frame	data/chars/Akame/269.gif
+	offset	446 45
+	frame	data/chars/Akame/270.gif
+	offset	443 44
+	frame	data/chars/Akame/271.gif
+	offset	456 42
+	frame	data/chars/Akame/272.gif
+	offset	468 40
+	frame	data/chars/Akame/273.gif
+	offset	482 38
+	frame	data/chars/Akame/274.gif
+	offset	392 36
+	frame	data/chars/Akame/275.gif
+	offset	345 34
+	frame	data/chars/Akame/276.gif
+	offset	319 31
+	frame	data/chars/Akame/277.gif
+	offset	322 29
+	frame	data/chars/Akame/278.gif
+	offset	327 27
+	frame	data/chars/Akame/279.gif
+	offset	336 20
+	frame	data/chars/Akame/280.gif
+	offset	339 20
+	frame	data/chars/Akame/281.gif
+	offset	343 13
+	frame	data/chars/Akame/282.gif
+	offset	348 12
+	frame	data/chars/Akame/283.gif
+	offset	346 -14
+	frame	data/chars/Akame/284.gif
+	offset	389 -73
+	frame	data/chars/Akame/285.gif
+	offset	298 -92
+	frame	data/chars/Akame/286.gif
+	offset	399 -85
+	frame	data/chars/Akame/287.gif
+	offset	299 -100
+	frame	data/chars/Akame/288.gif
+	offset	409 -102
+	frame	data/chars/Akame/289.gif
+	offset	414 -116
+	frame	data/chars/Akame/290.gif
+	offset	308 -111
+	frame	data/chars/Akame/291.gif
+	offset	342 -126
+	frame	data/chars/Akame/292.gif
+	offset	370 -116
+	frame	data/chars/Akame/293.gif
+	offset	433 -132
+	frame	data/chars/Akame/294.gif
+	offset	438 -127
+	frame	data/chars/Akame/295.gif
+	offset	443 -135
+	frame	data/chars/Akame/296.gif
+	offset	448 -155
+	frame	data/chars/Akame/297.gif
+	offset	453 -148
+	frame	data/chars/Akame/298.gif
+	offset	458 -148
+	frame	data/chars/Akame/299.gif
+	offset	339 -150
+	frame	data/chars/Akame/300.gif
+	offset	344 -164
+	frame	data/chars/Akame/301.gif
+	offset	345 -169
+	frame	data/chars/Akame/302.gif
+	offset	351 -187
+	frame	data/chars/Akame/303.gif
+	offset	351 -184
+	frame	data/chars/Akame/304.gif
+	offset	365 -182
+	frame	data/chars/Akame/305.gif
+	offset	359 -200
+	frame	data/chars/Akame/306.gif
+	offset	365 -197
+	frame	data/chars/Akame/307.gif
+		
+anim	8800
+	delay	7
+	offset	446 280
+	frame	data/chars/Akame/529.gif
+	offset	422 325
+	frame	data/chars/Akame/530.gif
+	offset	448 306
+	frame	data/chars/Akame/531.gif
+	offset	447 300
+	frame	data/chars/Akame/532.gif
+	offset	447 298
+	frame	data/chars/Akame/533.gif
+	offset	446 326
+	frame	data/chars/Akame/534.gif
+	offset	438 306
+	frame	data/chars/Akame/535.gif
+	offset	333 441
+	frame	data/chars/Akame/536.gif
+		
+anim	9000
+	delay	7
+	offset	0 0
+	frame	data/chars/Akame/0.gif
+	offset	0 0
+	frame	data/chars/Akame/1.gif
+	offset	142 118
+	frame	data/chars/Akame/2.gif
+		
+anim	9007
+	delay	7
+	offset	75 10
+	frame	data/chars/Akame/325.gif
+	offset	93 12
+	frame	data/chars/Akame/326.gif
+	offset	111 14
+	frame	data/chars/Akame/327.gif
+	offset	124 16
+	frame	data/chars/Akame/328.gif
+	offset	122 16
+	frame	data/chars/Akame/329.gif
+		
+anim	9022
+	delay	7
+	offset	88 130
+	frame	data/chars/Akame/330.gif
+	offset	93 218
+	frame	data/chars/Akame/331.gif
+	offset	80 250
+	frame	data/chars/Akame/332.gif
+	offset	63 249
+	frame	data/chars/Akame/333.gif
+	offset	55 248
+	frame	data/chars/Akame/334.gif
+	offset	58 248
+	frame	data/chars/Akame/335.gif
+	offset	53 250
+	frame	data/chars/Akame/336.gif
+	offset	62 259
+	frame	data/chars/Akame/337.gif
+	offset	64 258
+	frame	data/chars/Akame/338.gif
+	offset	66 258
+	frame	data/chars/Akame/339.gif
+	offset	34 257
+	frame	data/chars/Akame/340.gif
+	offset	21 258
+	frame	data/chars/Akame/341.gif
+	offset	36 255
+	frame	data/chars/Akame/342.gif
+	offset	36 250
+	frame	data/chars/Akame/343.gif
+	offset	34 246
+	frame	data/chars/Akame/344.gif
+	offset	-96 226
+	frame	data/chars/Akame/345.gif
+		
+anim	attack1
+	delay	7
+	offset	27 45
+	frame	data/chars/Akame/36.gif
+	offset	27 49
+	frame	data/chars/Akame/37.gif
+	offset	24 51
+	frame	data/chars/Akame/38.gif
+	offset	24 51
+	frame	data/chars/Akame/39.gif
+	offset	41 48
+	frame	data/chars/Akame/40.gif
+	offset	27 45
+	frame	data/chars/Akame/41.gif
+	offset	28 50
+	frame	data/chars/Akame/42.gif
+		
+anim	attack2
+	frame	data/chars/Akame/44.gif
+	offset	38 64
+	frame	data/chars/Akame/45.gif
+	offset	39 77
+	frame	data/chars/Akame/46.gif
+	offset	45 78
+	frame	data/chars/Akame/47.gif
+	offset	33 50
+	frame	data/chars/Akame/48.gif
+		
+anim	attack200
+	delay	7
+	offset	27 45
+	frame	data/chars/Akame/36.gif
+	offset	27 49
+	frame	data/chars/Akame/37.gif
+	offset	24 51
+	frame	data/chars/Akame/38.gif
+	offset	24 51
+	frame	data/chars/Akame/39.gif
+	offset	41 48
+	frame	data/chars/Akame/40.gif
+	offset	27 45
+	frame	data/chars/Akame/41.gif
+	offset	28 50
+	frame	data/chars/Akame/42.gif
+	offset	32 73
+	frame	data/chars/Akame/43.gif
+	offset	39 59
+	frame	data/chars/Akame/44.gif
+	offset	38 64
+	frame	data/chars/Akame/45.gif
+	offset	39 77
+	frame	data/chars/Akame/46.gif
+	offset	45 78
+	frame	data/chars/Akame/47.gif
+	offset	33 50
+	frame	data/chars/Akame/48.gif
+	offset	22 58
+	frame	data/chars/Akame/49.gif
+	offset	28 55
+	frame	data/chars/Akame/50.gif
+	offset	37 68
+	frame	data/chars/Akame/51.gif
+	offset	39 68
+	frame	data/chars/Akame/52.gif
+	offset	37 68
+	frame	data/chars/Akame/53.gif
+	offset	28 94
+	frame	data/chars/Akame/54.gif
+	offset	31 94
+	frame	data/chars/Akame/55.gif
+	offset	30 71
+	frame	data/chars/Akame/56.gif
+	offset	32 70
+	frame	data/chars/Akame/57.gif
+	offset	32 47
+	frame	data/chars/Akame/58.gif
+	offset	25 55
+	frame	data/chars/Akame/59.gif
+	offset	39 69
+	frame	data/chars/Akame/60.gif
+	offset	40 47
+	frame	data/chars/Akame/61.gif
+	offset	33 63
+	frame	data/chars/Akame/62.gif
+	offset	36 48
+	frame	data/chars/Akame/63.gif
+	offset	33 51
+	frame	data/chars/Akame/64.gif
+	offset	26 50
+	frame	data/chars/Akame/65.gif
+	offset	27 51
+	frame	data/chars/Akame/66.gif
+	offset	29 52
+	frame	data/chars/Akame/67.gif
+	offset	30 55
+	frame	data/chars/Akame/68.gif
+	offset	29 54
+	frame	data/chars/Akame/69.gif
+	offset	33 43
+	frame	data/chars/Akame/70.gif
+	offset	56 46
+	frame	data/chars/Akame/71.gif
+	offset	71 55
+	frame	data/chars/Akame/72.gif
+	offset	49 41
+	frame	data/chars/Akame/73.gif
+	offset	26 55
+	frame	data/chars/Akame/74.gif
+	offset	29 62
+	frame	data/chars/Akame/75.gif
+	offset	28 83
+	frame	data/chars/Akame/76.gif
+	offset	36 59
+	frame	data/chars/Akame/77.gif
+	offset	44 59
+	frame	data/chars/Akame/78.gif
+	offset	43 56
+	frame	data/chars/Akame/79.gif
+	offset	26 60
+	frame	data/chars/Akame/80.gif
+	offset	37 67
+	frame	data/chars/Akame/81.gif
+	offset	31 95
+	frame	data/chars/Akame/82.gif
+	offset	17 70
+	frame	data/chars/Akame/83.gif
+	offset	29 68
+	frame	data/chars/Akame/84.gif
+	offset	24 51
+	frame	data/chars/Akame/85.gif
+	offset	24 54
+	frame	data/chars/Akame/86.gif
+	offset	39 56
+	frame	data/chars/Akame/87.gif
+		
+anim	attack3
+	frame	data/chars/Akame/58.gif
+	offset	25 55
+	frame	data/chars/Akame/59.gif
+	offset	39 69
+	frame	data/chars/Akame/60.gif
+	offset	40 47
+	frame	data/chars/Akame/61.gif
+	offset	33 63
+	frame	data/chars/Akame/62.gif
+		
+anim	freespecial1050
+	delay	7
+	offset	101 82
+	frame	data/chars/Akame/468.gif
+	offset	190 129
+	frame	data/chars/Akame/469.gif
+	offset	193 133
+	frame	data/chars/Akame/470.gif
+	offset	194 131
+	frame	data/chars/Akame/471.gif
+	offset	194 130
+	frame	data/chars/Akame/472.gif
+	offset	190 132
+	frame	data/chars/Akame/473.gif
+	offset	291 206
+	frame	data/chars/Akame/474.gif
+	offset	269 206
+	frame	data/chars/Akame/475.gif
+	offset	252 173
+	frame	data/chars/Akame/476.gif
+	offset	228 165
+	frame	data/chars/Akame/477.gif
+	offset	228 143
+	frame	data/chars/Akame/478.gif
+	offset	228 127
+	frame	data/chars/Akame/479.gif
+	offset	228 122
+	frame	data/chars/Akame/480.gif
+	offset	228 122
+	frame	data/chars/Akame/481.gif
+		
+anim	freespecial1051
+	delay	7
+	offset	40 73
+	frame	data/chars/Akame/362.gif
+	offset	33 70
+	frame	data/chars/Akame/363.gif
+	offset	30 77
+	frame	data/chars/Akame/364.gif
+	offset	42 70
+	frame	data/chars/Akame/365.gif
+	offset	21 80
+	frame	data/chars/Akame/366.gif
+	offset	34 70
+	frame	data/chars/Akame/367.gif
+	offset	39 73
+	frame	data/chars/Akame/368.gif
+	offset	36 70
+	frame	data/chars/Akame/369.gif
+	offset	38 77
+	frame	data/chars/Akame/370.gif
+	offset	42 80
+	frame	data/chars/Akame/371.gif
+	offset	39 79
+	frame	data/chars/Akame/372.gif
+	offset	36 70
+	frame	data/chars/Akame/373.gif
+	offset	35 63
+	frame	data/chars/Akame/374.gif
+	offset	61 72
+	frame	data/chars/Akame/375.gif
+	offset	58 69
+	frame	data/chars/Akame/376.gif
+	offset	61 80
+	frame	data/chars/Akame/377.gif
+	offset	53 79
+	frame	data/chars/Akame/378.gif
+	offset	61 79
+	frame	data/chars/Akame/379.gif
+	offset	61 78
+	frame	data/chars/Akame/380.gif
+	offset	51 68
+	frame	data/chars/Akame/381.gif
+	offset	49 69
+	frame	data/chars/Akame/382.gif
+	offset	47 68
+	frame	data/chars/Akame/383.gif
+		
+anim	freespecial1052
+	delay	7
+	offset	138 45
+	frame	data/chars/Akame/459.gif
+	offset	138 45
+	frame	data/chars/Akame/460.gif
+	offset	138 98
+	frame	data/chars/Akame/461.gif
+	offset	137 98
+	frame	data/chars/Akame/462.gif
+	offset	135 98
+	frame	data/chars/Akame/463.gif
+	offset	103 87
+	frame	data/chars/Akame/464.gif
+	offset	99 76
+	frame	data/chars/Akame/465.gif
+	offset	92 16
+	frame	data/chars/Akame/466.gif
+		
+anim	freespecial1053
+	delay	7
+	offset	10 -54
+	frame	data/chars/Akame/384.gif
+	offset	12 -20
+	frame	data/chars/Akame/385.gif
+	offset	18 24
+	frame	data/chars/Akame/386.gif
+	offset	22 83
+	frame	data/chars/Akame/387.gif
+	offset	25 63
+	frame	data/chars/Akame/388.gif
+	offset	31 95
+	frame	data/chars/Akame/389.gif
+	offset	26 110
+	frame	data/chars/Akame/390.gif
+	offset	31 104
+	frame	data/chars/Akame/391.gif
+	offset	20 122
+	frame	data/chars/Akame/392.gif
+	offset	31 145
+	frame	data/chars/Akame/393.gif
+	offset	31 160
+	frame	data/chars/Akame/394.gif
+	offset	31 167
+	frame	data/chars/Akame/395.gif
+	offset	31 178
+	frame	data/chars/Akame/396.gif
+	offset	30 183
+	frame	data/chars/Akame/397.gif
+	offset	28 184
+	frame	data/chars/Akame/398.gif
+		
+anim	freespecial1054
+	delay	7
+	offset	110 110
+	frame	data/chars/Akame/308.gif
+		
+anim	freespecial1055
+	delay	7
+	offset	36 7
+	frame	data/chars/Akame/233.gif
+	offset	38 25
+	frame	data/chars/Akame/234.gif
+	offset	42 49
+	frame	data/chars/Akame/235.gif
+	offset	48 59
+	frame	data/chars/Akame/236.gif
+	offset	49 62
+	frame	data/chars/Akame/237.gif
+	offset	48 61
+	frame	data/chars/Akame/238.gif
+	offset	45 61
+	frame	data/chars/Akame/239.gif
+	offset	42 62
+	frame	data/chars/Akame/240.gif
+	offset	40 60
+	frame	data/chars/Akame/241.gif
+	offset	39 59
+	frame	data/chars/Akame/242.gif
+		
+anim	freespecial1056
+	delay	7
+	offset	318 318
+	frame	data/chars/Akame/467.gif
+		
+anim	freespecial1061
+	delay	7
+	offset	197 12
+	frame	data/chars/Akame/309.gif
+	offset	192 130
+	frame	data/chars/Akame/310.gif
+	offset	166 130
+	frame	data/chars/Akame/311.gif
+	offset	165 131
+	frame	data/chars/Akame/312.gif
+	offset	175 135
+	frame	data/chars/Akame/313.gif
+	offset	143 138
+	frame	data/chars/Akame/314.gif
+	offset	143 135
+	frame	data/chars/Akame/315.gif
+	offset	142 127
+	frame	data/chars/Akame/316.gif
+		
+anim	freespecial1067
+	delay	7
+	offset	-30 62
+	frame	data/chars/Akame/503.gif
+	offset	-110 61
+	frame	data/chars/Akame/504.gif
+	offset	205 103
+	frame	data/chars/Akame/505.gif
+	offset	207 94
+	frame	data/chars/Akame/506.gif
+	offset	195 40
+	frame	data/chars/Akame/507.gif
+	offset	182 10
+	frame	data/chars/Akame/508.gif
+	offset	175 -23
+	frame	data/chars/Akame/509.gif
+	offset	173 -41
+	frame	data/chars/Akame/510.gif
+		
+anim	freespecial1080
+	delay	7
+	offset	13 -34
+	frame	data/chars/Akame/346.gif
+	offset	20 -29
+	frame	data/chars/Akame/347.gif
+	offset	25 10
+	frame	data/chars/Akame/348.gif
+	offset	27 23
+	frame	data/chars/Akame/349.gif
+	offset	32 52
+	frame	data/chars/Akame/350.gif
+	offset	41 56
+	frame	data/chars/Akame/351.gif
+	offset	46 57
+	frame	data/chars/Akame/352.gif
+	offset	46 52
+	frame	data/chars/Akame/353.gif
+	offset	25 39
+	frame	data/chars/Akame/354.gif
+	offset	27 29
+	frame	data/chars/Akame/355.gif
+	offset	24 11
+	frame	data/chars/Akame/356.gif
+	offset	22 10
+	frame	data/chars/Akame/357.gif
+	offset	16 7
+	frame	data/chars/Akame/358.gif
+	offset	11 -38
+	frame	data/chars/Akame/359.gif
+	offset	9 -39
+	frame	data/chars/Akame/360.gif
+	offset	5 -43
+	frame	data/chars/Akame/361.gif
+		
+anim	freespecial2520
+	delay	7
+	offset	428 446
+	frame	data/chars/Akame/511.gif
+		
+anim	freespecial4141
+	delay	7
+	offset	151 149
+	frame	data/chars/Akame/549.gif
+	offset	151 149
+	frame	data/chars/Akame/550.gif
+	offset	151 149
+	frame	data/chars/Akame/551.gif
+	offset	151 149
+	frame	data/chars/Akame/552.gif
+	offset	151 149
+	frame	data/chars/Akame/553.gif
+	offset	151 149
+	frame	data/chars/Akame/554.gif
+	offset	151 149
+	frame	data/chars/Akame/555.gif
+	offset	151 149
+	frame	data/chars/Akame/556.gif
+	offset	151 149
+	frame	data/chars/Akame/557.gif
+	offset	151 149
+	frame	data/chars/Akame/558.gif
+	offset	151 149
+	frame	data/chars/Akame/559.gif
+	offset	151 149
+	frame	data/chars/Akame/560.gif
+	offset	151 149
+	frame	data/chars/Akame/561.gif
+	offset	151 149
+	frame	data/chars/Akame/562.gif
+	offset	151 149
+	frame	data/chars/Akame/563.gif
+	offset	151 149
+	frame	data/chars/Akame/564.gif
+	offset	151 149
+	frame	data/chars/Akame/565.gif
+	offset	151 149
+	frame	data/chars/Akame/566.gif
+	offset	151 149
+	frame	data/chars/Akame/567.gif
+	offset	151 149
+	frame	data/chars/Akame/568.gif
+	offset	151 149
+	frame	data/chars/Akame/569.gif
+	offset	151 149
+	frame	data/chars/Akame/570.gif
+	offset	151 149
+	frame	data/chars/Akame/571.gif
+	offset	151 149
+	frame	data/chars/Akame/572.gif
+	offset	151 149
+	frame	data/chars/Akame/573.gif
+	offset	151 149
+	frame	data/chars/Akame/574.gif
+	offset	151 149
+	frame	data/chars/Akame/575.gif
+	offset	151 149
+	frame	data/chars/Akame/576.gif
+	offset	151 149
+	frame	data/chars/Akame/577.gif
+	offset	151 149
+	frame	data/chars/Akame/578.gif
+	offset	151 149
+	frame	data/chars/Akame/579.gif
+	offset	151 149
+	frame	data/chars/Akame/580.gif
+	offset	151 149
+	frame	data/chars/Akame/581.gif
+	offset	151 149
+	frame	data/chars/Akame/582.gif
+	offset	151 149
+	frame	data/chars/Akame/583.gif
+	offset	151 149
+	frame	data/chars/Akame/584.gif
+	offset	151 149
+	frame	data/chars/Akame/585.gif
+	offset	151 149
+	frame	data/chars/Akame/586.gif
+	offset	151 149
+	frame	data/chars/Akame/587.gif
+	offset	151 149
+	frame	data/chars/Akame/588.gif
+	offset	151 149
+	frame	data/chars/Akame/589.gif
+	offset	151 149
+	frame	data/chars/Akame/590.gif
+	offset	151 149
+	frame	data/chars/Akame/591.gif
+	offset	151 149
+	frame	data/chars/Akame/592.gif
+	offset	151 149
+	frame	data/chars/Akame/593.gif
+	offset	151 149
+	frame	data/chars/Akame/594.gif
+	offset	151 149
+	frame	data/chars/Akame/595.gif
+	offset	151 149
+	frame	data/chars/Akame/596.gif
+	offset	151 149
+	frame	data/chars/Akame/597.gif
+	offset	151 149
+	frame	data/chars/Akame/598.gif
+	offset	36 47
+	frame	data/chars/Akame/599.gif
+	offset	36 47
+	frame	data/chars/Akame/600.gif
+		
+anim	idle
+	delay	7
+	offset	28 61
+	frame	data/chars/Akame/3.gif
+	offset	29 63
+	frame	data/chars/Akame/4.gif
+	offset	30 57
+	frame	data/chars/Akame/5.gif
+	offset	25 58
+	frame	data/chars/Akame/6.gif
+	offset	25 53
+	frame	data/chars/Akame/7.gif
+	offset	26 52
+	frame	data/chars/Akame/8.gif
+	offset	25 50
+	frame	data/chars/Akame/9.gif
+	offset	23 51
+	frame	data/chars/Akame/10.gif
+	offset	26 49
+	frame	data/chars/Akame/11.gif
+	offset	21 48
+	frame	data/chars/Akame/12.gif
+	offset	25 50
+	frame	data/chars/Akame/13.gif
+	offset	22 50
+	frame	data/chars/Akame/14.gif
+	offset	19 49
+	frame	data/chars/Akame/15.gif
+	offset	25 54
+	frame	data/chars/Akame/16.gif
+	offset	25 50
+	frame	data/chars/Akame/17.gif
+		
+anim	freespecial1
+	frame	data/chars/Akame/63.gif
+	offset	33 51
+	frame	data/chars/Akame/64.gif
+	offset	26 50
+	frame	data/chars/Akame/65.gif
+	offset	27 51
+	frame	data/chars/Akame/66.gif
+	offset	29 52
+	frame	data/chars/Akame/67.gif
+	offset	30 55
+	frame	data/chars/Akame/68.gif
+	offset	29 54
+	frame	data/chars/Akame/69.gif
+	offset	33 43
+	frame	data/chars/Akame/70.gif
+	offset	56 46
+	frame	data/chars/Akame/71.gif
+	offset	71 55
+	frame	data/chars/Akame/72.gif
+	offset	49 41
+	frame	data/chars/Akame/73.gif
+		
+anim	freespecial2
+	frame	data/chars/Akame/74.gif
+	offset	29 62
+	frame	data/chars/Akame/75.gif
+	offset	28 83
+	frame	data/chars/Akame/76.gif
+	offset	36 59
+	frame	data/chars/Akame/77.gif
+	offset	44 59
+	frame	data/chars/Akame/78.gif
+	offset	43 56
+	frame	data/chars/Akame/79.gif
+		
+anim	freespecial3
+	frame	data/chars/Akame/80.gif
+	offset	37 67
+	frame	data/chars/Akame/81.gif
+	offset	31 95
+	frame	data/chars/Akame/82.gif
+	offset	17 70
+	frame	data/chars/Akame/83.gif
+	offset	29 68
+	frame	data/chars/Akame/84.gif
+		
+	anim	jumpanimation
+	offset	24 51
+	frame	data/chars/Akame/85.gif
+	offset	24 54
+	frame	data/chars/Akame/86.gif
+		
+anim	attack4
+	frame	data/chars/Akame/49.gif
+	offset	28 55
+	frame	data/chars/Akame/50.gif
+	offset	37 68
+	frame	data/chars/Akame/51.gif
+	offset	39 68
+	frame	data/chars/Akame/52.gif
+	offset	37 68
+	frame	data/chars/Akame/53.gif
+	offset	28 94
+	frame	data/chars/Akame/54.gif
+	offset	31 94
+	frame	data/chars/Akame/55.gif
+	offset	30 71
+	frame	data/chars/Akame/56.gif
+	offset	32 70
+	frame	data/chars/Akame/57.gif
+		
+anim	turn
+	delay	7
+	offset	29 52
+	frame	data/chars/Akame/18.gif
+	offset	26 58
+	frame	data/chars/Akame/19.gif
+	offset	28 60
+	frame	data/chars/Akame/20.gif
+	offset	27 59
+	frame	data/chars/Akame/21.gif
+	offset	31 34
+	frame	data/chars/Akame/22.gif
+	offset	24 34
+	frame	data/chars/Akame/23.gif
+	offset	12 53
+	frame	data/chars/Akame/24.gif
+	offset	27 57
+	frame	data/chars/Akame/25.gif
+	offset	28 32
+	frame	data/chars/Akame/26.gif
+	offset	42 37
+	frame	data/chars/Akame/27.gif
+	offset	29 47
+	frame	data/chars/Akame/28.gif
+	offset	21 44
+	frame	data/chars/Akame/29.gif
+	offset	27 44
+	frame	data/chars/Akame/30.gif
+	offset	33 31
+	frame	data/chars/Akame/31.gif
+	offset	33 31
+	frame	data/chars/Akame/32.gif
+	offset	33 31
+	frame	data/chars/Akame/33.gif
+	offset	33 31
+	frame	data/chars/Akame/34.gif
+	offset	27 45
+	frame	data/chars/Akame/35.gif
+		
+#|edited by openBor Stats v 0.67
+		

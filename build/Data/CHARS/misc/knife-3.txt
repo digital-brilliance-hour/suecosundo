@@ -1,0 +1,18 @@
+name	Knife3
+health	1
+type	enemy
+shadow	0
+
+candamage player npc
+hostile npc player
+onblocksscript data/scripts/enemy/screenedge.c
+
+anim	idle
+	loop	0
+	delay	1000
+	offset	12 4
+	attack	0 0 27 9 10 1 0 0 0 0
+	frame	data/chars/misc/knife-3.gif
+		
+#|edited by openBor Stats v 0.67
+		

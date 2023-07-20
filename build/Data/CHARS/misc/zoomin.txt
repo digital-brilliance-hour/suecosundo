@@ -1,0 +1,47 @@
+name	 zoomin
+type	 text
+subtype  noskip
+setlayer 999
+shadow	 0
+
+
+anim	idle
+	loop	1 1
+	delay	1
+	@cmd	setglobalvar "zoomentity" getlocalvar("self")
+	@cmd	setglobalvar "zoomx" 0
+	@cmd	setglobalvar "zoomy" -80
+	@script
+	void self = getlocalvar("self");
+        int zoomvalue = getglobalvar("zoomvalue");
+	int zoomspeed = getentityvar(self, "zoomspeed");
+	if(zoomvalue < 360) {
+             zoomvalue += getentityvar(self, "zoomspeed");
+	     zoomvalue = setglobalvar("zoomvalue", zoomvalue);
+	}
+	else {
+	     killentity(self);
+	}
+	@end_script	
+	offset	0 0
+	frame	data/chars/misc/empty.gif
+	frame	data/chars/misc/empty.gif
+	frame	data/chars/misc/empty.gif
+	frame	data/chars/misc/empty.gif
+	frame	data/chars/misc/empty.gif
+		
+anim	spawn
+	delay	1
+	loop	0
+	@script
+	void self = getlocalvar("self");
+     	setentityvar(self, "zoomvalue", 260);
+     	setentityvar(self, "zoomspeed", 10);
+	setglobalvar("zoomvalue", getentityvar(self, "zoomvalue"));
+     	executeanimation(self, openborconstant("ANI_IDLE"));
+	@end_script	
+	offset	0 0
+	frame	data/chars/misc/empty.gif
+		
+#|edited by openBor Stats v 0.67
+		

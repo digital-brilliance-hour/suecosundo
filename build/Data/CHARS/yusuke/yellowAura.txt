@@ -1,0 +1,37 @@
+name	yellowAura
+speed   15
+type 	none
+shadow	0
+setlayer 1000
+alpha 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+anim	idle
+	delay	10
+	loop	1
+	offset	147 313
+	frame	data/chars/yusuke/1121.gif
+	delay	9
+	offset	130 311
+	frame	data/chars/yusuke/1123.gif
+	offset	156 323
+	frame	data/chars/yusuke/1122.gif
+		
+#|edited by openBor Stats v 0.67
+		

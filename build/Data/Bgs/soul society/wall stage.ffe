@@ -1,0 +1,30 @@
+;0 always import the palette, 1 import only if all colors doesn't match to any existing palette
+noDuplicatePal = 0
+
+[PaletteDef]
+group = 1
+number = 0
+file = 1-0.act
+
+[PaletteDef]
+group = 1
+number = 1
+file = 1-1.act
+
+[SpriteDef]
+group = 1
+image = 0
+xaxis = 256
+yaxis = 495
+flags = 0
+palette = 1,0
+file = 1-0.png
+
+[SpriteDef]
+group = 1
+image = 1
+xaxis = 256
+yaxis = 80
+flags = 0
+palette = 1,1
+file = 1-1.png
