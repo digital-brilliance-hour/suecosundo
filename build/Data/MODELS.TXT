@@ -4,6 +4,7 @@
 # know		[name]		[path]		// Load when needed
 # 
 
+maxfreespecials 20
 
 # Required objects. These must always be loaded.
 load	Flash		data/chars/misc/flash.txt
@@ -13,6 +14,7 @@ load	Kula		data/chars/kula/kula.txt
 load	Max		data/chars/maxima/maxima.txt
 load	Mandy		data/chars/mary/mary.txt
 load	Mighty		data/chars/mighty/mighty.txt
+load    Ichigo      data/chars/Ichigo/Ichigo.txt
 
 # Items and other objects can be loaded when needed.
 know	Apple		data/chars/misc/apple.txt
@@ -64,3 +66,22 @@ know	Crab		data/chars/crab/crab.txt
 know	Lobster		data/chars/Lobster/Lobster.txt
 Load titleanimation Data/CHARS/misc/titleanimation/titleanimation.txt
 Load titlesprite Data/CHARS/misc/titlesprite/titlesprite.txt
+know Ikkaku data/chars/Ikkaku/Ikkaku.txt
+know Byakuya data/chars/Byakuya/Byakuya.txt
+know    Akame       data/chars/Akame/Akame.txt
+know Ulquiorra data/chars/Ulquiorra/Ulquiorra.txt
+load   regTensho data/chars/ichigo/regtensho.txt
+load   lgTensho data/chars/ichigo/lgtensho.txt
+load   windTwirl data/chars/ichigo/windtwirl.txt 
+load ichigoTransfomation data/chars/Ichigo_Bankai/Ichigo_Bankai.txt
+know biggestuga data/chars/Ichigo_Bankai/big-gestuga.txt
+know getsugatenshou data/chars/Ichigo_Bankai/getsuga-tenshou.txt
+know getsugalarge data/chars/Ichigo_Bankai/getsuga-large.txt
+know bTransformation 	data/chars/Ichigo_Bankai/btransformation.txt
+know groundblast 	data/chars/Ichigo_Bankai/ground-blast.txt
+know fastcuts 	data/chars/Ichigo_Bankai/fast-cuts.txt
+know getsugalarge data/chars/Ichigo_Bankai/getsuga-large.txt
+Load tint Data/CHARS/misc/effects/tint/tint.txt
+know  data/chars//.txt
+Load backonthetitlescreengrind Data/CHARS/misc/backonthetitlescreengrind/backonthetitlescreengrind.txt
+Load backonthetitlespritegrind Data/CHARS/misc/backonthetitlespritegrind/backonthetitlespritegrind.txt

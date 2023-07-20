@@ -12,8 +12,8 @@
 
 set	Grouping
 
-file	data/levels/example1.txt
-next
+
+
 file	data/levels/holes.txt
 next
 scene	data/scenes/ending.txt

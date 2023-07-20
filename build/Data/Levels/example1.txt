@@ -113,7 +113,7 @@ at	320
 #--group3-----------
 
 spawn	Trash
-item	money
+
 coords	370 165
 at	400
 
