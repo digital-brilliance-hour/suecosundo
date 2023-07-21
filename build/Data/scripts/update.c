@@ -314,14 +314,9 @@ void oncreate(){
   void Title2;
 
   void Title1;    
-  
-
   Title1 = loadsprite("data/chars/misc/titlescreengrind/frame0"); 
   setglobalvar("Title1", Title1);    
   
-      
- 
-
   Title2 = loadsprite("data/bgs/black.gif");
 
   Stage1 = loadsprite("data/sprites/stages/stage1.gif");

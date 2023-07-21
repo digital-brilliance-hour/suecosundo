@@ -12,12 +12,12 @@ anim	idle
 	delay	10
 	offset	351 113
 	@cmd	changeentityproperty getlocalvar("self") "direction" 1
-	frame	data/chars/misc/backonthetitlescreengrind/frame_0_delay-0.1s.png
+	frame	data/chars/misc/titlescreengrind/frame0.png
 	@cmd	changeentityproperty getlocalvar("self") "setlayer" -2000
-	frame	data/chars/misc/backonthetitlescreengrind/frame_0_delay-0.1s.png
-	frame	data/chars/misc/backonthetitlescreengrind/frame_1_delay-0.1s.png
-	frame	data/chars/misc/backonthetitlescreengrind/frame_2_delay-0.1s.png
-	frame	data/chars/misc/backonthetitlescreengrind/frame_3_delay-0.1s.png
+	frame	data/chars/misc/titlescreengrind/frame0.png
+	frame	data/chars/misc/titlescreengrind/frame_1_delay-0.1s.png
+	frame	data/chars/misc/titlescreengrind/frame_2_delay-0.1s.png
+	frame	data/chars/misc/titlescreengrind/frame_3_delay-0.1s.png
 		
 #|edited by openBor Stats v 0.67
 		

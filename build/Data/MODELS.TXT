@@ -83,5 +83,5 @@ know fastcuts 	data/chars/Ichigo_Bankai/fast-cuts.txt
 know getsugalarge data/chars/Ichigo_Bankai/getsuga-large.txt
 Load tint Data/CHARS/misc/effects/tint/tint.txt
 know  data/chars//.txt
-Load backonthetitlescreengrind Data/CHARS/misc/backonthetitlescreengrind/backonthetitlescreengrind.txt
-Load backonthetitlespritegrind Data/CHARS/misc/backonthetitlespritegrind/backonthetitlespritegrind.txt
+Load titlescreengrind Data/CHARS/misc/titlescreengrind/backonthetitlescreengrind.txt
+
