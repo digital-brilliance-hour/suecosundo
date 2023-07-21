@@ -1,17 +1,23 @@
-name  back on the title screen grind
+name  backonthetitlescreengrind
 health	 1
 speed 8
 type  panel
 shadow 0
-setlayer -2000
+setlayer 2000
 facing 1
 
 
+
+
+
+
+
 anim	idle
-	loop	1
+	loop	1 1
 	delay	10
 	offset	351 113
 	@cmd	changeentityproperty getlocalvar("self") "direction" 1
+	drawmethod	384 384
 	frame	data/chars/misc/titlescreengrind/frame0.png
 	@cmd	changeentityproperty getlocalvar("self") "setlayer" -2000
 	frame	data/chars/misc/titlescreengrind/frame0.png

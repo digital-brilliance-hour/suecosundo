@@ -1,12 +1,11 @@
 name  back on the title sprite grind
 health	 1
 nolife  1
-type  panel
+type  none
 speed 8
 shadow  0
 setlayer 2000
 facing 1
-
 
 anim	idle
 	loop	1 1

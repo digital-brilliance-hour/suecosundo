@@ -17,6 +17,21 @@ spawn	Angel
 coords	380 160
 at	800
 
+spawn	Angel
+coords	600 153
+at	800
+
+spawn	Angel
+coords	720 153
+at	800
+
+spawn	Angel
+coords	650 193
+at	800
+spawn	Angel
+coords	500 193
+at	800
+
 
 wait
 at	900
